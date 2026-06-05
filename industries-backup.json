@@ -1,0 +1,100 @@
+[
+  {
+    "etf": "SMH",
+    "ticker": "NVDA",
+    "name": "半導體",
+    "name_en": "Semiconductors",
+    "desc": "AI 晶片需求帶動先進製程與封裝產能吃緊，全球半導體市場規模持續創新高"
+  },
+  {
+    "etf": "AIQ",
+    "ticker": "MSFT",
+    "name": "人工智慧",
+    "name_en": "Artificial Intelligence",
+    "desc": "生成式 AI 滲透各行業，企業級 AI 應用與推理模型需求爆發性成長"
+  },
+  {
+    "etf": "SKYY",
+    "ticker": "AMZN",
+    "name": "雲端運算",
+    "name_en": "Cloud Computing",
+    "desc": "企業數位轉型剛需持續推動雲端基礎設施與 SaaS 服務成長"
+  },
+  {
+    "etf": "HACK",
+    "ticker": "CRWD",
+    "name": "資安防護",
+    "name_en": "Cybersecurity",
+    "desc": "地緣政治緊張與 AI 生成攻擊增加，網路安全支出創歷史新高"
+  },
+  {
+    "etf": "DRIV",
+    "ticker": "TSLA",
+    "name": "電動車",
+    "name_en": "Electric Vehicles",
+    "desc": "全球電動車滲透率突破 20% 關鍵點，新興市場需求加速"
+  },
+  {
+    "etf": "FINX",
+    "ticker": "SQ",
+    "name": "金融科技",
+    "name_en": "Fintech",
+    "desc": "嵌入式金融、即時支付與數位資產交易重塑金融服務業"
+  },
+  {
+    "etf": "XBI",
+    "ticker": "LLY",
+    "name": "生技製藥",
+    "name_en": "Biotech & Pharma",
+    "desc": "減肥藥、基因療法與 GLP-1 藥物引發生技產業新一輪成長週期"
+  },
+  {
+    "etf": "ICLN",
+    "ticker": "ENPH",
+    "name": "綠色能源",
+    "name_en": "Clean Energy",
+    "desc": "淨零碳排政策加速全球再生能源建置，太陽能與儲能需求暢旺"
+  },
+  {
+    "etf": "ITA",
+    "ticker": "LMT",
+    "name": "航太防衛",
+    "name_en": "Aerospace & Defense",
+    "desc": "各國國防預算創歷史新高，商業航太與衛星通訊快速擴張"
+  },
+  {
+    "etf": "METV",
+    "ticker": "META",
+    "name": "元宇宙／空間運算",
+    "name_en": "Metaverse & Spatial Computing",
+    "desc": "Apple Vision Pro 與 Meta AR 眼鏡帶動空間運算生態系逐步成形"
+  },
+  {
+    "etf": "BOTZ",
+    "ticker": "ROK",
+    "name": "機器人與自動化",
+    "name_en": "Robotics & Automation",
+    "desc": "製造業回流與 AI 賦能推動工業機器人與協作機器人需求成長"
+  },
+  {
+    "etf": "ESPO",
+    "ticker": "MSFT",
+    "name": "遊戲與電競",
+    "name_en": "Gaming & Esports",
+    "desc": "雲端串流遊戲與手遊市場持續擴張，AI 遊戲開發工具降低開發門檻"
+  },
+  {
+    "etf": "FIVG",
+    "ticker": "QCOM",
+    "name": "5G 與網路",
+    "name_en": "5G & Networking",
+    "desc": "5G-Advanced 與 6G 研發加速，邊緣運算與物聯網基礎設施佈建擴大"
+  },
+  {
+    "etf": "BLOK",
+    "ticker": "COIN",
+    "name": "區塊鏈與數位資產",
+    "name_en": "Blockchain & Digital Assets",
+    "desc": "機構法人採用加速，現貨 ETF 資金持續流入，監理框架逐步明朗"
+  }
+]

@@ -1,0 +1,139 @@
+{
+  "_meta": {
+    "languages": [
+      {"code": "zh-TW", "name": "繁體中文", "flag": "🇹🇼"},
+      {"code": "en",    "name": "English",    "flag": "🇬🇧"},
+      {"code": "es",    "name": "Español",    "flag": "🇪🇸"},
+      {"code": "hi",    "name": "हिन्दी",      "flag": "🇮🇳"},
+      {"code": "ar",    "name": "العربية",    "flag": "🇸🇦"},
+      {"code": "pt",    "name": "Português",  "flag": "🇧🇷"},
+      {"code": "bn",    "name": "বাংলা",      "flag": "🇧🇩"},
+      {"code": "ru",    "name": "Русский",    "flag": "🇷🇺"},
+      {"code": "ja",    "name": "日本語",      "flag": "🇯🇵"},
+      {"code": "fr",    "name": "Français",   "flag": "🇫🇷"},
+      {"code": "de",    "name": "Deutsch",    "flag": "🇩🇪"},
+      {"code": "ko",    "name": "한국어",      "flag": "🇰🇷"},
+      {"code": "vi",    "name": "Tiếng Việt", "flag": "🇻🇳"},
+      {"code": "it",    "name": "Italiano",   "flag": "🇮🇹"},
+      {"code": "tr",    "name": "Türkçe",     "flag": "🇹🇷"}
+    ]
+  },
+  "ui": {
+    "title": {
+      "zh-TW": "總經產業熱度",
+      "en": "Macro Industry Heatmap"
+    },
+    "tracking": {
+      "zh-TW": "即時追蹤 {total} 個產業 · 依 3 個月報酬率排名",
+      "en": "Tracking {total} industries · Ranked by 3-month return"
+    },
+    "updated_at": {
+      "zh-TW": "數據更新於",
+      "en": "Updated at"
+    },
+    "data_source": {
+      "zh-TW": "數據來源",
+      "en": "Data Source"
+    },
+    "revenue_growth": {
+      "zh-TW": "營收成長",
+      "en": "Revenue Growth"
+    },
+    "pe_ratio": {
+      "zh-TW": "本益比",
+      "en": "P/E Ratio"
+    },
+    "profit_margin": {
+      "zh-TW": "利潤率",
+      "en": "Profit Margin"
+    },
+    "bellwether": {
+      "zh-TW": "龍頭股",
+      "en": "Bellwether"
+    },
+    "etf_weighted_avg": {
+      "zh-TW": "ETF 加權平均",
+      "en": "ETF Weighted Avg"
+    },
+    "ttm": {
+      "zh-TW": "TTM",
+      "en": "TTM"
+    },
+    "month_return": {
+      "zh-TW": "個月報酬",
+      "en": "-Month Return"
+    },
+    "return_3m": {
+      "zh-TW": "3 個月報酬",
+      "en": "3-Month Return"
+    },
+    "news_latest": {
+      "zh-TW": "即時",
+      "en": "Latest"
+    },
+    "no_news": {
+      "zh-TW": "無最新新聞",
+      "en": "No latest news"
+    },
+    "click_hint": {
+      "zh-TW": "點擊查看詳情",
+      "en": "Click for details"
+    },
+    "market_cap": {
+      "zh-TW": "市值",
+      "en": "Market Cap"
+    },
+    "price": {
+      "zh-TW": "股價",
+      "en": "Price"
+    },
+    "change_pct": {
+      "zh-TW": "漲跌幅",
+      "en": "Change %"
+    },
+    "ticker": {
+      "zh-TW": "代碼",
+      "en": "Ticker"
+    },
+    "company_name": {
+      "zh-TW": "公司名稱",
+      "en": "Company Name"
+    },
+    "industry": {
+      "zh-TW": "產業",
+      "en": "Industry"
+    },
+    "just_now": {
+      "zh-TW": "剛剛",
+      "en": "Just now"
+    },
+    "min_ago": {
+      "zh-TW": "分鐘前",
+      "en": "min ago"
+    },
+    "hours_ago": {
+      "zh-TW": "小時前",
+      "en": "hrs ago"
+    },
+    "days_ago": {
+      "zh-TW": "天前",
+      "en": "days ago"
+    },
+    "toggle_theme": {
+      "zh-TW": "切換深淺色主題",
+      "en": "Toggle theme"
+    },
+    "loading": {
+      "zh-TW": "正在載入產業數據…",
+      "en": "Loading industry data…"
+    },
+    "data_failed": {
+      "zh-TW": "數據載入失敗",
+      "en": "Data load failed"
+    },
+    "select_language": {
+      "zh-TW": "選擇語言",
+      "en": "Select Language"
+    }
+  }
+}

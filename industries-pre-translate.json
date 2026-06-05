@@ -1,0 +1,842 @@
+[
+  {
+    "etf": "SMH",
+    "ticker": "NVDA",
+    "name": "半導體",
+    "name_en": "Semiconductors",
+    "desc": "AI 晶片需求帶動先進製程與封裝產能吃緊，全球半導體市場規模持續創新高",
+    "etf_name": "VanEck Semiconductor ETF",
+    "companies": [
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA Corp",
+        "weight_pct": 18.09
+      },
+      {
+        "ticker": "TSM",
+        "name": "Taiwan Semiconductor Manufacturing Co Lt",
+        "weight_pct": 10.59
+      },
+      {
+        "ticker": "AVGO",
+        "name": "Broadcom Inc",
+        "weight_pct": 7.83
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corp",
+        "weight_pct": 7.14
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices Inc",
+        "weight_pct": 5.95
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology Inc",
+        "weight_pct": 4.98
+      },
+      {
+        "ticker": "TXN",
+        "name": "Texas Instruments Inc",
+        "weight_pct": 4.9
+      },
+      {
+        "ticker": "KLAC",
+        "name": "KLA Corp",
+        "weight_pct": 4.49
+      },
+      {
+        "ticker": "ADI",
+        "name": "Analog Devices Inc",
+        "weight_pct": 4.41
+      },
+      {
+        "ticker": "LRCX",
+        "name": "Lam Research Corp",
+        "weight_pct": 4.11
+      }
+    ]
+  },
+  {
+    "etf": "AIQ",
+    "ticker": "MSFT",
+    "name": "人工智慧",
+    "name_en": "Artificial Intelligence",
+    "desc": "生成式 AI 滲透各行業，企業級 AI 應用與推理模型需求爆發性成長",
+    "etf_name": "Global X Artificial Intelligenc",
+    "companies": [
+      {
+        "ticker": "000660.KS",
+        "name": "SK Hynix Inc",
+        "weight_pct": 4.82
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corp",
+        "weight_pct": 4.16
+      },
+      {
+        "ticker": "005930.KS",
+        "name": "Samsung Electronics Co Ltd",
+        "weight_pct": 4.09
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices Inc",
+        "weight_pct": 3.99
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology Inc",
+        "weight_pct": 3.71
+      },
+      {
+        "ticker": "AVGO",
+        "name": "Broadcom Inc",
+        "weight_pct": 3.66
+      },
+      {
+        "ticker": "CSCO",
+        "name": "Cisco Systems Inc",
+        "weight_pct": 3.51
+      },
+      {
+        "ticker": "TSM",
+        "name": "Taiwan Semiconductor Manufacturing Co Lt",
+        "weight_pct": 3.45
+      },
+      {
+        "ticker": "GOOGL",
+        "name": "Alphabet Inc Class A",
+        "weight_pct": 3.32
+      },
+      {
+        "ticker": "AMZN",
+        "name": "Amazon.com Inc",
+        "weight_pct": 3.23
+      }
+    ]
+  },
+  {
+    "etf": "SKYY",
+    "ticker": "AMZN",
+    "name": "雲端運算",
+    "name_en": "Cloud Computing",
+    "desc": "企業數位轉型剛需持續推動雲端基礎設施與 SaaS 服務成長",
+    "etf_name": "First Trust Cloud Computing ETF",
+    "companies": [
+      {
+        "ticker": "ANET",
+        "name": "Arista Networks Inc",
+        "weight_pct": 4.42
+      },
+      {
+        "ticker": "AMZN",
+        "name": "Amazon.com Inc",
+        "weight_pct": 4.31
+      },
+      {
+        "ticker": "GOOGL",
+        "name": "Alphabet Inc Class A",
+        "weight_pct": 4.22
+      },
+      {
+        "ticker": "CRWV",
+        "name": "CoreWeave Inc Ordinary Shares - Class A",
+        "weight_pct": 3.99
+      },
+      {
+        "ticker": "DOCN",
+        "name": "DigitalOcean Holdings Inc",
+        "weight_pct": 3.98
+      },
+      {
+        "ticker": "P",
+        "name": "Everpure Inc Class A",
+        "weight_pct": 3.8
+      },
+      {
+        "ticker": "ORCL",
+        "name": "Oracle Corp",
+        "weight_pct": 3.79
+      },
+      {
+        "ticker": "NTNX",
+        "name": "Nutanix Inc Class A",
+        "weight_pct": 3.65
+      },
+      {
+        "ticker": "MSFT",
+        "name": "Microsoft Corp",
+        "weight_pct": 3.55
+      },
+      {
+        "ticker": "LUMN",
+        "name": "Lumen Technologies Inc Ordinary Shares",
+        "weight_pct": 3.54
+      }
+    ]
+  },
+  {
+    "etf": "HACK",
+    "ticker": "CRWD",
+    "name": "資安防護",
+    "name_en": "Cybersecurity",
+    "desc": "地緣政治緊張與 AI 生成攻擊增加，網路安全支出創歷史新高",
+    "etf_name": "Amplify Cybersecurity ETF",
+    "companies": [
+      {
+        "ticker": "AVGO",
+        "name": "Broadcom Inc",
+        "weight_pct": 8.73
+      },
+      {
+        "ticker": "CSCO",
+        "name": "Cisco Systems Inc",
+        "weight_pct": 6.5
+      },
+      {
+        "ticker": "PANW",
+        "name": "Palo Alto Networks Inc",
+        "weight_pct": 6.2
+      },
+      {
+        "ticker": "CRWD",
+        "name": "CrowdStrike Holdings Inc Class A",
+        "weight_pct": 5.95
+      },
+      {
+        "ticker": "NET",
+        "name": "Cloudflare Inc",
+        "weight_pct": 5.45
+      },
+      {
+        "ticker": "FTNT",
+        "name": "Fortinet Inc",
+        "weight_pct": 4.91
+      },
+      {
+        "ticker": "FFIV",
+        "name": "F5 Inc",
+        "weight_pct": 4.78
+      },
+      {
+        "ticker": "GD",
+        "name": "General Dynamics Corp",
+        "weight_pct": 4.78
+      },
+      {
+        "ticker": "FSLY",
+        "name": "Fastly Inc Class A",
+        "weight_pct": 4.51
+      },
+      {
+        "ticker": "ATEN",
+        "name": "A10 Networks Inc",
+        "weight_pct": 4.28
+      }
+    ]
+  },
+  {
+    "etf": "DRIV",
+    "ticker": "TSLA",
+    "name": "電動車",
+    "name_en": "Electric Vehicles",
+    "desc": "全球電動車滲透率突破 20% 關鍵點，新興市場需求加速",
+    "etf_name": "Global X Autonomous & Electric ",
+    "companies": [
+      {
+        "ticker": "INTC",
+        "name": "Intel Corp",
+        "weight_pct": 4.59
+      },
+      {
+        "ticker": "GOOGL",
+        "name": "Alphabet Inc Class A",
+        "weight_pct": 2.99
+      },
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA Corp",
+        "weight_pct": 2.81
+      },
+      {
+        "ticker": "QCOM",
+        "name": "Qualcomm Inc",
+        "weight_pct": 2.33
+      },
+      {
+        "ticker": "006400.KS",
+        "name": "Samsung SDI Co Ltd",
+        "weight_pct": 2.3
+      },
+      {
+        "ticker": "BE",
+        "name": "Bloom Energy Corp Class A",
+        "weight_pct": 2.28
+      },
+      {
+        "ticker": "MSFT",
+        "name": "Microsoft Corp",
+        "weight_pct": 2.26
+      },
+      {
+        "ticker": "TSLA",
+        "name": "Tesla Inc",
+        "weight_pct": 2.23
+      },
+      {
+        "ticker": "AMPX",
+        "name": "Amprius Technologies Inc",
+        "weight_pct": 2.0
+      },
+      {
+        "ticker": "7203.T",
+        "name": "Toyota Motor Corp",
+        "weight_pct": 1.97
+      }
+    ]
+  },
+  {
+    "etf": "FINX",
+    "ticker": "SQ",
+    "name": "金融科技",
+    "name_en": "Fintech",
+    "desc": "嵌入式金融、即時支付與數位資產交易重塑金融服務業",
+    "etf_name": "Global X FinTech ETF",
+    "companies": [
+      {
+        "ticker": "PYPL",
+        "name": "PayPal Holdings Inc",
+        "weight_pct": 6.41
+      },
+      {
+        "ticker": "XYZ",
+        "name": "Block Inc Class A",
+        "weight_pct": 6.38
+      },
+      {
+        "ticker": "FISV",
+        "name": "Fiserv Inc",
+        "weight_pct": 5.98
+      },
+      {
+        "ticker": "COIN",
+        "name": "Coinbase Global Inc Ordinary Shares - Cl",
+        "weight_pct": 5.56
+      },
+      {
+        "ticker": "HOOD",
+        "name": "Robinhood Markets Inc Class A",
+        "weight_pct": 5.51
+      },
+      {
+        "ticker": "INTU",
+        "name": "Intuit Inc",
+        "weight_pct": 5.07
+      },
+      {
+        "ticker": "ADYEN.AS",
+        "name": "Adyen NV",
+        "weight_pct": 4.76
+      },
+      {
+        "ticker": "FIS",
+        "name": "Fidelity National Information Services I",
+        "weight_pct": 4.2
+      },
+      {
+        "ticker": "SOFI",
+        "name": "SoFi Technologies Inc Ordinary Shares",
+        "weight_pct": 3.79
+      },
+      {
+        "ticker": "GPN",
+        "name": "Global Payments Inc",
+        "weight_pct": 3.72
+      }
+    ]
+  },
+  {
+    "etf": "XBI",
+    "ticker": "LLY",
+    "name": "生技製藥",
+    "name_en": "Biotech & Pharma",
+    "desc": "減肥藥、基因療法與 GLP-1 藥物引發生技產業新一輪成長週期",
+    "etf_name": "State Street SPDR S&P Biotech E",
+    "companies": [
+      {
+        "ticker": "APLS",
+        "name": "Apellis Pharmaceuticals Inc",
+        "weight_pct": 1.87
+      },
+      {
+        "ticker": "RVMD",
+        "name": "Revolution Medicines Inc Ordinary Shares",
+        "weight_pct": 1.65
+      },
+      {
+        "ticker": "TVTX",
+        "name": "Travere Therapeutics Inc Ordinary Shares",
+        "weight_pct": 1.62
+      },
+      {
+        "ticker": "ARWR",
+        "name": "Arrowhead Pharmaceuticals Inc",
+        "weight_pct": 1.44
+      },
+      {
+        "ticker": "TWST",
+        "name": "Twist Bioscience Corp",
+        "weight_pct": 1.42
+      },
+      {
+        "ticker": "SMMT",
+        "name": "Summit Therapeutics Inc Ordinary Shares",
+        "weight_pct": 1.4
+      },
+      {
+        "ticker": "ALKS",
+        "name": "Alkermes PLC",
+        "weight_pct": 1.38
+      },
+      {
+        "ticker": "TGTX",
+        "name": "TG Therapeutics Inc",
+        "weight_pct": 1.37
+      },
+      {
+        "ticker": "MDGL",
+        "name": "Madrigal Pharmaceuticals Inc",
+        "weight_pct": 1.36
+      },
+      {
+        "ticker": "BEAM",
+        "name": "Beam Therapeutics Inc",
+        "weight_pct": 1.32
+      }
+    ]
+  },
+  {
+    "etf": "ICLN",
+    "ticker": "ENPH",
+    "name": "綠色能源",
+    "name_en": "Clean Energy",
+    "desc": "淨零碳排政策加速全球再生能源建置，太陽能與儲能需求暢旺",
+    "etf_name": "iShares Global Clean Energy ETF",
+    "companies": [
+      {
+        "ticker": "BE",
+        "name": "Bloom Energy Corp Class A",
+        "weight_pct": 13.73
+      },
+      {
+        "ticker": "NXT",
+        "name": "Nextpower Inc Class A",
+        "weight_pct": 7.28
+      },
+      {
+        "ticker": "FSLR",
+        "name": "First Solar Inc",
+        "weight_pct": 7.15
+      },
+      {
+        "ticker": "600900.SS",
+        "name": "China Yangtze Power Co Ltd Class A",
+        "weight_pct": 5.89
+      },
+      {
+        "ticker": "VWS.CO",
+        "name": "Vestas Wind Systems AS",
+        "weight_pct": 3.35
+      },
+      {
+        "ticker": "PLUG",
+        "name": "Plug Power Inc",
+        "weight_pct": 3.28
+      },
+      {
+        "ticker": "ENPH",
+        "name": "Enphase Energy Inc",
+        "weight_pct": 3.24
+      },
+      {
+        "ticker": "EQTL3.SA",
+        "name": "Equatorial SA",
+        "weight_pct": 2.87
+      },
+      {
+        "ticker": "SUZLON.BO",
+        "name": "Suzlon Energy Ltd",
+        "weight_pct": 2.36
+      },
+      {
+        "ticker": "EDP.LS",
+        "name": "EDP-Energias De Portugal SA",
+        "weight_pct": 2.33
+      }
+    ]
+  },
+  {
+    "etf": "ITA",
+    "ticker": "LMT",
+    "name": "航太防衛",
+    "name_en": "Aerospace & Defense",
+    "desc": "各國國防預算創歷史新高，商業航太與衛星通訊快速擴張",
+    "etf_name": "iShares U.S. Aerospace & Defens",
+    "companies": [
+      {
+        "ticker": "GE",
+        "name": "GE Aerospace",
+        "weight_pct": 19.43
+      },
+      {
+        "ticker": "RTX",
+        "name": "RTX Corp",
+        "weight_pct": 15.1
+      },
+      {
+        "ticker": "BA",
+        "name": "Boeing Co",
+        "weight_pct": 10.25
+      },
+      {
+        "ticker": "GD",
+        "name": "General Dynamics Corp",
+        "weight_pct": 4.78
+      },
+      {
+        "ticker": "HWM",
+        "name": "Howmet Aerospace Inc",
+        "weight_pct": 4.75
+      },
+      {
+        "ticker": "TDG",
+        "name": "TransDigm Group Inc",
+        "weight_pct": 4.53
+      },
+      {
+        "ticker": "LHX",
+        "name": "L3Harris Technologies Inc",
+        "weight_pct": 4.32
+      },
+      {
+        "ticker": "LMT",
+        "name": "Lockheed Martin Corp",
+        "weight_pct": 3.92
+      },
+      {
+        "ticker": "NOC",
+        "name": "Northrop Grumman Corp",
+        "weight_pct": 3.88
+      },
+      {
+        "ticker": "RKLB",
+        "name": "Rocket Lab Corp",
+        "weight_pct": 3.27
+      }
+    ]
+  },
+  {
+    "etf": "METV",
+    "ticker": "META",
+    "name": "元宇宙／空間運算",
+    "name_en": "Metaverse & Spatial Computing",
+    "desc": "Apple Vision Pro 與 Meta AR 眼鏡帶動空間運算生態系逐步成形",
+    "etf_name": "Roundhill Ball Metaverse ETF",
+    "companies": [
+      {
+        "ticker": "RBLX",
+        "name": "Roblox Corp Ordinary Shares - Class A",
+        "weight_pct": 6.89
+      },
+      {
+        "ticker": "AAPL",
+        "name": "Apple Inc",
+        "weight_pct": 6.76
+      },
+      {
+        "ticker": "ETHQ/U.TO",
+        "name": "3iQ Ether Staking ETF",
+        "weight_pct": 6.19
+      },
+      {
+        "ticker": "SOLQ.TO",
+        "name": "3iQ Solana Staking ETF",
+        "weight_pct": 5.6
+      },
+      {
+        "ticker": "GOOGL",
+        "name": "Alphabet Inc Class A",
+        "weight_pct": 4.9
+      },
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA Corp",
+        "weight_pct": 4.54
+      },
+      {
+        "ticker": "U",
+        "name": "Unity Software Inc Ordinary Shares",
+        "weight_pct": 4.32
+      },
+      {
+        "ticker": "QCOM",
+        "name": "Qualcomm Inc",
+        "weight_pct": 3.7
+      },
+      {
+        "ticker": "MSFT",
+        "name": "Microsoft Corp",
+        "weight_pct": 3.61
+      },
+      {
+        "ticker": "META",
+        "name": "Meta Platforms Inc Class A",
+        "weight_pct": 3.5
+      }
+    ]
+  },
+  {
+    "etf": "BOTZ",
+    "ticker": "ROK",
+    "name": "機器人與自動化",
+    "name_en": "Robotics & Automation",
+    "desc": "製造業回流與 AI 賦能推動工業機器人與協作機器人需求成長",
+    "etf_name": "Global X Robotics & Artificial ",
+    "companies": [
+      {
+        "ticker": "ABBN.SW",
+        "name": "ABB Ltd",
+        "weight_pct": 8.88
+      },
+      {
+        "ticker": "6861.T",
+        "name": "Keyence Corp",
+        "weight_pct": 8.82
+      },
+      {
+        "ticker": "6954.T",
+        "name": "Fanuc Corp",
+        "weight_pct": 8.34
+      },
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA Corp",
+        "weight_pct": 8.21
+      },
+      {
+        "ticker": "ISRG",
+        "name": "Intuitive Surgical Inc",
+        "weight_pct": 6.95
+      },
+      {
+        "ticker": "6273.T",
+        "name": "SMC Corp",
+        "weight_pct": 4.71
+      },
+      {
+        "ticker": "300124.SZ",
+        "name": "Shenzhen Inovance Technology Co Ltd Clas",
+        "weight_pct": 4.16
+      },
+      {
+        "ticker": "6383.T",
+        "name": "Daifuku Co Ltd",
+        "weight_pct": 3.48
+      },
+      {
+        "ticker": "9660.HK",
+        "name": "Horizon Robotics Class B",
+        "weight_pct": 2.45
+      },
+      {
+        "ticker": "GOOGL",
+        "name": "Alphabet Inc Class A",
+        "weight_pct": 2.41
+      }
+    ]
+  },
+  {
+    "etf": "ESPO",
+    "ticker": "MSFT",
+    "name": "遊戲與電競",
+    "name_en": "Gaming & Esports",
+    "desc": "雲端串流遊戲與手遊市場持續擴張，AI 遊戲開發工具降低開發門檻",
+    "etf_name": "VanEck Video Gaming and eSports",
+    "companies": [
+      {
+        "ticker": "NTES",
+        "name": "NetEase Inc ADR",
+        "weight_pct": 7.07
+      },
+      {
+        "ticker": "0700.HK",
+        "name": "Tencent Holdings Ltd",
+        "weight_pct": 6.95
+      },
+      {
+        "ticker": "EA",
+        "name": "Electronic Arts Inc",
+        "weight_pct": 6.71
+      },
+      {
+        "ticker": "7974.T",
+        "name": "Nintendo Co Ltd",
+        "weight_pct": 6.39
+      },
+      {
+        "ticker": "U",
+        "name": "Unity Software Inc Ordinary Shares",
+        "weight_pct": 6.02
+      },
+      {
+        "ticker": "TTWO",
+        "name": "Take-Two Interactive Software Inc",
+        "weight_pct": 5.76
+      },
+      {
+        "ticker": "RBLX",
+        "name": "Roblox Corp Ordinary Shares - Class A",
+        "weight_pct": 5.74
+      },
+      {
+        "ticker": "ALL.AX",
+        "name": "Aristocrat Leisure Ltd",
+        "weight_pct": 5.24
+      },
+      {
+        "ticker": "3293.TWO",
+        "name": "International Games System Co Ltd",
+        "weight_pct": 4.87
+      },
+      {
+        "ticker": "9697.T",
+        "name": "Capcom Co Ltd",
+        "weight_pct": 4.66
+      }
+    ]
+  },
+  {
+    "etf": "FIVG",
+    "ticker": "QCOM",
+    "name": "5G 與網路",
+    "name_en": "5G & Networking",
+    "desc": "5G-Advanced 與 6G 研發加速，邊緣運算與物聯網基礎設施佈建擴大",
+    "etf_name": "FIVG,136311,166600",
+    "companies": [
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA Corp",
+        "weight_pct": 6.6
+      },
+      {
+        "ticker": "AAPL",
+        "name": "Apple Inc",
+        "weight_pct": 5.9
+      },
+      {
+        "ticker": "AVGO",
+        "name": "Broadcom Inc",
+        "weight_pct": 5.64
+      },
+      {
+        "ticker": "ORCL",
+        "name": "Oracle Corp",
+        "weight_pct": 4.72
+      },
+      {
+        "ticker": "QCOM",
+        "name": "Qualcomm Inc",
+        "weight_pct": 4.27
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices Inc",
+        "weight_pct": 3.65
+      },
+      {
+        "ticker": "CSCO",
+        "name": "Cisco Systems Inc",
+        "weight_pct": 3.62
+      },
+      {
+        "ticker": "ADI",
+        "name": "Analog Devices Inc",
+        "weight_pct": 2.92
+      },
+      {
+        "ticker": "ANET",
+        "name": "Arista Networks Inc",
+        "weight_pct": 2.62
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corp",
+        "weight_pct": 2.53
+      }
+    ]
+  },
+  {
+    "etf": "BLOK",
+    "ticker": "COIN",
+    "name": "區塊鏈與數位資產",
+    "name_en": "Blockchain & Digital Assets",
+    "desc": "機構法人採用加速，現貨 ETF 資金持續流入，監理框架逐步明朗",
+    "etf_name": "Amplify Blockchain Technology E",
+    "companies": [
+      {
+        "ticker": "WULF",
+        "name": "TeraWulf Inc",
+        "weight_pct": 3.98
+      },
+      {
+        "ticker": "HUT",
+        "name": "Hut 8 Corp",
+        "weight_pct": 3.95
+      },
+      {
+        "ticker": "GLXY",
+        "name": "Galaxy Digital Inc Ordinary Shares - Cla",
+        "weight_pct": 3.92
+      },
+      {
+        "ticker": "CIFR",
+        "name": "Cipher Digital Inc",
+        "weight_pct": 3.75
+      },
+      {
+        "ticker": "OPRA",
+        "name": "Opera Ltd ADR",
+        "weight_pct": 3.07
+      },
+      {
+        "ticker": "CORZ",
+        "name": "Core Scientific Inc Ordinary Shares - Ne",
+        "weight_pct": 2.9
+      },
+      {
+        "ticker": "COIN",
+        "name": "Coinbase Global Inc Ordinary Shares - Cl",
+        "weight_pct": 2.89
+      },
+      {
+        "ticker": "NU",
+        "name": "Nu Holdings Ltd Ordinary Shares Class A",
+        "weight_pct": 2.83
+      },
+      {
+        "ticker": "8473.T",
+        "name": "SBI Holdings Inc",
+        "weight_pct": 2.75
+      },
+      {
+        "ticker": "BBBY",
+        "name": "Bed Bath & Beyond Inc",
+        "weight_pct": 2.74
+      }
+    ]
+  }
+]
