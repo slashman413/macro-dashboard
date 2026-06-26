@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T05:42:29.648502+00:00",
+  "updated_at": "2026-06-26T06:30:06.718385+00:00",
   "total_tracked": 14,
   "industries": [
     {
@@ -44,16 +44,16 @@
           "time": "2026-06-24T15:52:36Z"
         },
         {
-          "title": "2 Excellent Stocks to Buy on the Dip",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-excellent-stocks-buy-dip-053500669.html",
-          "source": "Motley Fool",
-          "time": "2026-06-26T05:35:00Z"
+          "title": "Micron Beats Meta in Market Cap: Can It Catch Nvidia Next?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-beats-meta-market-cap-055906218.html",
+          "source": "BeInCrypto",
+          "time": "2026-06-26T05:59:06Z"
         },
         {
-          "title": "This Stock Has Already Doubled This Year and Is Still Racing Towards a Major Catalyst",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-already-doubled-still-racing-052000081.html",
+          "title": "Morningstar's Fair Value for SpaceX (SPCX) Stock Is $62. The Stock Trades at $157. One of Them Is Wrong by $1.2 Trillion.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morningstars-fair-value-spacex-spcx-055000348.html",
           "source": "Motley Fool",
-          "time": "2026-06-26T05:20:00Z"
+          "time": "2026-06-26T05:50:00Z"
         }
       ],
       "top_companies": [
@@ -61,7 +61,7 @@
           "ticker": "NVDA",
           "name": "NVIDIA Corporation",
           "market_cap": 4741018419200,
-          "pe": 29.975498,
+          "pe": 29.929665,
           "revenue_growth": 85.2,
           "price": 195.74,
           "change_pct": -1.59368
@@ -188,7 +188,7 @@
           "title": "Dow Jones Futures Fall, Techs Tumble After Mixed Market Signals; What To Do Now",
           "url": "",
           "source": "Investor's Business Daily",
-          "time": "2026-06-26T05:26:19Z"
+          "time": "2026-06-26T05:44:21Z"
         },
         {
           "title": "S&P 500 Optimism Has Never Been This High — Market Strategist Explains Why That's Exactly The Problem",
@@ -207,20 +207,20 @@
         {
           "ticker": "005930.KS",
           "name": "SamsungElec",
-          "market_cap": 2178457341526016,
+          "market_cap": 2163682654027776,
           "pe": null,
           "revenue_growth": 69.2,
-          "price": 331750.0,
-          "change_pct": -7.4616456
+          "price": 329500.0,
+          "change_pct": -8.089261
         },
         {
           "ticker": "000660.KS",
           "name": "SK hynix",
-          "market_cap": 1900991448350720,
+          "market_cap": 1859819891851264,
           "pe": null,
           "revenue_growth": 198.1,
-          "price": 2678000.0,
-          "change_pct": -8.193349
+          "price": 2621000.0,
+          "change_pct": -10.181694
         },
         {
           "ticker": "GOOGL",
@@ -473,54 +473,54 @@
           "time": "2026-06-24T15:52:36Z"
         },
         {
+          "title": "Micron Beats Meta in Market Cap: Can It Catch Nvidia Next?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-beats-meta-market-cap-055906218.html",
+          "source": "BeInCrypto",
+          "time": "2026-06-26T05:59:06Z"
+        },
+        {
+          "title": "SpaceX May Be Eyeing US Mobile Market – Even As Musk Says ‘Star’ Branding Has Gone Too Far",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-may-eyeing-us-mobile-053206928.html",
+          "source": "Stocktwits",
+          "time": "2026-06-26T05:32:06Z"
+        },
+        {
+          "title": "Dell To Officially Join Tesla, Oracle, Caterpillar In Texas As Stock Eyes Best Year Since Returning To Public Markets",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dell-officially-join-tesla-oracle-052323182.html",
+          "source": "Stocktwits",
+          "time": "2026-06-26T05:23:23Z"
+        },
+        {
           "title": "NIO Stock Eyes June Delivery Test: Deutsche Bank Tracker Shows Nio Orders Beating Tesla In China",
           "url": "https://finance.yahoo.com/markets/stocks/articles/nio-stock-eyes-june-delivery-042554651.html",
           "source": "Stocktwits",
           "time": "2026-06-26T04:25:54Z"
-        },
-        {
-          "title": "Elon Musk Should 'Consider Selling EVs Again,' Says Ross Gerber As TSLA Stock Declines",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-consider-selling-evs-042226190.html",
-          "source": "Benzinga",
-          "time": "2026-06-26T04:22:26Z"
-        },
-        {
-          "title": "Bernie Sanders Says MacBook, iPad Price Rise An Example Of Tim Cook's 'Corporate Greed: Here's How Much You'll Pay Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bernie-sanders-says-macbook-ipad-031712211.html",
-          "source": "Benzinga",
-          "time": "2026-06-26T03:17:12Z"
-        },
-        {
-          "title": "TSLA, SPCX Slip Overnight: Elon Musk Warns AI Production Shortfall Is ‘Insane’ As Apple Price Shock Hits Tech",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/tsla-spcx-slip-overnight-elon-020403731.html",
-          "source": "Stocktwits",
-          "time": "2026-06-26T02:04:03Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "006400.KS",
           "name": "SAMSUNG SDI CO.,LTD.",
-          "market_cap": 35766256271360,
+          "market_cap": 35608869208064,
           "pe": null,
           "revenue_growth": 12.6,
-          "price": 454500.0,
-          "change_pct": -5.5093555
+          "price": 452500.0,
+          "change_pct": -5.9251556
         },
         {
           "ticker": "7203.T",
           "name": "TOYOTA MOTOR CORP",
-          "market_cap": 32509609902080,
-          "pe": 9.301735,
+          "market_cap": 32450405203968,
+          "pe": 9.284795,
           "revenue_growth": 1.9,
-          "price": 2745.5,
-          "change_pct": 1.6663581
+          "price": 2740.0,
+          "change_pct": 1.4814814
         },
         {
           "ticker": "NVDA",
           "name": "NVIDIA Corporation",
           "market_cap": 4741018419200,
-          "pe": 29.975498,
+          "pe": 29.929665,
           "revenue_growth": 85.2,
           "price": 195.74,
           "change_pct": -1.59368
@@ -951,11 +951,11 @@
         {
           "ticker": "600900.SS",
           "name": "CHINA YANGTZE POWER CO",
-          "market_cap": 650854596608,
-          "pe": 18.095238,
+          "market_cap": 651588599808,
+          "pe": 18.115644,
           "revenue_growth": 6.4,
-          "price": 26.6,
-          "change_pct": 1.4487269
+          "price": 26.63,
+          "change_pct": 1.5636913
         },
         {
           "ticker": "VWS.CO",
@@ -1061,6 +1061,12 @@
           "time": "2026-06-25T14:55:05Z"
         },
         {
+          "title": "Micron Beats Meta in Market Cap: Can It Catch Nvidia Next?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-beats-meta-market-cap-055906218.html",
+          "source": "BeInCrypto",
+          "time": "2026-06-26T05:59:06Z"
+        },
+        {
           "title": "A new AI bottleneck is starting to worry investors",
           "url": "https://finance.yahoo.com/technology/ai/articles/ai-bottleneck-starting-worry-investors-033300071.html",
           "source": "TheStreet",
@@ -1077,12 +1083,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/qualcomms-massive-ai-expansion-already-020300760.html",
           "source": "TheStreet",
           "time": "2026-06-26T02:03:00Z"
-        },
-        {
-          "title": "Constellation Energy vs. GE Vernova: Which Utilities Stock Is a Better Buy in 2026?",
-          "url": "https://finance.yahoo.com/energy/articles/constellation-energy-vs-ge-vernova-013340687.html",
-          "source": "Motley Fool",
-          "time": "2026-06-26T01:33:40Z"
         }
       ],
       "top_companies": [
@@ -1090,7 +1090,7 @@
           "ticker": "NVDA",
           "name": "NVIDIA Corporation",
           "market_cap": 4741018419200,
-          "pe": 29.975498,
+          "pe": 29.929665,
           "revenue_growth": 85.2,
           "price": 195.74,
           "change_pct": -1.59368
@@ -1236,26 +1236,26 @@
         {
           "ticker": "6861.T",
           "name": "KEYENCE CORP",
-          "market_cap": 18652608856064,
-          "pe": 41.943207,
+          "market_cap": 18691412459520,
+          "pe": 42.030464,
           "revenue_growth": 17.9,
-          "price": 76910.0,
-          "change_pct": -0.59454566
+          "price": 77070.0,
+          "change_pct": -0.3877472
         },
         {
           "ticker": "6954.T",
           "name": "FANUC CORPORATION",
-          "market_cap": 6580632813568,
-          "pe": 39.44513,
+          "market_cap": 6559170560000,
+          "pe": 39.31648,
           "revenue_growth": 10.6,
-          "price": 7052.0,
-          "change_pct": -4.1457114
+          "price": 7029.0,
+          "change_pct": -4.4589453
         },
         {
           "ticker": "NVDA",
           "name": "NVIDIA Corporation",
           "market_cap": 4741018419200,
-          "pe": 29.975498,
+          "pe": 29.929665,
           "revenue_growth": 85.2,
           "price": 195.74,
           "change_pct": -1.59368
@@ -1263,11 +1263,11 @@
         {
           "ticker": "6273.T",
           "name": "SMC CORP",
-          "market_cap": 4514225586176,
-          "pe": 27.112917,
+          "market_cap": 4523054596096,
+          "pe": 27.165945,
           "revenue_growth": 15.4,
-          "price": 71580.0,
-          "change_pct": -1.851344
+          "price": 71720.0,
+          "change_pct": -1.6591252
         },
         {
           "ticker": "GOOGL",
@@ -1281,20 +1281,20 @@
         {
           "ticker": "6383.T",
           "name": "DAIFUKU CO LTD",
-          "market_cap": 2636479725568,
-          "pe": 35.433655,
+          "market_cap": 2635008835584,
+          "pe": 35.413887,
           "revenue_growth": 7.8,
-          "price": 7170.0,
-          "change_pct": 0.98605436
+          "price": 7166.0,
+          "change_pct": 0.9298394
         },
         {
           "ticker": "300124.SZ",
           "name": "SHENZHEN INOVANCE TECHNOLOGY CO",
-          "market_cap": 172718063616,
-          "pe": 36.872833,
+          "market_cap": 171526701056,
+          "pe": 36.618496,
           "revenue_growth": 13.0,
-          "price": 63.81,
-          "change_pct": -4.561764
+          "price": 63.35,
+          "change_pct": -5.22064
         },
         {
           "ticker": "ABBN.SW",
@@ -1317,11 +1317,11 @@
         {
           "ticker": "9660.HK",
           "name": "HORIZONROBOT-W",
-          "market_cap": 53623939072,
+          "market_cap": 52749635584,
           "pe": null,
           "revenue_growth": 51.2,
-          "price": 3.68,
-          "change_pct": -4.663208
+          "price": 3.62,
+          "change_pct": -6.2176166
         }
       ]
     },
