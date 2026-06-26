@@ -374,7 +374,7 @@ function renderCards(){
   applyLang();
 })();
 </script>
-<div style="text-align:center;padding:18px;font-size:12px;color:#94a3b8"><a href="https://ko-fi.com/ytstories0413" target="_blank" rel="noopener" style="color:#ff5e5b;text-decoration:none">☕ 支持我們 Support · Ko-fi</a></div></body>
+<div style="text-align:center;padding:18px;font-size:12px;color:#94a3b8"><a href="https://www.amazon.com/s?k=macroeconomics+books&tag=ytstories0413-20" target="_blank" rel="nofollow sponsored noopener" style="color:#a5b4fc;text-decoration:none">🌍 總經好書 Macro</a> · <a href="https://www.amazon.com/s?k=investing+books&tag=ytstories0413-20" target="_blank" rel="nofollow sponsored noopener" style="color:#a5b4fc;text-decoration:none">📈 投資好書 Investing</a> · <span style="color:#64748b;font-size:10px">含 Amazon 聯盟連結 / As an Amazon Associate I earn from qualifying purchases</span> · <a href="https://ko-fi.com/ytstories0413" target="_blank" rel="noopener" style="color:#ff5e5b;text-decoration:none">☕ 支持我們 Support · Ko-fi</a></div></body>
 </html>"""
 
 TR_KEY = {
