@@ -374,7 +374,8 @@ function renderCards(){
   applyLang();
 })();
 </script>
-<div style="text-align:center;padding:18px;font-size:12px;color:#94a3b8"><div class="reco-widget" data-cat="finance"></div><script src="https://slashmantools.us/reco-widget.js" defer></script><a href="https://ko-fi.com/ytstories0413" target="_blank" rel="noopener" style="color:#ff5e5b;text-decoration:none">☕ 支持我們 Support · Ko-fi</a></div></body>
+<div style="text-align:center;padding:18px;font-size:12px;color:#94a3b8"><div class="reco-widget" data-cat="finance"></div><script src="https://slashmantools.us/reco-widget.js" defer></script><a href="https://ko-fi.com/ytstories0413" target="_blank" rel="noopener" style="color:#ff5e5b;text-decoration:none">☕ 支持我們 Support · Ko-fi</a></div>  <script src="https://slashmantools.us/kofi-widget.js" defer></script>
+</body>
 </html>"""
 
 TR_KEY = {
