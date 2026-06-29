@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T12:56:42.080628+00:00",
+  "updated_at": "2026-06-29T12:08:41.868088+00:00",
   "total_tracked": 14,
   "industries": [
     {
@@ -26,34 +26,34 @@
       "hot_score": 63.4,
       "news": [
         {
-          "title": "The AI Memory Supercycle Could Last Longer Than Investors Expect. That's Great News for Micron and Sandisk.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-memory-supercycle-could-last-124500480.html",
-          "source": "Motley Fool",
-          "time": "2026-06-28T12:45:00Z"
+          "title": "NVIDIA’s (NVDA) Banned AI Chips Have Doubled in Price on China’s Black Market",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-banned-ai-chips-115737131.html",
+          "source": "Insider Monkey",
+          "time": "2026-06-29T11:57:37Z"
         },
         {
-          "title": "Want to Build Retirement Wealth? This Vanguard ETF Makes It Easy.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/want-build-retirement-wealth-vanguard-123800631.html",
-          "source": "Motley Fool",
-          "time": "2026-06-28T12:38:00Z"
-        },
-        {
-          "title": "Did Salesforce Just Figure Out How to Beat the \"SaaSpocalypse\" With Its New Acquisition? Shares Are an Incredible Bargain If It Did.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/did-salesforce-just-figure-beat-122000060.html",
-          "source": "Motley Fool",
-          "time": "2026-06-28T12:20:00Z"
-        },
-        {
-          "title": "Michael Saylor’s Bitcoin Treasury Strategy Has Finally Hit Its Breaking Point",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-bitcoin-treasury-strategy-121716177.html",
+          "title": "What AVUV Investors Need to Watch: Rate Cuts and Regional Bank Exposure",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/avuv-investors-watch-rate-cuts-115539255.html",
           "source": "24/7 Wall St.",
-          "time": "2026-06-28T12:17:16Z"
+          "time": "2026-06-29T11:55:39Z"
         },
         {
-          "title": "Nike Looks Undervalued Here and Could Reward Long-Term Investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nike-looks-undervalued-could-reward-120500474.html",
-          "source": "Motley Fool",
-          "time": "2026-06-28T12:05:00Z"
+          "title": "Latest News In AI Chips - WNSTN Joins Google Marketplace Elevating Financial AI Compliance",
+          "url": "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-wnstn-113738370.html",
+          "source": "Simply Wall St.",
+          "time": "2026-06-29T11:37:38Z"
+        },
+        {
+          "title": "New leader board: Citi refreshes AI compute semiconductor picks",
+          "url": "https://finance.yahoo.com/technology/ai/articles/leader-board-citi-refreshes-ai-113314260.html",
+          "source": "Investing.com",
+          "time": "2026-06-29T11:33:14Z"
+        },
+        {
+          "title": "S&P 500 Nasdaq futures rise after U.S.-Iran pause June 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-113307203.html",
+          "source": "Quartz",
+          "time": "2026-06-29T11:33:07Z"
         }
       ],
       "top_companies": [
@@ -64,7 +64,7 @@
           "pe": 29.48392,
           "revenue_growth": 85.2,
           "price": 192.53,
-          "change_pct": -1.63993
+          "change_pct": -1.6399338
         },
         {
           "ticker": "TSM",
@@ -82,7 +82,7 @@
           "pe": 60.63455,
           "revenue_growth": 47.9,
           "price": 365.02,
-          "change_pct": -3.66578
+          "change_pct": -3.6657822
         },
         {
           "ticker": "MU",
@@ -91,7 +91,7 @@
           "pe": 25.577816,
           "revenue_growth": 345.7,
           "price": 1132.33,
-          "change_pct": -6.69354
+          "change_pct": -6.6935287
         },
         {
           "ticker": "AMD",
@@ -100,7 +100,7 @@
           "pe": 172.13863,
           "revenue_growth": 37.8,
           "price": 521.58,
-          "change_pct": -2.06358
+          "change_pct": -2.0635767
         },
         {
           "ticker": "INTC",
@@ -109,7 +109,7 @@
           "pe": null,
           "revenue_growth": 7.2,
           "price": 128.32,
-          "change_pct": -3.42439
+          "change_pct": -3.424402
         },
         {
           "ticker": "LRCX",
@@ -118,7 +118,7 @@
           "pe": 71.391716,
           "revenue_growth": 23.8,
           "price": 379.09,
-          "change_pct": -5.65676
+          "change_pct": -5.6567645
         },
         {
           "ticker": "KLAC",
@@ -127,7 +127,7 @@
           "pe": 70.436264,
           "revenue_growth": 11.5,
           "price": 248.64,
-          "change_pct": -3.92581
+          "change_pct": -3.925807
         },
         {
           "ticker": "TXN",
@@ -136,7 +136,7 @@
           "pe": 48.790596,
           "revenue_growth": 18.6,
           "price": 285.425,
-          "change_pct": -8.46189
+          "change_pct": -8.461887
         },
         {
           "ticker": "ADI",
@@ -145,7 +145,7 @@
           "pe": 57.49034,
           "revenue_growth": 37.2,
           "price": 386.91,
-          "change_pct": -7.42229
+          "change_pct": -7.422293
         }
       ]
     },
@@ -173,54 +173,54 @@
       "hot_score": 38.9,
       "news": [
         {
-          "title": "The OpenAI Trade Isn't Microsoft Anymore. Here's Where Smart Money May Be Looking.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/openai-trade-isnt-microsoft-anymore-114500979.html",
-          "source": "Motley Fool",
-          "time": "2026-06-28T11:45:00Z"
+          "title": "Why this startup says it can eliminate AI chatbot hallucinations",
+          "url": "https://finance.yahoo.com/video/why-startup-says-eliminate-ai-120000642.html",
+          "source": "Yahoo Finance Video",
+          "time": "2026-06-29T12:00:00Z"
         },
         {
-          "title": "Why Today’s Retirees May Need More Stocks Than Their Parents Did",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-today-retirees-may-more-111144019.html",
-          "source": "24/7 Wall St.",
-          "time": "2026-06-28T11:11:44Z"
-        },
-        {
-          "title": "Older tech workers are retiring at 55. But claiming Social Security early offers smaller checks for life.",
-          "url": "https://finance.yahoo.com/small-business/articles/older-tech-workers-retiring-55-104500266.html",
-          "source": "Moneywise",
-          "time": "2026-06-28T10:45:00Z"
-        },
-        {
-          "title": "Microsoft Corporation (MSFT) Is A Top Richard Chilton AI Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-top-richard-103452328.html",
+          "title": "Chevron Corporation (CVX) Secures Texas Pacific Land Support on Microsoft’s Project Kilby",
+          "url": "https://finance.yahoo.com/energy/articles/chevron-corporation-cvx-secures-texas-115410436.html",
           "source": "Insider Monkey",
-          "time": "2026-06-28T10:34:52Z"
+          "time": "2026-06-29T11:54:10Z"
         },
         {
-          "title": "Will Amazon, Taiwan Semiconductor, SpaceX, or Broadcom Be the Next $3 Trillion Company?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-taiwan-semiconductor-spacex-broadcom-103200737.html",
-          "source": "Motley Fool",
-          "time": "2026-06-28T10:32:00Z"
+          "title": "Comcast, Alphabet, Palantir, SpaceX, Microsoft, and More Stocks That Explain Today’s Market",
+          "url": "",
+          "source": "Barrons.com",
+          "time": "2026-06-29T10:25:00Z"
+        },
+        {
+          "title": "AI Comes To the Permian. Two Gas Stocks and One Pipeline Play To Consider.",
+          "url": "",
+          "source": "Barrons.com",
+          "time": "2026-06-29T09:55:00Z"
+        },
+        {
+          "title": "GOOGL Stock Falls Out Of Favor In June – Analysts See More Upside In These Big Tech",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/googl-stock-falls-favor-june-091001225.html",
+          "source": "Stocktwits",
+          "time": "2026-06-29T09:10:01Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "005930.KS",
           "name": "SamsungElec",
-          "market_cap": 2229348274798592,
+          "market_cap": 2120999940128768,
           "pe": null,
           "revenue_growth": 69.2,
-          "price": 339500.0,
-          "change_pct": -5.2998605
+          "price": 323000.0,
+          "change_pct": -4.7571306
         },
         {
           "ticker": "000660.KS",
           "name": "SK hynix",
-          "market_cap": 1897442194751488,
+          "market_cap": 1865498643922944,
           "pe": null,
           "revenue_growth": 198.1,
-          "price": 2673000.0,
-          "change_pct": -8.3647585
+          "price": 2628000.0,
+          "change_pct": -1.6835017
         },
         {
           "ticker": "GOOGL",
@@ -229,7 +229,7 @@
           "pe": 25.715702,
           "revenue_growth": 21.8,
           "price": 337.39,
-          "change_pct": -1.83875
+          "change_pct": -1.8387613
         },
         {
           "ticker": "AMZN",
@@ -256,7 +256,7 @@
           "pe": 60.63455,
           "revenue_growth": 47.9,
           "price": 365.02,
-          "change_pct": -3.66578
+          "change_pct": -3.6657822
         },
         {
           "ticker": "MU",
@@ -265,7 +265,7 @@
           "pe": 25.577816,
           "revenue_growth": 345.7,
           "price": 1132.33,
-          "change_pct": -6.69354
+          "change_pct": -6.6935287
         },
         {
           "ticker": "AMD",
@@ -274,7 +274,7 @@
           "pe": 172.13863,
           "revenue_growth": 37.8,
           "price": 521.58,
-          "change_pct": -2.06358
+          "change_pct": -2.0635767
         },
         {
           "ticker": "INTC",
@@ -283,7 +283,7 @@
           "pe": null,
           "revenue_growth": 7.2,
           "price": 128.32,
-          "change_pct": -3.42439
+          "change_pct": -3.424402
         },
         {
           "ticker": "CSCO",
@@ -292,7 +292,7 @@
           "pe": 37.923332,
           "revenue_growth": 12.0,
           "price": 113.77,
-          "change_pct": -4.37085
+          "change_pct": -4.370847
         }
       ]
     },
@@ -320,6 +320,24 @@
       "hot_score": 35.8,
       "news": [
         {
+          "title": "Why women's sports is the next big trade: Monarch Collective Exec",
+          "url": "https://finance.yahoo.com/video/why-womens-sports-next-big-100000905.html",
+          "source": "Yahoo Finance Video",
+          "time": "2026-06-29T10:00:00Z"
+        },
+        {
+          "title": "3 Cash-Producing Stocks to Own for Decades",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-own-102615218.html",
+          "source": "StockStory",
+          "time": "2026-06-29T10:26:15Z"
+        },
+        {
+          "title": "CrowdStrike (CRWD) Extends Falcon AIDR to Create Unified AI Security Control Plane",
+          "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-extends-falcon-aidr-052818137.html",
+          "source": "Insider Monkey",
+          "time": "2026-06-29T05:28:18Z"
+        },
+        {
           "title": "Is CrowdStrike (CRWD) One of the Best Trending AI Stocks to Watch in 2026?",
           "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-one-best-trending-183840337.html",
           "source": "Insider Monkey",
@@ -330,24 +348,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-06-22-110000515.html",
           "source": "MarketBeat",
           "time": "2026-06-27T11:00:00Z"
-        },
-        {
-          "title": "The Old-School Signal That Lit Up Palo Alto Networks Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/old-school-signal-lit-palo-015008717.html",
-          "source": "Trefis",
-          "time": "2026-06-27T01:50:08Z"
-        },
-        {
-          "title": "The AI Race Has Changed: How MSPs Drive Growth for SMBs: Pax8 CSO Ryan Walsh, possibl.ai CEO Nyssa Waters, Live from Pax8 Beyond 2026",
-          "url": "https://tech.yahoo.com/ai/articles/ai-race-changed-msps-drive-133506807.html",
-          "source": "Exec Edge",
-          "time": "2026-06-26T13:35:06Z"
-        },
-        {
-          "title": "The $7 Trillion AI Boom Is Running Out of Power",
-          "url": "https://finance.yahoo.com/energy/articles/7-trillion-ai-boom-running-000000304.html",
-          "source": "Oilprice.com",
-          "time": "2026-06-26T00:00:00Z"
         }
       ],
       "top_companies": [
@@ -358,7 +358,7 @@
           "pe": 60.63455,
           "revenue_growth": 47.9,
           "price": 365.02,
-          "change_pct": -3.66578
+          "change_pct": -3.6657822
         },
         {
           "ticker": "CSCO",
@@ -367,7 +367,7 @@
           "pe": 37.923332,
           "revenue_growth": 12.0,
           "price": 113.77,
-          "change_pct": -4.37085
+          "change_pct": -4.370847
         },
         {
           "ticker": "PANW",
@@ -376,7 +376,7 @@
           "pe": 262.2414,
           "revenue_growth": 31.1,
           "price": 304.2,
-          "change_pct": 3.79065
+          "change_pct": 3.7906394
         },
         {
           "ticker": "CRWD",
@@ -385,7 +385,7 @@
           "pe": null,
           "revenue_growth": 25.6,
           "price": 701.09,
-          "change_pct": 3.30656
+          "change_pct": 3.3065648
         },
         {
           "ticker": "FTNT",
@@ -394,7 +394,7 @@
           "pe": 58.891056,
           "revenue_growth": 20.1,
           "price": 151.35,
-          "change_pct": 0.947118
+          "change_pct": 0.9471074
         },
         {
           "ticker": "GD",
@@ -421,7 +421,7 @@
           "pe": 32.391624,
           "revenue_growth": 11.0,
           "price": 394.53,
-          "change_pct": 2.20719
+          "change_pct": 2.2071936
         },
         {
           "ticker": "FSLY",
@@ -430,7 +430,7 @@
           "pe": null,
           "revenue_growth": 19.8,
           "price": 17.11,
-          "change_pct": 5.51958
+          "change_pct": 5.519583
         },
         {
           "ticker": "ATEN",
@@ -467,34 +467,34 @@
       "hot_score": 31.3,
       "news": [
         {
-          "title": "5 big analyst AI moves: Micron price targets hiked, cautious on SpaceX valuation",
-          "url": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-093002704.html",
+          "title": "New leader board: Citi refreshes AI compute semiconductor picks",
+          "url": "https://finance.yahoo.com/technology/ai/articles/leader-board-citi-refreshes-ai-113314260.html",
           "source": "Investing.com",
-          "time": "2026-06-28T09:30:02Z"
+          "time": "2026-06-29T11:33:14Z"
         },
         {
-          "title": "Qualcomm Showed Up Late to the Data Center Game, but Came Ready to Play",
+          "title": "Magic Formula Showdown: Why CVS Beats Qualcomm and Valero for Retirees",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/magic-formula-showdown-why-cvs-112020038.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-06-29T11:20:20Z"
+        },
+        {
+          "title": "Qualcomm Is Remaking Itself Into an AI Company. Its Shares Look Dirt Cheap.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-remaking-itself-ai-company-105300071.html",
+          "source": "Motley Fool",
+          "time": "2026-06-29T10:53:00Z"
+        },
+        {
+          "title": "Stock Market’s Risk Appetite Is Shifting as AI, Iran, and Fed Fears Linger",
           "url": "",
           "source": "Barrons.com",
-          "time": "2026-06-28T07:00:00Z"
+          "time": "2026-06-29T10:28:00Z"
         },
         {
-          "title": "Qualcomm (QCOM) Unveils AI Data Center Push With Meta Microsoft And Modular",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-unveils-ai-data-041507851.html",
-          "source": "Simply Wall St.",
-          "time": "2026-06-28T04:15:07Z"
-        },
-        {
-          "title": "DZ Bank Backs Qualcomm (QCOM) with Buy Rating; Company Eyes $15 Billion in Sales by 2029",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dz-bank-backs-qualcomm-qcom-032927327.html",
+          "title": "Is QUALCOMM Incorporated (QCOM) Set to Acquire a Startup?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-incorporated-qcom-set-acquire-184622398.html",
           "source": "Insider Monkey",
-          "time": "2026-06-28T03:29:27Z"
-        },
-        {
-          "title": "BofA Lifts PT on QUALCOMM (QCOM) – Here’s Why",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-lifts-pt-qualcomm-qcom-183855527.html",
-          "source": "Insider Monkey",
-          "time": "2026-06-27T18:38:55Z"
+          "time": "2026-06-28T18:46:22Z"
         }
       ],
       "top_companies": [
@@ -505,7 +505,7 @@
           "pe": 29.48392,
           "revenue_growth": 85.2,
           "price": 192.53,
-          "change_pct": -1.63993
+          "change_pct": -1.6399338
         },
         {
           "ticker": "AAPL",
@@ -514,7 +514,7 @@
           "pe": 34.35593,
           "revenue_growth": 16.6,
           "price": 283.78,
-          "change_pct": 3.13647
+          "change_pct": 3.1364727
         },
         {
           "ticker": "AVGO",
@@ -523,7 +523,7 @@
           "pe": 60.63455,
           "revenue_growth": 47.9,
           "price": 365.02,
-          "change_pct": -3.66578
+          "change_pct": -3.6657822
         },
         {
           "ticker": "AMD",
@@ -532,7 +532,7 @@
           "pe": 172.13863,
           "revenue_growth": 37.8,
           "price": 521.58,
-          "change_pct": -2.06358
+          "change_pct": -2.0635767
         },
         {
           "ticker": "INTC",
@@ -541,7 +541,7 @@
           "pe": null,
           "revenue_growth": 7.2,
           "price": 128.32,
-          "change_pct": -3.42439
+          "change_pct": -3.424402
         },
         {
           "ticker": "CSCO",
@@ -550,7 +550,7 @@
           "pe": 37.923332,
           "revenue_growth": 12.0,
           "price": 113.77,
-          "change_pct": -4.37085
+          "change_pct": -4.370847
         },
         {
           "ticker": "ORCL",
@@ -568,7 +568,7 @@
           "pe": 20.364515,
           "revenue_growth": -3.5,
           "price": 189.39,
-          "change_pct": -7.56954
+          "change_pct": -7.569544
         },
         {
           "ticker": "ANET",
@@ -586,7 +586,7 @@
           "pe": 57.49034,
           "revenue_growth": 37.2,
           "price": 386.91,
-          "change_pct": -7.42229
+          "change_pct": -7.422293
         }
       ]
     },
@@ -614,6 +614,18 @@
       "hot_score": 30.2,
       "news": [
         {
+          "title": "Morning Minute: Bitcoin Headed for Rare Back-to-Back Quarterly Loss",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/morning-minute-bitcoin-headed-rare-115053363.html",
+          "source": "decrypt",
+          "time": "2026-06-29T11:50:53Z"
+        },
+        {
+          "title": "Bitcoin Has Had a Terrible 2026. What Can Make the Second Half of the Year Better?",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-had-terrible-2026-second-124000363.html",
+          "source": "Investopedia",
+          "time": "2026-06-28T12:40:00Z"
+        },
+        {
           "title": "Coinbase CEO Armstrong Comments on Betting Promotion Concerns in the Base App",
           "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-armstrong-comments-betting-120158136.html",
           "source": "BeInCrypto",
@@ -630,29 +642,17 @@
           "url": "https://finance.yahoo.com/markets/crypto/articles/cathie-woods-ark-invest-resumes-165604343.html",
           "source": "Stocktwits",
           "time": "2026-06-27T16:56:04Z"
-        },
-        {
-          "title": "Coinbase CEO Halved AI Costs, Calls Bitcoin Downturn a Cool Breeze",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-halved-ai-costs-130000536.html",
-          "source": "BeInCrypto",
-          "time": "2026-06-27T13:00:00Z"
-        },
-        {
-          "title": "Crypto's brutal week in review: Bitcoin prices, illicit Iranian transactions, & more",
-          "url": "https://finance.yahoo.com/video/cryptos-brutal-week-review-bitcoin-120000992.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-06-27T12:00:00Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "8473.T",
           "name": "SBI HOLDINGS INC",
-          "market_cap": 1742995193856,
-          "pe": 4.3177853,
+          "market_cap": 1736854470656,
+          "pe": 4.302573,
           "revenue_growth": -5.4,
-          "price": 2696.5,
-          "change_pct": -1.4977169
+          "price": 2687.0,
+          "change_pct": -0.35230854
         },
         {
           "ticker": "NU",
@@ -670,7 +670,7 @@
           "pe": 55.00369,
           "revenue_growth": -30.8,
           "price": 149.06,
-          "change_pct": 4.58882
+          "change_pct": 4.5888247
         },
         {
           "ticker": "HUT",
@@ -679,7 +679,7 @@
           "pe": null,
           "revenue_growth": 225.5,
           "price": 123.02,
-          "change_pct": 4.53773
+          "change_pct": 4.537733
         },
         {
           "ticker": "WULF",
@@ -688,7 +688,7 @@
           "pe": null,
           "revenue_growth": -1.1,
           "price": 25.83,
-          "change_pct": -0.882577
+          "change_pct": -0.88257694
         },
         {
           "ticker": "GLXY",
@@ -697,7 +697,7 @@
           "pe": null,
           "revenue_growth": -20.6,
           "price": 29.26,
-          "change_pct": 3.53857
+          "change_pct": 3.5385706
         },
         {
           "ticker": "CIFR",
@@ -706,7 +706,7 @@
           "pe": null,
           "revenue_growth": -28.8,
           "price": 25.94,
-          "change_pct": 1.01246
+          "change_pct": 1.0124619
         },
         {
           "ticker": "CORZ",
@@ -715,7 +715,7 @@
           "pe": null,
           "revenue_growth": 44.9,
           "price": 27.2,
-          "change_pct": -0.256691
+          "change_pct": -0.25669122
         },
         {
           "ticker": "OPRA",
@@ -724,7 +724,7 @@
           "pe": 14.960318,
           "revenue_growth": 23.2,
           "price": 18.85,
-          "change_pct": 3.91401
+          "change_pct": 3.9139967
         },
         {
           "ticker": "BBBY",
@@ -761,10 +761,22 @@
       "hot_score": 30.1,
       "news": [
         {
-          "title": "Dow Jones Futures: Market At Tipping Point As U.S.-Iran Attacks Escalate. Tesla, Jobs On Tap.",
+          "title": "Eli Lilly and Company (LLY) Up More Than 6% Over the Past Month, Can it Move Higher?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-company-lly-more-075527794.html",
+          "source": "Insider Monkey",
+          "time": "2026-06-29T07:55:27Z"
+        },
+        {
+          "title": "Dow Jones Futures Rise On U.S.-Iran News; Market At Tipping Point",
           "url": "",
           "source": "Investor's Business Daily",
-          "time": "2026-06-28T11:46:00Z"
+          "time": "2026-06-29T03:03:13Z"
+        },
+        {
+          "title": "Is Eli Lilly and Company (LLY) Among the Best AI-Powered Healthcare Stocks to Buy According to Hedge Funds?",
+          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-company-lly-among-195748897.html",
+          "source": "Insider Monkey",
+          "time": "2026-06-28T19:57:48Z"
         },
         {
           "title": "Eli Lilly (LLY) and BioArctic AB Enter into Research and Collaboration Agreement",
@@ -777,18 +789,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/street-thinks-eli-lilly-company-183628676.html",
           "source": "Insider Monkey",
           "time": "2026-06-27T18:36:28Z"
-        },
-        {
-          "title": "Eli Lilly (LLY) Wins EMA Backing For Jaypirca In Chronic Lymphocytic Leukemia",
-          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-wins-ema-120806620.html",
-          "source": "Simply Wall St.",
-          "time": "2026-06-27T12:08:06Z"
-        },
-        {
-          "title": "Eli Lilly Leads 5 Stocks Near Buy Points As The Market Rally Rotates",
-          "url": "",
-          "source": "Investor's Business Daily",
-          "time": "2026-06-27T12:00:35Z"
         }
       ],
       "top_companies": [
@@ -799,7 +799,7 @@
           "pe": null,
           "revenue_growth": null,
           "price": 182.08,
-          "change_pct": 2.19454
+          "change_pct": 2.1945353
         },
         {
           "ticker": "MDGL",
@@ -808,7 +808,7 @@
           "pe": null,
           "revenue_growth": 126.8,
           "price": 512.65,
-          "change_pct": -0.221872
+          "change_pct": -0.22188337
         },
         {
           "ticker": "ARWR",
@@ -817,7 +817,7 @@
           "pe": null,
           "revenue_growth": -86.4,
           "price": 78.89,
-          "change_pct": -0.479371
+          "change_pct": -0.47937086
         },
         {
           "ticker": "SMMT",
@@ -826,7 +826,7 @@
           "pe": null,
           "revenue_growth": null,
           "price": 14.01,
-          "change_pct": -1.19887
+          "change_pct": -1.1988722
         },
         {
           "ticker": "ALKS",
@@ -844,7 +844,7 @@
           "pe": 19.52098,
           "revenue_growth": 69.6,
           "price": 55.83,
-          "change_pct": 4.10218
+          "change_pct": 4.1021833
         },
         {
           "ticker": "TWST",
@@ -853,7 +853,7 @@
           "pe": null,
           "revenue_growth": 19.3,
           "price": 99.84,
-          "change_pct": 3.30056
+          "change_pct": 3.300572
         },
         {
           "ticker": "TVTX",
@@ -862,7 +862,7 @@
           "pe": null,
           "revenue_growth": 55.6,
           "price": 58.85,
-          "change_pct": -0.30493
+          "change_pct": -0.3049302
         },
         {
           "ticker": "APLS",
@@ -880,7 +880,7 @@
           "pe": null,
           "revenue_growth": 324.9,
           "price": 34.81,
-          "change_pct": 2.59358
+          "change_pct": 2.593578
         }
       ]
     },
@@ -908,54 +908,54 @@
       "hot_score": 25.1,
       "news": [
         {
-          "title": "Dow Jones Futures: Market At Tipping Point As U.S.-Iran Attacks Escalate. Tesla, Jobs On Tap.",
-          "url": "",
-          "source": "Investor's Business Daily",
-          "time": "2026-06-28T11:46:00Z"
+          "title": "Apple’s (AAPL) AI Strategy Reset Gains Wall Street Support Amid Cybersecurity Probe",
+          "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-ai-strategy-reset-115326070.html",
+          "source": "Insider Monkey",
+          "time": "2026-06-29T11:53:26Z"
         },
         {
-          "title": "Elon Musk Should 'Consider Selling EVs Again,' Says Ross Gerber As TSLA Stock Declines",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-consider-selling-evs-113131742.html",
+          "title": "Tesla Stock Rises as EV Maker Deepens Ties With SpaceX",
+          "url": "",
+          "source": "Barrons.com",
+          "time": "2026-06-29T11:15:00Z"
+        },
+        {
+          "title": "Morgan Stanley Lifts Tesla Delivery Forecast on Stronger Europe and China Demand (TSLA)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-lifts-tesla-delivery-105238754.html",
+          "source": "InvestorsHub",
+          "time": "2026-06-29T10:52:38Z"
+        },
+        {
+          "title": "Jensen Huang’s Net Worth Under Pressure As Nvidia Stock Nears Bear Market",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-net-worth-under-104607666.html",
           "source": "Benzinga",
-          "time": "2026-06-28T11:31:31Z"
+          "time": "2026-06-29T10:46:07Z"
         },
         {
-          "title": "‘High on Coke’: Elon Musk floored by Berkshire Hathaway's Coca-Cola dividend windfall. How to tap in and get rich",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/high-coke-elon-musk-floored-101500459.html",
-          "source": "Moneywise",
-          "time": "2026-06-28T10:15:00Z"
-        },
-        {
-          "title": "The AI Startup Challenging Tesla and Waymo in the Race to Automate Driving",
-          "url": "",
-          "source": "The Wall Street Journal",
-          "time": "2026-06-28T09:30:00Z"
-        },
-        {
-          "title": "I Let Wayve’s AI Car Drive Me Through London’s Busiest Streets",
-          "url": "https://finance.yahoo.com/video/let-wayve-ai-car-drive-093000732.html",
-          "source": "WSJ",
-          "time": "2026-06-28T09:30:00Z"
+          "title": "Strategy CEO Says Bitcoin Conviction Helped Company Survive Multiple 'Near-Death Experiences",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-ceo-says-bitcoin-conviction-103634978.html",
+          "source": "CCN",
+          "time": "2026-06-29T10:36:34Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "006400.KS",
           "name": "SAMSUNG SDI CO.,LTD.",
-          "market_cap": 35805603037184,
+          "market_cap": 40291138535424,
           "pe": null,
           "revenue_growth": 12.6,
-          "price": 455000.0,
-          "change_pct": -5.4054055
+          "price": 512000.0,
+          "change_pct": 12.527473
         },
         {
           "ticker": "7203.T",
           "name": "TOYOTA MOTOR CORP",
-          "market_cap": 32776034189312,
-          "pe": 9.371931,
+          "market_cap": 32823398367232,
+          "pe": 9.385474,
           "revenue_growth": 1.9,
-          "price": 2768.0,
-          "change_pct": 2.4995372
+          "price": 2772.0,
+          "change_pct": 0.14450866
         },
         {
           "ticker": "NVDA",
@@ -964,7 +964,7 @@
           "pe": 29.48392,
           "revenue_growth": 85.2,
           "price": 192.53,
-          "change_pct": -1.63993
+          "change_pct": -1.6399338
         },
         {
           "ticker": "GOOGL",
@@ -973,7 +973,7 @@
           "pe": 25.715702,
           "revenue_growth": 21.8,
           "price": 337.39,
-          "change_pct": -1.83875
+          "change_pct": -1.8387613
         },
         {
           "ticker": "MSFT",
@@ -982,7 +982,7 @@
           "pe": 22.227055,
           "revenue_growth": 18.3,
           "price": 372.97,
-          "change_pct": 5.70814
+          "change_pct": 5.7081265
         },
         {
           "ticker": "TSLA",
@@ -991,7 +991,7 @@
           "pe": 345.1909,
           "revenue_growth": 15.8,
           "price": 379.71,
-          "change_pct": 1.22361
+          "change_pct": 1.2236074
         },
         {
           "ticker": "INTC",
@@ -1000,7 +1000,7 @@
           "pe": null,
           "revenue_growth": 7.2,
           "price": 128.32,
-          "change_pct": -3.42439
+          "change_pct": -3.424402
         },
         {
           "ticker": "QCOM",
@@ -1009,7 +1009,7 @@
           "pe": 20.364515,
           "revenue_growth": -3.5,
           "price": 189.39,
-          "change_pct": -7.56954
+          "change_pct": -7.569544
         },
         {
           "ticker": "BE",
@@ -1055,34 +1055,34 @@
       "hot_score": 22.2,
       "news": [
         {
-          "title": "Slate's CEO on launching a $25K EV and why it's 'fun to have a contrarian point of view'",
-          "url": "https://finance.yahoo.com/technology/article/slates-ceo-on-launching-a-25k-ev-and-why-its-fun-to-have-a-contrarian-point-of-view-115639741.html",
-          "source": "Yahoo Finance",
-          "time": "2026-06-28T11:56:39Z"
-        },
-        {
-          "title": "Older tech workers are retiring at 55. But claiming Social Security early offers smaller checks for life.",
-          "url": "https://finance.yahoo.com/small-business/articles/older-tech-workers-retiring-55-104500266.html",
-          "source": "Moneywise",
-          "time": "2026-06-28T10:45:00Z"
-        },
-        {
-          "title": "Amazon.com, Inc. (AMZN) Is A Top Richard Chilton AI Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-top-103319549.html",
+          "title": "Indiana Just Cleared the Full Legal and Regulatory Framework for Amazon’s (AMZN) Data Center Expansion",
+          "url": "https://finance.yahoo.com/technology/articles/indiana-just-cleared-full-legal-115613021.html",
           "source": "Insider Monkey",
-          "time": "2026-06-28T10:33:19Z"
+          "time": "2026-06-29T11:56:13Z"
         },
         {
-          "title": "Will Amazon, Taiwan Semiconductor, SpaceX, or Broadcom Be the Next $3 Trillion Company?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-taiwan-semiconductor-spacex-broadcom-103200737.html",
-          "source": "Motley Fool",
-          "time": "2026-06-28T10:32:00Z"
-        },
-        {
-          "title": "FatPipe (FATN) Launches SATBoost to Enhance LEO Satellite Performance by Up to 300%",
-          "url": "https://finance.yahoo.com/technology/articles/fatpipe-fatn-launches-satboost-enhance-093546890.html",
+          "title": "Moody’s (MCO) Expands AWS AI Integration as Analyst Sees Durable Value in Proprietary Data",
+          "url": "https://finance.yahoo.com/technology/ai/articles/moody-mco-expands-aws-ai-115459988.html",
           "source": "Insider Monkey",
-          "time": "2026-06-28T09:35:46Z"
+          "time": "2026-06-29T11:54:59Z"
+        },
+        {
+          "title": "S&P 500 Nasdaq futures rise after U.S.-Iran pause June 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-113307203.html",
+          "source": "Quartz",
+          "time": "2026-06-29T11:33:07Z"
+        },
+        {
+          "title": "Is X-Energy (XE) the Best New Stock to Buy Other Than SpaceX?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/x-energy-xe-best-stock-111243982.html",
+          "source": "Insider Monkey",
+          "time": "2026-06-29T11:12:43Z"
+        },
+        {
+          "title": "Here’s Why Cerebras (CBRS) is Among the 10 Best New Stocks to Buy Other Than SpaceX",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-cerebras-cbrs-among-10-111215804.html",
+          "source": "Insider Monkey",
+          "time": "2026-06-29T11:12:15Z"
         }
       ],
       "top_companies": [
@@ -1093,7 +1093,7 @@
           "pe": 25.715702,
           "revenue_growth": 21.8,
           "price": 337.39,
-          "change_pct": -1.83875
+          "change_pct": -1.8387613
         },
         {
           "ticker": "MSFT",
@@ -1102,7 +1102,7 @@
           "pe": 22.227055,
           "revenue_growth": 18.3,
           "price": 372.97,
-          "change_pct": 5.70814
+          "change_pct": 5.7081265
         },
         {
           "ticker": "AMZN",
@@ -1138,7 +1138,7 @@
           "pe": null,
           "revenue_growth": 111.6,
           "price": 96.58,
-          "change_pct": -2.20737
+          "change_pct": -2.2073717
         },
         {
           "ticker": "P",
@@ -1165,7 +1165,7 @@
           "pe": 52.336845,
           "revenue_growth": 10.0,
           "price": 49.72,
-          "change_pct": 5.92246
+          "change_pct": 5.922451
         },
         {
           "ticker": "LUMN",
@@ -1202,34 +1202,34 @@
       "hot_score": 16.1,
       "news": [
         {
-          "title": "Older tech workers are retiring at 55. But claiming Social Security early offers smaller checks for life.",
-          "url": "https://finance.yahoo.com/small-business/articles/older-tech-workers-retiring-55-104500266.html",
-          "source": "Moneywise",
-          "time": "2026-06-28T10:45:00Z"
+          "title": "Is Meta (META) Still One of Billionaire Dan Loeb’s Best Growth Stocks to Buy While It Holds Out on Trump’s AI Review?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-still-one-billionaire-115718071.html",
+          "source": "Insider Monkey",
+          "time": "2026-06-29T11:57:18Z"
         },
         {
-          "title": "AI’s biggest winners may be electricians, not engineers",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-biggest-winners-may-electricians-090000986.html",
+          "title": "S&P 500 Nasdaq futures rise after U.S.-Iran pause June 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-113307203.html",
           "source": "Quartz",
-          "time": "2026-06-28T09:00:00Z"
+          "time": "2026-06-29T11:33:07Z"
         },
         {
-          "title": "Qualcomm Showed Up Late to the Data Center Game, but Came Ready to Play",
+          "title": "Alphabet Stock Gains on First Day as a Dow Member",
           "url": "",
           "source": "Barrons.com",
-          "time": "2026-06-28T07:00:00Z"
+          "time": "2026-06-29T11:14:00Z"
         },
         {
-          "title": "Google limits Meta’s use of its Gemini AI models, FT reports",
-          "url": "https://finance.yahoo.com/technology/ai/articles/google-limits-meta-gemini-ai-052302903.html",
-          "source": "Reuters",
-          "time": "2026-06-28T05:23:02Z"
+          "title": "Meta Platforms (META) To Launch a New Line of Smart Glasses and This Time They are Cheaper",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-launch-line-075457577.html",
+          "source": "Insider Monkey",
+          "time": "2026-06-29T07:54:57Z"
         },
         {
-          "title": "Qualcomm (QCOM) Unveils AI Data Center Push With Meta Microsoft And Modular",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-unveils-ai-data-041507851.html",
-          "source": "Simply Wall St.",
-          "time": "2026-06-28T04:15:07Z"
+          "title": "Silicon Valley’s AI jobs purge is a warning for the world",
+          "url": "https://finance.yahoo.com/news/silicon-valley-ai-jobs-purge-060000288.html",
+          "source": "The Telegraph",
+          "time": "2026-06-29T06:00:00Z"
         }
       ],
       "top_companies": [
@@ -1240,7 +1240,7 @@
           "pe": 29.48392,
           "revenue_growth": 85.2,
           "price": 192.53,
-          "change_pct": -1.63993
+          "change_pct": -1.6399338
         },
         {
           "ticker": "AAPL",
@@ -1249,7 +1249,7 @@
           "pe": 34.35593,
           "revenue_growth": 16.6,
           "price": 283.78,
-          "change_pct": 3.13647
+          "change_pct": 3.1364727
         },
         {
           "ticker": "GOOGL",
@@ -1258,7 +1258,7 @@
           "pe": 25.715702,
           "revenue_growth": 21.8,
           "price": 337.39,
-          "change_pct": -1.83875
+          "change_pct": -1.8387613
         },
         {
           "ticker": "MSFT",
@@ -1267,7 +1267,7 @@
           "pe": 22.227055,
           "revenue_growth": 18.3,
           "price": 372.97,
-          "change_pct": 5.70814
+          "change_pct": 5.7081265
         },
         {
           "ticker": "META",
@@ -1276,7 +1276,7 @@
           "pe": 20.001818,
           "revenue_growth": 33.1,
           "price": 550.25,
-          "change_pct": 1.35944
+          "change_pct": 1.3594425
         },
         {
           "ticker": "QCOM",
@@ -1285,7 +1285,7 @@
           "pe": 20.364515,
           "revenue_growth": -3.5,
           "price": 189.39,
-          "change_pct": -7.56954
+          "change_pct": -7.569544
         },
         {
           "ticker": "RBLX",
@@ -1387,7 +1387,7 @@
           "pe": 47.90777,
           "revenue_growth": 15.1,
           "price": 98.69,
-          "change_pct": 5.58468
+          "change_pct": 5.5846806
         },
         {
           "ticker": "INTU",
@@ -1396,7 +1396,7 @@
           "pe": 16.344324,
           "revenue_growth": 10.4,
           "price": 267.72,
-          "change_pct": 4.95942
+          "change_pct": 4.9594207
         },
         {
           "ticker": "XYZ",
@@ -1414,7 +1414,7 @@
           "pe": 55.00369,
           "revenue_growth": -30.8,
           "price": 149.06,
-          "change_pct": 4.58882
+          "change_pct": 4.5888247
         },
         {
           "ticker": "PYPL",
@@ -1423,7 +1423,7 @@
           "pe": 8.309568,
           "revenue_growth": 7.2,
           "price": 44.29,
-          "change_pct": 4.50684
+          "change_pct": 4.5068426
         },
         {
           "ticker": "FISV",
@@ -1432,25 +1432,25 @@
           "pe": 8.381356,
           "revenue_growth": null,
           "price": 49.45,
-          "change_pct": 4.03956
+          "change_pct": 4.03955
         },
         {
           "ticker": "ADYEN.AS",
           "name": "ADYEN",
-          "market_cap": 26014617600,
-          "pe": 24.572536,
+          "market_cap": 26367827968,
+          "pe": 24.906166,
           "revenue_growth": 16.9,
-          "price": 824.9,
-          "change_pct": 0.3650079
+          "price": 836.1,
+          "change_pct": 1.3577343
         },
         {
           "ticker": "SOFI",
           "name": "SoFi Technologies, Inc.",
-          "market_cap": 22935412736,
-          "pe": 39.733334,
+          "market_cap": 22896930816,
+          "pe": 39.666668,
           "revenue_growth": 42.5,
-          "price": 17.88,
-          "change_pct": 3.3526
+          "price": 17.85,
+          "change_pct": 3.0005798
         },
         {
           "ticker": "FIS",
