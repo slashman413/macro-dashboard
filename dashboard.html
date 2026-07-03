@@ -162,7 +162,7 @@ function indName(ind){return ind['name_'+currentLang.replace('-','_')]||ind.name
 function indDesc(ind){return ind['desc_'+currentLang.replace('-','_')]||ind.desc}
 
 function fmtLarge(n){if(!n)return'—';if(n>=1e12)return(n/1e12).toFixed(2)+'T';if(n>=1e9)return(n/1e9).toFixed(2)+'B';if(n>=1e6)return(n/1e6).toFixed(1)+'M';return n.toLocaleString()}
-function fmtPct(n){if(n==null)return'—';const v=n<1&&n>-1?n*100:n;return(v>0?'+':'')+v.toFixed(1)+'%'}
+function fmtPct(n){if(n==null)return'—';return(n>0?'+':'')+n.toFixed(1)+'%'}
 function medalIcon(r){if(r===1)return'🥇';if(r===2)return'🥈';if(r===3)return'🥉';return''}
 function timeAgo(s){if(!s)return'';const d=new Date(s);const diff=(Date.now()-d)/1000;if(diff<60)return t('just_now');if(diff<3600)return Math.floor(diff/60)+t('min_ago');if(diff<86400)return Math.floor(diff/3600)+t('hours_ago');return Math.floor(diff/86400)+t('days_ago')}
 function genBars(val){if(!val||val<=0)return[10,15,12,18,20];const b=[];for(let i=0;i<4;i++)b.push(Math.round(val*(0.3+Math.random()*0.6)*10)/10);b.push(val);const m=Math.max(...b,1);return b.map(v=>Math.round(v/m*100))}
