@@ -22,6 +22,20 @@ TEMPLATE = r"""<!DOCTYPE html>
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>{{TITLE}}</title>
+<meta name="description" content="14 大產業 ETF 熱度即時排名 — 依近 3 月報酬率排名、點卡片看前 10 大成分股，每日自動更新。">
+<link rel="canonical" href="https://slashmantools.us/macro-dashboard/">
+<!-- Open Graph / Twitter Card for rich preview when the URL is shared -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="slashman tools">
+<meta property="og:title" content="總經產業熱度儀表板 — 14 大產業 ETF">
+<meta property="og:description" content="依近 3 月報酬率排名、點卡片看前 10 大成分股，每日自動更新。免費。">
+<meta property="og:url" content="https://slashmantools.us/macro-dashboard/">
+<meta property="og:image" content="https://slashmantools.us/og.png">
+<meta property="og:locale" content="zh_TW">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="總經產業熱度儀表板 — 14 大產業 ETF">
+<meta name="twitter:description" content="依近 3 月報酬率排名、點卡片看前 10 大成分股，每日自動更新。免費。">
+<meta name="twitter:image" content="https://slashmantools.us/og.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700;14..32,800&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
 <style>
