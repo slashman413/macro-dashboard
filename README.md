@@ -1,4 +1,7 @@
 # Macro Dashboard 📊
+> ## 🛍️ **ETF 儀表板 — 完整版**
+> 此 repo 為開源核心。完整版 **[ETF 儀表板 ($199) on Gumroad](https://slashmaster6.gumroad.com/l/etf-dashboard)** — 自動財報分析、評分系統、歷史回測與每日更新。
+
 
 總經產業熱度儀表板 — 串接 Yahoo Finance 即時數據的產業熱度分析工具。
 
