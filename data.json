@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T09:22:52.359662+00:00",
+  "updated_at": "2026-08-03T10:52:28.251998+00:00",
   "total_tracked": 14,
   "industries": [
     {
@@ -64,7 +64,7 @@
           "pe": 64.98832,
           "revenue_growth": 47.9,
           "price": 389.28,
-          "change_pct": 0.371288
+          "change_pct": 0.37128776
         },
         {
           "ticker": "CSCO",
@@ -73,7 +73,7 @@
           "pe": 38.663334,
           "revenue_growth": 12.0,
           "price": 115.99,
-          "change_pct": 2.13984
+          "change_pct": 2.1398382
         },
         {
           "ticker": "PANW",
@@ -82,7 +82,7 @@
           "pe": 286.06033,
           "revenue_growth": 31.1,
           "price": 331.83,
-          "change_pct": 1.88835
+          "change_pct": 1.8883549
         },
         {
           "ticker": "CRWD",
@@ -91,7 +91,7 @@
           "pe": null,
           "revenue_growth": 25.6,
           "price": 190.86,
-          "change_pct": 3.04503
+          "change_pct": 3.0450273
         },
         {
           "ticker": "FTNT",
@@ -100,7 +100,7 @@
           "pe": 57.22615,
           "revenue_growth": 25.6,
           "price": 161.95,
-          "change_pct": 4.99189
+          "change_pct": 4.9918942
         },
         {
           "ticker": "GD",
@@ -127,7 +127,7 @@
           "pe": 32.05175,
           "revenue_growth": 10.9,
           "price": 402.57,
-          "change_pct": 3.55499
+          "change_pct": 3.5549858
         },
         {
           "ticker": "FSLY",
@@ -136,7 +136,7 @@
           "pe": null,
           "revenue_growth": 19.8,
           "price": 22.66,
-          "change_pct": 5.15082
+          "change_pct": 5.150815
         },
         {
           "ticker": "ATEN",
@@ -173,34 +173,34 @@
       "hot_score": 15.0,
       "news": [
         {
-          "title": "Why Now Is Finally the Time to Buy the Big Three Cloud Computing Stocks Before It's Too Late",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-now-finally-time-buy-071500836.html",
-          "source": "Motley Fool",
-          "time": "2026-08-02T07:15:00Z"
+          "title": "What Salesforce’s (CRM) $1.6 Billion VA Contract Signals for Its Government Cloud Strategy",
+          "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-1-6-billion-100007361.html",
+          "source": "Insider Monkey",
+          "time": "2026-08-03T10:00:07Z"
         },
         {
-          "title": "The Super-Rich Once Bought Teams as an ‘Ego Play.’ Now They See Dollar Signs.",
-          "url": "",
-          "source": "Barrons.com",
-          "time": "2026-08-02T06:00:00Z"
+          "title": "US Equity Investors to Focus on Quarterly Earnings, Nonfarm Payrolls, Iran Geopolitics This Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-focus-quarterly-093901802.html",
+          "source": "MT Newswires",
+          "time": "2026-08-03T09:39:01Z"
         },
         {
-          "title": "3 Brilliant Artificial Intelligence (AI) Stocks Billionaire Bill Ackman Owns That You Should Too",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-brilliant-artificial-intelligence-ai-042000145.html",
-          "source": "Motley Fool",
-          "time": "2026-08-02T04:20:00Z"
+          "title": "U.S. Futures Rise as Middle East Diplomacy Returns to Focus Ahead of Palantir Results: Dow Jones, S&P, Nasdaq, Wall Street",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/u-futures-rise-middle-east-091058375.html",
+          "source": "InvestorsHub",
+          "time": "2026-08-03T09:10:58Z"
         },
         {
-          "title": "Amazon (AMZN) Stock Fair Value Edges Higher After AWS And AI Price Target Debate",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-stock-fair-value-002042933.html",
-          "source": "Simply Wall St.",
-          "time": "2026-08-02T00:20:42Z"
+          "title": "Microsoft, Amazon and Alphabet's are part of Zacks Earnings Preview",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-amazon-alphabets-part-zacks-085600250.html",
+          "source": "Zacks",
+          "time": "2026-08-03T08:56:00Z"
         },
         {
-          "title": "Amazon Raised 2026 CapEx by $20 Billion— but CEO Andy Jassy Won't Say How It's Paying for It: 'Nothing to Share...'",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-raised-2026-capex-20-223016275.html",
-          "source": "Benzinga",
-          "time": "2026-08-01T22:30:16Z"
+          "title": "One Space Stock Defied July’s Rout – Here’s Why It Outperformed ASTS, RKLB, And SPCX",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/one-space-stock-defied-july-085254170.html",
+          "source": "Stocktwits",
+          "time": "2026-08-03T08:52:54Z"
         }
       ],
       "top_companies": [
@@ -211,7 +211,7 @@
           "pe": 17.86008,
           "revenue_growth": 24.2,
           "price": 356.13,
-          "change_pct": 6.7344
+          "change_pct": 6.7344003
         },
         {
           "ticker": "MSFT",
@@ -220,7 +220,7 @@
           "pe": 25.904123,
           "revenue_growth": 17.7,
           "price": 464.72,
-          "change_pct": 3.01928
+          "change_pct": 3.019285
         },
         {
           "ticker": "AMZN",
@@ -229,7 +229,7 @@
           "pe": 21.83119,
           "revenue_growth": 19.6,
           "price": 271.58,
-          "change_pct": 15.3206
+          "change_pct": 15.320596
         },
         {
           "ticker": "ORCL",
@@ -256,7 +256,16 @@
           "pe": null,
           "revenue_growth": 111.6,
           "price": 71.77,
-          "change_pct": -2.88228
+          "change_pct": -2.8822699
+        },
+        {
+          "ticker": "P",
+          "name": "Everpure, Inc.",
+          "market_cap": 25651687424,
+          "pe": 116.92423,
+          "revenue_growth": null,
+          "price": 77.17,
+          "change_pct": 2.81109
         },
         {
           "ticker": "NTNX",
@@ -265,7 +274,7 @@
           "pe": 62.115788,
           "revenue_growth": 10.0,
           "price": 59.01,
-          "change_pct": -0.42187
+          "change_pct": -0.42186975
         },
         {
           "ticker": "DOCN",
@@ -284,15 +293,6 @@
           "revenue_growth": -8.9,
           "price": 6.38,
           "change_pct": -2.7439
-        },
-        {
-          "ticker": "P",
-          "name": "Everpure, Inc.",
-          "market_cap": 0,
-          "pe": 116.92423,
-          "revenue_growth": null,
-          "price": 77.17,
-          "change_pct": 2.81109
         }
       ]
     },
@@ -320,34 +320,34 @@
       "hot_score": 12.8,
       "news": [
         {
-          "title": "Dow Jones Futures: Trump Calls Off Iran Attacks; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+          "title": "Ratio Therapeutics secures $70m Series C funding for cancer radiotherapy",
+          "url": "https://finance.yahoo.com/healthcare/articles/ratio-therapeutics-secures-70m-series-094558175.html",
+          "source": "Pharmaceutical Technology",
+          "time": "2026-08-03T09:45:58Z"
+        },
+        {
+          "title": "Microsoft, Amazon and Alphabet's are part of Zacks Earnings Preview",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-amazon-alphabets-part-zacks-085600250.html",
+          "source": "Zacks",
+          "time": "2026-08-03T08:56:00Z"
+        },
+        {
+          "title": "Bear of the Day: Boston Beer (SAM)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bear-day-boston-beer-sam-080000002.html",
+          "source": "Zacks",
+          "time": "2026-08-03T08:00:00Z"
+        },
+        {
+          "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
           "url": "",
           "source": "Investor's Business Daily",
-          "time": "2026-08-02T03:06:59Z"
+          "time": "2026-08-03T04:21:41Z"
         },
         {
-          "title": "Novo Nordisk (NVO) Stock Looks Below Fair Value Despite Recent Setbacks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-stock-looks-211119093.html",
-          "source": "Simply Wall St.",
-          "time": "2026-08-01T21:11:19Z"
-        },
-        {
-          "title": "Prediction: Eli Lilly Will Be Worth $2 Trillion by 2031",
-          "url": "https://finance.yahoo.com/healthcare/articles/prediction-eli-lilly-worth-2-203700691.html",
-          "source": "Motley Fool",
-          "time": "2026-08-01T20:37:00Z"
-        },
-        {
-          "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Google Rebounds After Sell-Off",
-          "url": "",
-          "source": "Investor's Business Daily",
-          "time": "2026-08-01T12:00:21Z"
-        },
-        {
-          "title": "NVO Stock Ends Three-Month Winning Streak As Novo Nordisk’s Key Heart Drug Flops, Competition Goes To Court",
-          "url": "https://finance.yahoo.com/healthcare/articles/nvo-stock-ends-three-month-005225168.html",
-          "source": "Stocktwits",
-          "time": "2026-08-01T00:52:25Z"
+          "title": "Weekly Roundup on the Cannabis Sector & Psychedelic Sector",
+          "url": "https://finance.yahoo.com/healthcare/articles/weekly-roundup-cannabis-sector-psychedelic-222628320.html",
+          "source": "Market Exclusive",
+          "time": "2026-08-02T22:26:28Z"
         }
       ],
       "top_companies": [
@@ -358,7 +358,7 @@
           "pe": null,
           "revenue_growth": null,
           "price": 187.53,
-          "change_pct": -2.41453
+          "change_pct": -2.4145284
         },
         {
           "ticker": "ARWR",
@@ -367,7 +367,7 @@
           "pe": null,
           "revenue_growth": -86.4,
           "price": 84.65,
-          "change_pct": -3.05772
+          "change_pct": -3.0577166
         },
         {
           "ticker": "MDGL",
@@ -376,7 +376,7 @@
           "pe": null,
           "revenue_growth": 71.2,
           "price": 467.32,
-          "change_pct": -5.23007
+          "change_pct": -5.2300715
         },
         {
           "ticker": "SMMT",
@@ -385,7 +385,7 @@
           "pe": null,
           "revenue_growth": null,
           "price": 13.02,
-          "change_pct": -3.12499
+          "change_pct": -3.1250005
         },
         {
           "ticker": "ALKS",
@@ -394,7 +394,7 @@
           "pe": 128.92107,
           "revenue_growth": 27.0,
           "price": 48.99,
-          "change_pct": -2.07875
+          "change_pct": -2.0787544
         },
         {
           "ticker": "TGTX",
@@ -403,7 +403,7 @@
           "pe": 18.192308,
           "revenue_growth": 69.6,
           "price": 52.03,
-          "change_pct": -2.80217
+          "change_pct": -2.8021672
         },
         {
           "ticker": "TWST",
@@ -412,7 +412,7 @@
           "pe": null,
           "revenue_growth": 19.3,
           "price": 91.55,
-          "change_pct": 0.240886
+          "change_pct": 0.24088603
         },
         {
           "ticker": "TVTX",
@@ -421,7 +421,7 @@
           "pe": null,
           "revenue_growth": 55.6,
           "price": 55.89,
-          "change_pct": -2.42667
+          "change_pct": -2.4266748
         },
         {
           "ticker": "BEAM",
@@ -430,7 +430,7 @@
           "pe": null,
           "revenue_growth": 324.9,
           "price": 25.52,
-          "change_pct": -3.66176
+          "change_pct": -3.6617565
         },
         {
           "ticker": "APLS",
@@ -479,6 +479,12 @@
           "time": "2026-08-02T03:17:14Z"
         },
         {
+          "title": "MarketBeat Week in Review – 07/27- 07/31",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-07-27-110000206.html",
+          "source": "MarketBeat",
+          "time": "2026-08-01T11:00:00Z"
+        },
+        {
           "title": "U.S. and allies display growing naval cooperation in Pacific drills",
           "url": "https://www.yahoo.com/news/politics/articles/us-allies-display-growing-naval-074948583.html",
           "source": "Investing.com",
@@ -489,12 +495,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/l3harris-lhx-lands-seven-missile-061725691.html",
           "source": "Simply Wall St.",
           "time": "2026-08-01T06:17:25Z"
-        },
-        {
-          "title": "Lockheed Martin’s Missile Contract Brings More Jobs, Higher Production",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-missile-contract-brings-133031190.html",
-          "source": "Benzinga",
-          "time": "2026-07-31T13:30:31Z"
         }
       ],
       "top_companies": [
@@ -519,7 +519,7 @@
         {
           "ticker": "BA",
           "name": "Boeing Company (The)",
-          "market_cap": 170830577664,
+          "market_cap": 170705747968,
           "pe": 77.469536,
           "revenue_growth": 8.0,
           "price": 216.14,
@@ -562,6 +562,15 @@
           "change_pct": 1.42657
         },
         {
+          "ticker": "TDG",
+          "name": "Transdigm Group Incorporated",
+          "market_cap": 70161973248,
+          "pe": 39.211628,
+          "revenue_growth": 18.3,
+          "price": 1254.38,
+          "change_pct": 0.357623
+        },
+        {
           "ticker": "LHX",
           "name": "L3Harris Technologies, Inc.",
           "market_cap": 51592622080,
@@ -577,16 +586,7 @@
           "pe": null,
           "revenue_growth": 63.5,
           "price": 64.95,
-          "change_pct": 0.417435
-        },
-        {
-          "ticker": "TDG",
-          "name": "Transdigm Group Incorporated",
-          "market_cap": 0,
-          "pe": 39.211628,
-          "revenue_growth": 18.3,
-          "price": 1254.38,
-          "change_pct": 0.357623
+          "change_pct": 0.4174345
         }
       ]
     },
@@ -600,7 +600,7 @@
       "etf_name": "VanEck Semiconductor ETF",
       "bellwether": "NVDA",
       "metrics": {
-        "pe_ratio": null,
+        "pe_ratio": 35.0,
         "revenue_growth": 85.2,
         "profit_margin": 63.0,
         "total_assets": 77198270464
@@ -614,34 +614,34 @@
       "hot_score": 6.0,
       "news": [
         {
-          "title": "Billionaire Steve Cohen Is Buying This Overlooked Stock While Dumping Big Tech",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-steve-cohen-buying-overlooked-090400208.html",
+          "title": "Apple Shed $426 Billion in Market Cap in 2 Days. Here's What Wall Street Is Getting Wrong.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-shed-426-billion-market-103300150.html",
           "source": "Motley Fool",
-          "time": "2026-08-02T09:04:00Z"
+          "time": "2026-08-03T10:33:00Z"
         },
         {
-          "title": "Warren Buffett Thinks Investors Are \"Gambling\" Right Now. Here's What Happened the Last Time He Uttered Those Words.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-thinks-investors-gambling-082700928.html",
+          "title": "3 Reasons to Buy Bloom Energy Stock -- and 3 Reasons to Wait",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-buy-bloom-energy-102500609.html",
           "source": "Motley Fool",
-          "time": "2026-08-02T08:27:00Z"
+          "time": "2026-08-03T10:25:00Z"
         },
         {
-          "title": "President Donald Trump Expects the Stock Market to \"Go Through the Roof,\" but His Own Policies Can Prevent That From Happening",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/president-donald-trump-expects-stock-082600474.html",
+          "title": "Mark Zuckerberg Just Explained Why Iren Has an Edge Over Other Neoclouds",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-just-explained-why-102000559.html",
           "source": "Motley Fool",
-          "time": "2026-08-02T08:26:00Z"
+          "time": "2026-08-03T10:20:00Z"
         },
         {
-          "title": "1 Incredible Reason to Buy Qualcomm Stock Right Now",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/1-incredible-reason-buy-qualcomm-082500588.html",
-          "source": "Motley Fool",
-          "time": "2026-08-02T08:25:00Z"
+          "title": "Oracle’s Massive AI Bet Has Already Cost Larry Ellison $207 Billion. Analyst Warns the AI Bubble Is 17 Times Bigger Than the Dot-Com Bubble.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/oracle-massive-ai-bet-already-101853108.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-08-03T10:18:53Z"
         },
         {
-          "title": "Here Are My 3 Top Artificial Intelligence (AI) Stocks to Buy in August",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-artificial-intelligence-ai-082000314.html",
+          "title": "15% Of Israel Englander's $240 Billion Millennium Portfolio Sits in Just 10 Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/15-israel-englanders-240-billion-100100377.html",
           "source": "Motley Fool",
-          "time": "2026-08-02T08:20:00Z"
+          "time": "2026-08-03T10:01:00Z"
         }
       ],
       "top_companies": [
@@ -652,7 +652,7 @@
           "pe": 30.789877,
           "revenue_growth": 85.2,
           "price": 200.75,
-          "change_pct": 2.92761
+          "change_pct": 2.9276083
         },
         {
           "ticker": "TSM",
@@ -670,7 +670,25 @@
           "pe": 64.98832,
           "revenue_growth": 47.9,
           "price": 389.28,
-          "change_pct": 0.371288
+          "change_pct": 0.37128776
+        },
+        {
+          "ticker": "MU",
+          "name": "Micron Technology, Inc.",
+          "market_cap": 929524482048,
+          "pe": 18.586948,
+          "revenue_growth": 345.7,
+          "price": 823.03,
+          "change_pct": -5.9028654
+        },
+        {
+          "ticker": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
+          "market_cap": 776410431488,
+          "pe": 158.71666,
+          "revenue_growth": 37.8,
+          "price": 476.15,
+          "change_pct": -1.9036219
         },
         {
           "ticker": "INTC",
@@ -679,7 +697,7 @@
           "pe": null,
           "revenue_growth": 25.4,
           "price": 90.2,
-          "change_pct": -1.02052
+          "change_pct": -1.0205204
         },
         {
           "ticker": "LRCX",
@@ -688,7 +706,7 @@
           "pe": 50.78336,
           "revenue_growth": 30.0,
           "price": 293.02,
-          "change_pct": -1.57867
+          "change_pct": -1.5786687
         },
         {
           "ticker": "TXN",
@@ -697,7 +715,7 @@
           "pe": 41.842182,
           "revenue_growth": 22.8,
           "price": 275.74,
-          "change_pct": -1.08338
+          "change_pct": -1.0833653
         },
         {
           "ticker": "KLAC",
@@ -706,34 +724,16 @@
           "pe": 49.95082,
           "revenue_growth": 15.2,
           "price": 182.82,
-          "change_pct": 1.3808
-        },
-        {
-          "ticker": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
-          "market_cap": 0,
-          "pe": 158.71666,
-          "revenue_growth": 37.8,
-          "price": 476.15,
-          "change_pct": -1.90363
-        },
-        {
-          "ticker": "MU",
-          "name": "Micron Technology, Inc.",
-          "market_cap": 0,
-          "pe": 18.586948,
-          "revenue_growth": 345.7,
-          "price": 823.03,
-          "change_pct": -5.90286
+          "change_pct": 1.3808049
         },
         {
           "ticker": "ADI",
           "name": "Analog Devices, Inc.",
-          "market_cap": 0,
+          "market_cap": 178960646144,
           "pe": 54.67411,
           "revenue_growth": 37.2,
           "price": 367.41,
-          "change_pct": 0.201814
+          "change_pct": 0.20181367
         }
       ]
     },
@@ -761,54 +761,54 @@
       "hot_score": 3.6,
       "news": [
         {
-          "title": "Why Now Is Finally the Time to Buy the Big Three Cloud Computing Stocks Before It's Too Late",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-now-finally-time-buy-071500836.html",
+          "title": "Mark Zuckerberg Just Explained Why Iren Has an Edge Over Other Neoclouds",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-just-explained-why-102000559.html",
           "source": "Motley Fool",
-          "time": "2026-08-02T07:15:00Z"
+          "time": "2026-08-03T10:20:00Z"
         },
         {
-          "title": "3 Brilliant Artificial Intelligence (AI) Stocks Billionaire Bill Ackman Owns That You Should Too",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-brilliant-artificial-intelligence-ai-042000145.html",
-          "source": "Motley Fool",
-          "time": "2026-08-02T04:20:00Z"
+          "title": "What Salesforce’s (CRM) $1.6 Billion VA Contract Signals for Its Government Cloud Strategy",
+          "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-1-6-billion-100007361.html",
+          "source": "Insider Monkey",
+          "time": "2026-08-03T10:00:07Z"
         },
         {
-          "title": "Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-26-52-week-232000438.html",
-          "source": "Motley Fool",
-          "time": "2026-08-01T23:20:00Z"
+          "title": "US Equity Investors to Focus on Quarterly Earnings, Nonfarm Payrolls, Iran Geopolitics This Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-focus-quarterly-093901802.html",
+          "source": "MT Newswires",
+          "time": "2026-08-03T09:39:01Z"
         },
         {
-          "title": "Microsoft (MSFT) Faces Consumer Probes Over Microsoft 365 And Copilot Changes",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-faces-consumer-probes-180849418.html",
-          "source": "Simply Wall St.",
-          "time": "2026-08-01T18:08:49Z"
+          "title": "U.S. Futures Rise as Middle East Diplomacy Returns to Focus Ahead of Palantir Results: Dow Jones, S&P, Nasdaq, Wall Street",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/u-futures-rise-middle-east-091058375.html",
+          "source": "InvestorsHub",
+          "time": "2026-08-03T09:10:58Z"
         },
         {
-          "title": "Microsoft’s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock",
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-cybersecurity-push-could-160912618.html",
-          "source": "Barchart",
-          "time": "2026-08-01T16:09:12Z"
+          "title": "Microsoft, Amazon and Alphabet's are part of Zacks Earnings Preview",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-amazon-alphabets-part-zacks-085600250.html",
+          "source": "Zacks",
+          "time": "2026-08-03T08:56:00Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "005930.KS",
           "name": "SamsungElec",
-          "market_cap": 1723722847223808,
+          "market_cap": 1572691932872704,
           "pe": null,
           "revenue_growth": 129.9,
-          "price": 262500.0,
-          "change_pct": 26.811594
+          "price": 239500.0,
+          "change_pct": -8.761905
         },
         {
           "ticker": "000660.KS",
           "name": "SK hynix",
-          "market_cap": 1219530730766336,
+          "market_cap": 1112342641246208,
           "pe": null,
           "revenue_growth": 256.8,
-          "price": 1718000.0,
-          "change_pct": 29.954615
+          "price": 1567000.0,
+          "change_pct": -8.789289
         },
         {
           "ticker": "GOOGL",
@@ -817,7 +817,7 @@
           "pe": 17.86008,
           "revenue_growth": 24.2,
           "price": 356.13,
-          "change_pct": 6.7344
+          "change_pct": 6.7344003
         },
         {
           "ticker": "AMZN",
@@ -826,7 +826,7 @@
           "pe": 21.83119,
           "revenue_growth": 19.6,
           "price": 271.58,
-          "change_pct": 15.3206
+          "change_pct": 15.320596
         },
         {
           "ticker": "TSM",
@@ -844,7 +844,25 @@
           "pe": 64.98832,
           "revenue_growth": 47.9,
           "price": 389.28,
-          "change_pct": 0.371288
+          "change_pct": 0.37128776
+        },
+        {
+          "ticker": "MU",
+          "name": "Micron Technology, Inc.",
+          "market_cap": 929524482048,
+          "pe": 18.586948,
+          "revenue_growth": 345.7,
+          "price": 823.03,
+          "change_pct": -5.9028654
+        },
+        {
+          "ticker": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
+          "market_cap": 776410431488,
+          "pe": 158.71666,
+          "revenue_growth": 37.8,
+          "price": 476.15,
+          "change_pct": -1.9036219
         },
         {
           "ticker": "CSCO",
@@ -853,7 +871,7 @@
           "pe": 38.663334,
           "revenue_growth": 12.0,
           "price": 115.99,
-          "change_pct": 2.13984
+          "change_pct": 2.1398382
         },
         {
           "ticker": "INTC",
@@ -862,25 +880,7 @@
           "pe": null,
           "revenue_growth": 25.4,
           "price": 90.2,
-          "change_pct": -1.02052
-        },
-        {
-          "ticker": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
-          "market_cap": 0,
-          "pe": 158.71666,
-          "revenue_growth": 37.8,
-          "price": 476.15,
-          "change_pct": -1.90363
-        },
-        {
-          "ticker": "MU",
-          "name": "Micron Technology, Inc.",
-          "market_cap": 0,
-          "pe": 18.586948,
-          "revenue_growth": 345.7,
-          "price": 823.03,
-          "change_pct": -5.90286
+          "change_pct": -1.0205204
         }
       ]
     },
@@ -908,90 +908,90 @@
       "hot_score": 2.7,
       "news": [
         {
-          "title": "Why Now Is Finally the Time to Buy the Big Three Cloud Computing Stocks Before It's Too Late",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-now-finally-time-buy-071500836.html",
+          "title": "Mark Zuckerberg Just Explained Why Iren Has an Edge Over Other Neoclouds",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-just-explained-why-102000559.html",
           "source": "Motley Fool",
-          "time": "2026-08-02T07:15:00Z"
+          "time": "2026-08-03T10:20:00Z"
         },
         {
-          "title": "3 Brilliant Artificial Intelligence (AI) Stocks Billionaire Bill Ackman Owns That You Should Too",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-brilliant-artificial-intelligence-ai-042000145.html",
-          "source": "Motley Fool",
-          "time": "2026-08-02T04:20:00Z"
+          "title": "What Salesforce’s (CRM) $1.6 Billion VA Contract Signals for Its Government Cloud Strategy",
+          "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-1-6-billion-100007361.html",
+          "source": "Insider Monkey",
+          "time": "2026-08-03T10:00:07Z"
         },
         {
-          "title": "Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-26-52-week-232000438.html",
-          "source": "Motley Fool",
-          "time": "2026-08-01T23:20:00Z"
+          "title": "US Equity Investors to Focus on Quarterly Earnings, Nonfarm Payrolls, Iran Geopolitics This Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-focus-quarterly-093901802.html",
+          "source": "MT Newswires",
+          "time": "2026-08-03T09:39:01Z"
         },
         {
-          "title": "Microsoft (MSFT) Faces Consumer Probes Over Microsoft 365 And Copilot Changes",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-faces-consumer-probes-180849418.html",
-          "source": "Simply Wall St.",
-          "time": "2026-08-01T18:08:49Z"
+          "title": "U.S. Futures Rise as Middle East Diplomacy Returns to Focus Ahead of Palantir Results: Dow Jones, S&P, Nasdaq, Wall Street",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/u-futures-rise-middle-east-091058375.html",
+          "source": "InvestorsHub",
+          "time": "2026-08-03T09:10:58Z"
         },
         {
-          "title": "Microsoft’s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock",
-          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-cybersecurity-push-could-160912618.html",
-          "source": "Barchart",
-          "time": "2026-08-01T16:09:12Z"
+          "title": "Microsoft, Amazon and Alphabet's are part of Zacks Earnings Preview",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-amazon-alphabets-part-zacks-085600250.html",
+          "source": "Zacks",
+          "time": "2026-08-03T08:56:00Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "7974.T",
           "name": "NINTENDO CO LTD",
-          "market_cap": 8852913258496,
-          "pe": 21.052776,
+          "market_cap": 8749155090432,
+          "pe": 20.806032,
           "revenue_growth": 95.1,
-          "price": 7679.0,
-          "change_pct": -5.7213016
+          "price": 7589.0,
+          "change_pct": -1.1720276
         },
         {
           "ticker": "0700.HK",
           "name": "TENCENT",
-          "market_cap": 4277574041600,
-          "pe": 16.977493,
+          "market_cap": 4414398529536,
+          "pe": 17.520542,
           "revenue_growth": 9.1,
-          "price": 475.2,
-          "change_pct": 0.72064954
+          "price": 490.4,
+          "change_pct": 3.1986494
         },
         {
           "ticker": "9697.T",
           "name": "CAPCOM CO LTD",
-          "market_cap": 1658176274432,
-          "pe": 30.394112,
+          "market_cap": 1626384760832,
+          "pe": 29.811378,
           "revenue_growth": 54.7,
-          "price": 3964.0,
-          "change_pct": -3.4818602
+          "price": 3888.0,
+          "change_pct": -1.9172553
         },
         {
           "ticker": "3293.TWO",
           "name": "INTERNATIONAL GAMES SYSTEM CO",
-          "market_cap": 218678018048,
-          "pe": 19.571247,
+          "market_cap": 217269010432,
+          "pe": 19.445145,
           "revenue_growth": 16.9,
-          "price": 776.0,
-          "change_pct": 3.6048067
+          "price": 771.0,
+          "change_pct": -0.6443299
         },
         {
           "ticker": "NTES",
           "name": "NetEase, Inc.",
           "market_cap": 85326143488,
-          "pe": 17.064022,
+          "pe": 16.998724,
           "revenue_growth": 6.1,
           "price": 133.27,
-          "change_pct": 1.0425
+          "change_pct": 1.0424958
         },
         {
           "ticker": "EA",
           "name": "Electronic Arts Inc.",
-          "market_cap": 52965273600,
+          "market_cap": 52622708736,
           "pe": 59.96,
           "revenue_growth": 11.9,
           "price": 209.86,
-          "change_pct": 0.128825
+          "change_pct": 0.12882498
         },
         {
           "ticker": "TTWO",
@@ -1000,16 +1000,16 @@
           "pe": null,
           "revenue_growth": 6.1,
           "price": 242.92,
-          "change_pct": -1.82274
+          "change_pct": -1.8227355
         },
         {
           "ticker": "ALL.AX",
           "name": "ARISTOCRAT FPO [ALL]",
-          "market_cap": 38419021824,
-          "pe": 27.042194,
+          "market_cap": 38574882816,
+          "pe": 27.1519,
           "revenue_growth": -0.2,
-          "price": 64.09,
-          "change_pct": -1.5060755
+          "price": 64.35,
+          "change_pct": 0.40568286
         },
         {
           "ticker": "RBLX",
@@ -1055,34 +1055,34 @@
       "hot_score": 1.2,
       "news": [
         {
-          "title": "Meta Trades at a Forward P/E of 17, Below Its 5-Year Average, Making the Stock a Potential Bargain as Zuckerberg's Net Worth Rebounds",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-trades-forward-p-e-072000228.html",
-          "source": "Motley Fool",
-          "time": "2026-08-02T07:20:00Z"
+          "title": "The tech stock dumpster fire should remind you of this important investing lesson",
+          "url": "https://finance.yahoo.com/markets/article/the-tech-stock-dumpster-fire-should-remind-you-of-this-important-investing-lesson-123000193.html",
+          "source": "Yahoo Finance",
+          "time": "2026-08-02T12:30:00Z"
         },
         {
-          "title": "An Analyst Just Named Mark Zuckerberg's Meta a Top Large-Cap Long Idea, Citing AI-Driven Ad Momentum and an Attractive Valuation",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-named-mark-zuckerbergs-055000601.html",
+          "title": "Mark Zuckerberg Just Explained Why Iren Has an Edge Over Other Neoclouds",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-just-explained-why-102000559.html",
           "source": "Motley Fool",
-          "time": "2026-08-02T05:50:00Z"
+          "time": "2026-08-03T10:20:00Z"
         },
         {
-          "title": "3 Brilliant Artificial Intelligence (AI) Stocks Billionaire Bill Ackman Owns That You Should Too",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-brilliant-artificial-intelligence-ai-042000145.html",
-          "source": "Motley Fool",
-          "time": "2026-08-02T04:20:00Z"
+          "title": "Meta Scales Back Wipro Outsourcing Following AI-Led Business Restructuring",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-scales-back-wipro-outsourcing-100812687.html",
+          "source": "InvestorsHub",
+          "time": "2026-08-03T10:08:12Z"
         },
         {
-          "title": "Mark Zuckerberg Is Betting Up to $145 Billion on AI Infrastructure in 2026",
-          "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-betting-145-billion-002700815.html",
-          "source": "Motley Fool",
-          "time": "2026-08-02T00:27:00Z"
+          "title": "SNAP Stock Falls Premarket Ahead Of Quarterly Report: Investors Watch User Growth, Ad Sales",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/snap-stock-falls-premarket-ahead-094254190.html",
+          "source": "Stocktwits",
+          "time": "2026-08-03T09:42:54Z"
         },
         {
-          "title": "Bernie Sanders Mocks Meta CEO Mark Zuckerberg Over Potential $10.5 Billion Tax Bill in California: 'How Will He Survive?'",
-          "url": "https://www.yahoo.com/news/politics/articles/bernie-sanders-mocks-meta-ceo-213019729.html",
-          "source": "Benzinga",
-          "time": "2026-08-01T21:30:19Z"
+          "title": "U.S. Futures Rise as Middle East Diplomacy Returns to Focus Ahead of Palantir Results: Dow Jones, S&P, Nasdaq, Wall Street",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/u-futures-rise-middle-east-091058375.html",
+          "source": "InvestorsHub",
+          "time": "2026-08-03T09:10:58Z"
         }
       ],
       "top_companies": [
@@ -1093,7 +1093,7 @@
           "pe": 30.789877,
           "revenue_growth": 85.2,
           "price": 200.75,
-          "change_pct": 2.92761
+          "change_pct": 2.9276083
         },
         {
           "ticker": "AAPL",
@@ -1102,7 +1102,7 @@
           "pe": 35.46613,
           "revenue_growth": 16.4,
           "price": 308.91,
-          "change_pct": -7.35386
+          "change_pct": -7.3538647
         },
         {
           "ticker": "GOOGL",
@@ -1111,7 +1111,7 @@
           "pe": 17.86008,
           "revenue_growth": 24.2,
           "price": 356.13,
-          "change_pct": 6.7344
+          "change_pct": 6.7344003
         },
         {
           "ticker": "MSFT",
@@ -1120,7 +1120,7 @@
           "pe": 25.904123,
           "revenue_growth": 17.7,
           "price": 464.72,
-          "change_pct": 3.01928
+          "change_pct": 3.019285
         },
         {
           "ticker": "META",
@@ -1129,7 +1129,7 @@
           "pe": 20.960468,
           "revenue_growth": 28.0,
           "price": 556.71,
-          "change_pct": 3.27996
+          "change_pct": 3.2799642
         },
         {
           "ticker": "QCOM",
@@ -1138,7 +1138,7 @@
           "pe": 16.869715,
           "revenue_growth": -4.0,
           "price": 147.61,
-          "change_pct": -2.63193
+          "change_pct": -2.6319296
         },
         {
           "ticker": "RBLX",
@@ -1202,6 +1202,24 @@
       "hot_score": -1.3,
       "news": [
         {
+          "title": "Bitcoin's Coinbase Premium Logs Longest Negative Streak On Record Again As Capital Shifts Elsewhere",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoins-coinbase-premium-logs-longest-163040132.html",
+          "source": "Stocktwits",
+          "time": "2026-08-02T16:30:40Z"
+        },
+        {
+          "title": "Coinbase CEO Brian Armstrong Continues to Advocate for the Clarity Act. Here's the Most Likely Scenario For the Crypto Market.",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-brian-armstrong-continues-155000500.html",
+          "source": "Motley Fool",
+          "time": "2026-08-02T15:50:00Z"
+        },
+        {
+          "title": "Brian Armstrong Isn't Losing Sleep Over Crypto Act Not Passing Before August Recess: Here's Why the Coinbase CEO Isn't Worried",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/brian-armstrong-isnt-losing-sleep-100030292.html",
+          "source": "Benzinga",
+          "time": "2026-08-02T10:00:30Z"
+        },
+        {
           "title": "Ark Invest Rotates $43.5M Into Coinbase and Circle as Bullish and Bitmine Exit",
           "url": "https://finance.yahoo.com/markets/crypto/articles/ark-invest-rotates-43-5m-063353318.html",
           "source": "99bitcoins",
@@ -1212,35 +1230,17 @@
           "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-brian-armstrong-says-165827737.html",
           "source": "Motley Fool",
           "time": "2026-08-01T16:58:27Z"
-        },
-        {
-          "title": "Democrats Reportedly Circulate Anti-Crypto Poll Ahead Of CLARITY Act Vote, Coinbase Exec Calls It A 'Message-Testing Memo'",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/democrats-reportedly-circulate-anti-crypto-120234914.html",
-          "source": "Stocktwits",
-          "time": "2026-08-01T12:02:34Z"
-        },
-        {
-          "title": "Coinbase Reports Record Share of Global Crypto Trading Volume, But Its Price Still Drops. What Does That Mean For COIN Investors?",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-reports-record-share-global-101307154.html",
-          "source": "Motley Fool",
-          "time": "2026-08-01T10:13:07Z"
-        },
-        {
-          "title": "Coinbase (COIN) Stock May Be Overvalued Following Everything Exchange Expansion Plans",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coinbase-coin-stock-may-overvalued-100914031.html",
-          "source": "Simply Wall St.",
-          "time": "2026-08-01T10:09:14Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "8473.T",
           "name": "SBI HOLDINGS INC",
-          "market_cap": 1963737874432,
-          "pe": 4.8638353,
+          "market_cap": 1899098800128,
+          "pe": 4.7037354,
           "revenue_growth": 28.8,
-          "price": 3038.0,
-          "change_pct": 7.501769
+          "price": 2938.0,
+          "change_pct": -3.2916393
         },
         {
           "ticker": "NU",
@@ -1258,7 +1258,7 @@
           "pe": null,
           "revenue_growth": -17.3,
           "price": 146.26,
-          "change_pct": -10.5881
+          "change_pct": -10.588087
         },
         {
           "ticker": "HUT",
@@ -1267,7 +1267,7 @@
           "pe": null,
           "revenue_growth": 225.5,
           "price": 107.63,
-          "change_pct": -0.591114
+          "change_pct": -0.5911143
         },
         {
           "ticker": "CIFR",
@@ -1276,7 +1276,7 @@
           "pe": null,
           "revenue_growth": -28.8,
           "price": 22.32,
-          "change_pct": -1.47871
+          "change_pct": -1.4786983
         },
         {
           "ticker": "WULF",
@@ -1285,7 +1285,7 @@
           "pe": null,
           "revenue_growth": -1.1,
           "price": 17.66,
-          "change_pct": -0.897867
+          "change_pct": -0.8978668
         },
         {
           "ticker": "GLXY",
@@ -1294,7 +1294,7 @@
           "pe": null,
           "revenue_growth": -20.6,
           "price": 21.01,
-          "change_pct": -2.36989
+          "change_pct": -2.3698895
         },
         {
           "ticker": "CORZ",
@@ -1303,7 +1303,7 @@
           "pe": null,
           "revenue_growth": 108.8,
           "price": 20.72,
-          "change_pct": -4.99771
+          "change_pct": -4.9977083
         },
         {
           "ticker": "OPRA",
@@ -1312,7 +1312,7 @@
           "pe": 15.0,
           "revenue_growth": 23.2,
           "price": 18.9,
-          "change_pct": 1.23192
+          "change_pct": 1.2319205
         },
         {
           "ticker": "BBBY",
@@ -1387,7 +1387,7 @@
           "pe": 19.272562,
           "revenue_growth": 10.4,
           "price": 316.07,
-          "change_pct": 0.180668
+          "change_pct": 0.18066794
         },
         {
           "ticker": "HOOD",
@@ -1396,16 +1396,16 @@
           "pe": 38.300884,
           "revenue_growth": 32.3,
           "price": 86.56,
-          "change_pct": -0.0461904
+          "change_pct": -0.046190433
         },
         {
           "ticker": "PYPL",
           "name": "PayPal Holdings, Inc.",
-          "market_cap": 48940916736,
+          "market_cap": 49315020800,
           "pe": 10.814745,
           "revenue_growth": 4.8,
           "price": 57.21,
-          "change_pct": -0.763231
+          "change_pct": -0.763224
         },
         {
           "ticker": "XYZ",
@@ -1423,7 +1423,16 @@
           "pe": null,
           "revenue_growth": -17.3,
           "price": 146.26,
-          "change_pct": -10.5881
+          "change_pct": -10.588087
+        },
+        {
+          "ticker": "ADYEN.AS",
+          "name": "ADYEN",
+          "market_cap": 28878149632,
+          "pe": 27.26109,
+          "revenue_growth": 16.9,
+          "price": 915.7,
+          "change_pct": 4.425686
         },
         {
           "ticker": "FISV",
@@ -1432,16 +1441,7 @@
           "pe": 9.142372,
           "revenue_growth": null,
           "price": 53.94,
-          "change_pct": -0.240431
-        },
-        {
-          "ticker": "ADYEN.AS",
-          "name": "ADYEN",
-          "market_cap": 27654526976,
-          "pe": 26.105984,
-          "revenue_growth": 16.9,
-          "price": 876.9,
-          "change_pct": -0.93763983
+          "change_pct": -0.24043106
         },
         {
           "ticker": "FIS",
@@ -1453,22 +1453,22 @@
           "change_pct": -2.67391
         },
         {
+          "ticker": "GPN",
+          "name": "Global Payments Inc.",
+          "market_cap": 22999539712,
+          "pe": 30.911764,
+          "revenue_growth": 63.1,
+          "price": 84.08,
+          "change_pct": -3.17825
+        },
+        {
           "ticker": "SOFI",
           "name": "SoFi Technologies, Inc.",
           "market_cap": 21044996096,
           "pe": 33.285713,
           "revenue_growth": 42.6,
           "price": 16.31,
-          "change_pct": -0.971462
-        },
-        {
-          "ticker": "GPN",
-          "name": "Global Payments Inc.",
-          "market_cap": 0,
-          "pe": 30.911764,
-          "revenue_growth": 63.1,
-          "price": 84.08,
-          "change_pct": -3.17825
+          "change_pct": -0.97146237
         }
       ]
     }
