@@ -1,6 +1,6 @@
 # Macro Dashboard 📊
 > ## 🛍️ **ETF 儀表板 — 完整版**
-> 此 repo 為開源核心。完整版 **[ETF 儀表板 ($199) on Gumroad](https://slashmaster6.gumroad.com/l/etf-dashboard)** — 自動財報分析、評分系統、歷史回測與每日更新。
+> 此 repo 為開源核心。完整版 **[ETF 儀表板 ($29) on Gumroad](https://slashmaster6.gumroad.com/l/etf-dashboard)** — 自動財報分析、評分系統、歷史回測與每日更新。
 
 
 總經產業熱度儀表板 — 串接 Yahoo Finance 即時數據的產業熱度分析工具。
@@ -51,3 +51,6 @@ python build.py
 自動追蹤以下 14 個產業 ETF，依 3 個月報酬率排名前 10 大熱門產業：
 
 XLB, XLC, XLE, XLF, XLI, XLK, XLP, XLRE, XLU, XLV, XLY, SMH, IBB, ARKK
+
+### 🛒 相關產品
+- [ETF 儀表板 — 完整版 ($29)](https://slashmaster6.gumroad.com/l/etf-dashboard?utm_source=github&utm_medium=referral) - 自動財報分析、評分系統、歷史回測與每日更新。
