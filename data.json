@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T11:17:45.241444+00:00",
+  "updated_at": "2026-09-06T11:39:58.318214+00:00",
   "total_tracked": 14,
   "industries": [
     {
@@ -26,34 +26,34 @@
       "hot_score": 27.4,
       "news": [
         {
+          "title": "Here's Why Billionaires Stanley Druckenmiller and Ken Griffin Are Loading Up on Eli Lilly Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-billionaires-stanley-druckenmiller-091100451.html",
+          "source": "Motley Fool",
+          "time": "2026-09-06T09:11:00Z"
+        },
+        {
+          "title": "Prediction: Here's What a $5,000 Investment in Eli Lilly Could Look Like in 5 Years",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-heres-5-000-investment-210800354.html",
+          "source": "Motley Fool",
+          "time": "2026-09-05T21:08:00Z"
+        },
+        {
+          "title": "Will Eli Lilly Split Its Stock? Here's What History Says Will Happen If It Does.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-split-stock-heres-185200612.html",
+          "source": "Motley Fool",
+          "time": "2026-09-05T18:52:00Z"
+        },
+        {
+          "title": "MarketBeat Week in Review – 08/31 - 09/04",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-08-31-110000926.html",
+          "source": "MarketBeat",
+          "time": "2026-09-05T11:00:00Z"
+        },
+        {
           "title": "Lilly Launches Foundayo in the UK as NICE Review Continues",
           "url": "https://finance.yahoo.com/healthcare/articles/lilly-launches-foundayo-uk-nice-004726812.html",
           "source": "Insider Monkey",
           "time": "2026-09-05T00:47:26Z"
-        },
-        {
-          "title": "Could Roche and Lilly’s Blood Test Make Alzheimer’s Assessment More Accessible?",
-          "url": "https://finance.yahoo.com/healthcare/articles/could-roche-lilly-blood-test-003751961.html",
-          "source": "Insider Monkey",
-          "time": "2026-09-05T00:37:51Z"
-        },
-        {
-          "title": "Jim Cramer flagged one stock quietly concentrating portfolios",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-flagged-one-stock-220700386.html",
-          "source": "TheStreet",
-          "time": "2026-09-04T22:07:00Z"
-        },
-        {
-          "title": "Healthcare Stocks Pick Up Steam as Investors Play Offense and Defense",
-          "url": "",
-          "source": "Barrons.com",
-          "time": "2026-09-04T20:22:00Z"
-        },
-        {
-          "title": "Novo Nordisk (CPSE:NOVO B) Stock Looks Below Fair Value But Faces Earnings Doubts",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-cpse-novo-b-190938443.html",
-          "source": "Simply Wall St.",
-          "time": "2026-09-04T19:09:38Z"
         }
       ],
       "top_companies": [
@@ -87,7 +87,7 @@
         {
           "ticker": "ARWR",
           "name": "Arrowhead Pharmaceuticals, Inc.",
-          "market_cap": 12195909632,
+          "market_cap": 12161595392,
           "pe": null,
           "revenue_growth": 171.0,
           "price": 86.34,
@@ -96,7 +96,7 @@
         {
           "ticker": "TGTX",
           "name": "TG Therapeutics, Inc.",
-          "market_cap": 8570384384,
+          "market_cap": 8569571328,
           "pe": 20.432482,
           "revenue_growth": 70.3,
           "price": 55.985,
@@ -105,7 +105,7 @@
         {
           "ticker": "TWST",
           "name": "Twist Bioscience Corporation",
-          "market_cap": 7820870144,
+          "market_cap": 8210619904,
           "pe": null,
           "revenue_growth": 23.2,
           "price": 124.72,
@@ -123,7 +123,7 @@
         {
           "ticker": "TVTX",
           "name": "Travere Therapeutics, Inc.",
-          "market_cap": 6153362944,
+          "market_cap": 6070576640,
           "pe": null,
           "revenue_growth": 48.2,
           "price": 65.28,
@@ -217,7 +217,7 @@
           "ticker": "INTU",
           "name": "Intuit Inc.",
           "market_cap": 91005763584,
-          "pe": 20.92453,
+          "pe": 20.200365,
           "revenue_growth": 13.7,
           "price": 332.7,
           "change_pct": -3.36915
@@ -243,8 +243,8 @@
         {
           "ticker": "PYPL",
           "name": "PayPal Holdings, Inc.",
-          "market_cap": 47016128512,
-          "pe": 10.734375,
+          "market_cap": 47375519744,
+          "pe": 10.389414,
           "revenue_growth": 4.8,
           "price": 54.96,
           "change_pct": -3.2735
@@ -271,7 +271,7 @@
           "ticker": "GPN",
           "name": "Global Payments Inc.",
           "market_cap": 24487786496,
-          "pe": 43.446007,
+          "pe": 43.857822,
           "revenue_growth": 68.6,
           "price": 92.54,
           "change_pct": 0.839059
@@ -280,7 +280,7 @@
           "ticker": "SOFI",
           "name": "SoFi Technologies, Inc.",
           "market_cap": 23532410880,
-          "pe": 37.958332,
+          "pe": 37.18367,
           "revenue_growth": 42.6,
           "price": 18.22,
           "change_pct": -1.56673
@@ -288,8 +288,8 @@
         {
           "ticker": "FIS",
           "name": "Fidelity National Information S",
-          "market_cap": 21602920448,
-          "pe": 6.4945736,
+          "market_cap": 21652066304,
+          "pe": 6.4347153,
           "revenue_growth": 29.1,
           "price": 41.89,
           "change_pct": -0.922421
@@ -320,34 +320,34 @@
       "hot_score": 14.8,
       "news": [
         {
-          "title": "US diesel prices hit an all-time high — and it impacts you more than you might think",
-          "url": "https://finance.yahoo.com/video/us-diesel-prices-hit-time-154400398.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-09-04T15:44:00Z"
-        },
-        {
-          "title": "Jim Cramer has a blunt message for Amazon stock investors",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-blunt-message-amazon-110300750.html",
-          "source": "TheStreet",
-          "time": "2026-09-05T11:03:00Z"
-        },
-        {
-          "title": "Jim Cramer Says “Own It, Don’t Trade It” as CVS Health Gains Momentum",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-own-don-103206104.html",
-          "source": "Insider Monkey",
-          "time": "2026-09-05T10:32:06Z"
-        },
-        {
-          "title": "Amazon, Alphabet, and Microsoft: Two I'm Buying and One I'm Selling",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-alphabet-microsoft-two-im-094800132.html",
+          "title": "I Own Both Oracle and NuScale for Different Reasons. Here's How They Fit Together.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/own-both-oracle-nuscale-different-101200827.html",
           "source": "Motley Fool",
-          "time": "2026-09-05T09:48:00Z"
+          "time": "2026-09-06T10:12:00Z"
         },
         {
-          "title": "Barnes & Noble tops 720 stores in major revival",
-          "url": "https://finance.yahoo.com/small-business/articles/barnes-noble-tops-720-stores-233615268.html",
-          "source": "USA TODAY",
-          "time": "2026-09-04T23:36:15Z"
+          "title": "Prediction: Amazon Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club Before 2029",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-amazon-join-nvidia-apple-194000818.html",
+          "source": "Motley Fool",
+          "time": "2026-09-05T19:40:00Z"
+        },
+        {
+          "title": "Costco silently kills member perk that saved customers money",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/costco-kills-member-perk-saved-182047414.html",
+          "source": "TheStreet",
+          "time": "2026-09-05T18:20:47Z"
+        },
+        {
+          "title": "‘AI Laggard’ Apple Is Sitting Pretty, But AAPL Stock Might Be Running Out of Room to Outperform",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-laggard-apple-sitting-pretty-150214875.html",
+          "source": "Barchart",
+          "time": "2026-09-05T15:02:14Z"
+        },
+        {
+          "title": "If You Buy Amazon With $10,000 at a 10% Discount From Its High, Here's What I Predict It Could Be Worth in 10 Years",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-amazon-10-000-10-135000208.html",
+          "source": "Motley Fool",
+          "time": "2026-09-05T13:50:00Z"
         }
       ],
       "top_companies": [
@@ -355,7 +355,7 @@
           "ticker": "GOOGL",
           "name": "Alphabet Inc.",
           "market_cap": 4139343675392,
-          "pe": 16.982437,
+          "pe": 16.97392,
           "revenue_growth": 24.2,
           "price": 338.46,
           "change_pct": -1.11027
@@ -364,7 +364,7 @@
           "ticker": "MSFT",
           "name": "Microsoft Corporation",
           "market_cap": 3710545297408,
-          "pe": 28.408188,
+          "pe": 27.853958,
           "revenue_growth": 17.7,
           "price": 499.7,
           "change_pct": -2.04265
@@ -373,7 +373,7 @@
           "ticker": "AMZN",
           "name": "Amazon.com, Inc.",
           "market_cap": 2788369891328,
-          "pe": 20.830782,
+          "pe": 20.797264,
           "revenue_growth": 19.6,
           "price": 258.51,
           "change_pct": -0.150631
@@ -382,7 +382,7 @@
           "ticker": "ORCL",
           "name": "Oracle Corporation",
           "market_cap": 457361195008,
-          "pe": 27.281786,
+          "pe": 27.234991,
           "revenue_growth": 20.6,
           "price": 158.78,
           "change_pct": 3.07713
@@ -391,7 +391,7 @@
           "ticker": "ANET",
           "name": "Arista Networks, Inc.",
           "market_cap": 244400128000,
-          "pe": 60.556248,
+          "pe": 61.322784,
           "revenue_growth": 37.7,
           "price": 193.78,
           "change_pct": 1.22231
@@ -426,8 +426,8 @@
         {
           "ticker": "DOCN",
           "name": "DigitalOcean Holdings, Inc.",
-          "market_cap": 13224172544,
-          "pe": 49.765488,
+          "market_cap": 13148653568,
+          "pe": 51.122726,
           "revenue_growth": 28.6,
           "price": 112.47,
           "change_pct": 2.80622
@@ -435,7 +435,7 @@
         {
           "ticker": "LUMN",
           "name": "Lumen Technologies, Inc.",
-          "market_cap": 6982885376,
+          "market_cap": 6975205888,
           "pe": null,
           "revenue_growth": -9.3,
           "price": 6.77,
@@ -467,6 +467,24 @@
       "hot_score": 13.8,
       "news": [
         {
+          "title": "CrowdStrike (CRWD) Unveiled A Broad AI Security Platform Push",
+          "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-unveiled-broad-ai-001430063.html",
+          "source": "Simply Wall St.",
+          "time": "2026-09-06T00:14:30Z"
+        },
+        {
+          "title": "AI’s Next Winners? Investor Bets on Snowflake, CrowdStrike and Palantir",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ai-next-winners-investor-bets-170009073.html",
+          "source": "Benzinga",
+          "time": "2026-09-05T17:00:09Z"
+        },
+        {
+          "title": "CrowdStrike (CRWD) Stock Faces High Expectations After Strong Gains, DA Davidson Stays Bullish",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-stock-faces-high-144223749.html",
+          "source": "Insider Monkey",
+          "time": "2026-09-05T14:42:23Z"
+        },
+        {
           "title": "Jim Cramer Couldn’t Stop Gushing About This Computer Hardware AI Stock",
           "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-couldn-t-stop-225032126.html",
           "source": "Insider Monkey",
@@ -477,24 +495,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-palo-alto-made-saasmageddon-225017164.html",
           "source": "Insider Monkey",
           "time": "2026-09-04T22:50:17Z"
-        },
-        {
-          "title": "There Are A Lot Of Zscaler Inc. (NASDAQ:ZS) Shorts, Says Jim Cramer",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lot-zscaler-inc-nasdaq-zs-225009241.html",
-          "source": "Insider Monkey",
-          "time": "2026-09-04T22:50:09Z"
-        },
-        {
-          "title": "Jim Cramer Is Excited About These Two Cybersecurity Stocks",
-          "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-excited-two-cybersecurity-224636953.html",
-          "source": "Insider Monkey",
-          "time": "2026-09-04T22:46:36Z"
-        },
-        {
-          "title": "The Gap Between CRWD Stock And Its Own Numbers",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/gap-between-crwd-stock-own-213922288.html",
-          "source": "Trefis",
-          "time": "2026-09-04T21:39:22Z"
         }
       ],
       "top_companies": [
@@ -502,7 +502,7 @@
           "ticker": "AVGO",
           "name": "Broadcom Inc.",
           "market_cap": 1702714146816,
-          "pe": 45.475857,
+          "pe": 45.64987,
           "revenue_growth": 85.5,
           "price": 357.895,
           "change_pct": 0.205786
@@ -520,7 +520,7 @@
           "ticker": "PANW",
           "name": "Palo Alto Networks, Inc.",
           "market_cap": 271606906880,
-          "pe": 287.29312,
+          "pe": 284.83762,
           "revenue_growth": 34.4,
           "price": 333.26,
           "change_pct": 0.397664
@@ -556,7 +556,7 @@
           "ticker": "GD",
           "name": "General Dynamics Corporation",
           "market_cap": 97235550208,
-          "pe": 22.322361,
+          "pe": 21.927397,
           "revenue_growth": 8.1,
           "price": 359.39,
           "change_pct": -1.77112
@@ -565,7 +565,7 @@
           "ticker": "FFIV",
           "name": "F5, Inc.",
           "market_cap": 22111215616,
-          "pe": 31.2376,
+          "pe": 31.16281,
           "revenue_growth": 10.9,
           "price": 390.47,
           "change_pct": -0.428406
@@ -614,34 +614,34 @@
       "hot_score": 13.5,
       "news": [
         {
-          "title": "Energy stocks could be the biggest winners of the AI boom",
-          "url": "https://finance.yahoo.com/video/energy-stocks-could-biggest-winners-193225814.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-09-04T19:32:25Z"
+          "title": "I Own Both Oracle and NuScale for Different Reasons. Here's How They Fit Together.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/own-both-oracle-nuscale-different-101200827.html",
+          "source": "Motley Fool",
+          "time": "2026-09-06T10:12:00Z"
+        },
+        {
+          "title": "Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report",
+          "url": "https://www.yahoo.com/news/politics/articles/mark-zuckerberg-opposes-federal-ai-233016128.html",
+          "source": "Benzinga",
+          "time": "2026-09-05T23:30:16Z"
+        },
+        {
+          "title": "Meta stands to gain as Mark Zuckerberg makes shocking decision",
+          "url": "https://finance.yahoo.com/technology/ai/articles/meta-stands-gain-mark-zuckerberg-153300310.html",
+          "source": "TheStreet",
+          "time": "2026-09-05T15:33:00Z"
+        },
+        {
+          "title": "‘AI Laggard’ Apple Is Sitting Pretty, But AAPL Stock Might Be Running Out of Room to Outperform",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-laggard-apple-sitting-pretty-150214875.html",
+          "source": "Barchart",
+          "time": "2026-09-05T15:02:14Z"
         },
         {
           "title": "Palantir Billionaire Peter Thiel Just Bought Shares of This AI Stock That’s Climbed 200,000% Since Its IPO -- And It’s His Top Position.",
           "url": "https://finance.yahoo.com/technology/ai/articles/palantir-billionaire-peter-thiel-just-102501539.html",
           "source": "Motley Fool",
           "time": "2026-09-05T10:25:01Z"
-        },
-        {
-          "title": "Jim Cramer Said Meta Platforms, Inc. (NASDAQ: META)’s Big Court Win Was A Close Call",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-meta-platforms-224820469.html",
-          "source": "Insider Monkey",
-          "time": "2026-09-04T22:48:20Z"
-        },
-        {
-          "title": "Broadcom (AVGO) Stock Is Down After Q3 Earnings: Is It Too Soon to Buy the Dip?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-down-q3-222000523.html",
-          "source": "Zacks",
-          "time": "2026-09-04T22:20:00Z"
-        },
-        {
-          "title": "Exclusive-China's Xi seeks to bring large CEO delegation on US visit, sources say",
-          "url": "https://finance.yahoo.com/news/exclusive-chinas-xi-bring-large-104707459.html",
-          "source": "Reuters",
-          "time": "2026-09-04T22:02:51Z"
         }
       ],
       "top_companies": [
@@ -658,7 +658,7 @@
           "ticker": "AAPL",
           "name": "Apple Inc.",
           "market_cap": 4669700046848,
-          "pe": 36.65178,
+          "pe": 36.60984,
           "revenue_growth": 16.4,
           "price": 319.97,
           "change_pct": -2.51058
@@ -667,7 +667,7 @@
           "ticker": "GOOGL",
           "name": "Alphabet Inc.",
           "market_cap": 4139343675392,
-          "pe": 16.982437,
+          "pe": 16.97392,
           "revenue_growth": 24.2,
           "price": 338.46,
           "change_pct": -1.11027
@@ -676,7 +676,7 @@
           "ticker": "MSFT",
           "name": "Microsoft Corporation",
           "market_cap": 3710545297408,
-          "pe": 28.408188,
+          "pe": 27.853958,
           "revenue_growth": 17.7,
           "price": 499.7,
           "change_pct": -2.04265
@@ -685,7 +685,7 @@
           "ticker": "META",
           "name": "Meta Platforms, Inc.",
           "market_cap": 1571225468928,
-          "pe": 22.988073,
+          "pe": 23.256788,
           "revenue_growth": 28.0,
           "price": 616.77,
           "change_pct": 0.997253
@@ -761,6 +761,24 @@
       "hot_score": 11.1,
       "news": [
         {
+          "title": "I Own Both Oracle and NuScale for Different Reasons. Here's How They Fit Together.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/own-both-oracle-nuscale-different-101200827.html",
+          "source": "Motley Fool",
+          "time": "2026-09-06T10:12:00Z"
+        },
+        {
+          "title": "Bill Gates Says He Still Won't Invest in Crypto, Calls It a \"Pure Mania-Driven Asset.\" Here's Why He's Right.",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bill-gates-says-still-wont-235000894.html",
+          "source": "Motley Fool",
+          "time": "2026-09-05T23:50:00Z"
+        },
+        {
+          "title": "3 Great Quality Stocks To Own In September 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-great-quality-stocks-own-201414086.html",
+          "source": "Simply Wall St.",
+          "time": "2026-09-05T20:14:14Z"
+        },
+        {
           "title": "Amazon, Alphabet, and Microsoft: Two I'm Buying and One I'm Selling",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-alphabet-microsoft-two-im-094800132.html",
           "source": "Motley Fool",
@@ -771,24 +789,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/move-spacex-stock-sept-9-082301362.html",
           "source": "Motley Fool",
           "time": "2026-09-05T08:23:01Z"
-        },
-        {
-          "title": "Seattle Times, Newsday sue OpenAI and Microsoft over AI training",
-          "url": "https://finance.yahoo.com/technology/ai/articles/seattle-times-newsday-sue-openai-062913073.html",
-          "source": "Investing.com",
-          "time": "2026-09-05T06:29:13Z"
-        },
-        {
-          "title": "Satya Nadella Sold $43 Million of Microsoft Under a Trading Plan. Is the Insider Signal Really Bearish?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/satya-nadella-sold-43-million-054924928.html",
-          "source": "Insider Monkey",
-          "time": "2026-09-05T05:49:24Z"
-        },
-        {
-          "title": "AI hiring boom could turn into a surprise tailwind for software: Bernstein",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-hiring-boom-could-turn-010734269.html",
-          "source": "Investing.com",
-          "time": "2026-09-05T01:07:34Z"
         }
       ],
       "top_companies": [
@@ -823,7 +823,7 @@
           "ticker": "3293.TWO",
           "name": "INTERNATIONAL GAMES SYSTEM CO",
           "market_cap": 199797309440,
-          "pe": 16.419638,
+          "pe": 16.557684,
           "revenue_growth": 14.6,
           "price": 709.0,
           "change_pct": 0.85348505
@@ -908,16 +908,22 @@
       "hot_score": 6.9,
       "news": [
         {
-          "title": "'Detestable, inexcusable, vile': AMC CEO slams Robinhood for tokenized stock offerings",
-          "url": "https://finance.yahoo.com/video/detestable-inexcusable-vile-amc-ceo-162000374.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-09-04T16:20:00Z"
+          "title": "Coinbase Says Crypto's Next Wave of Growth Will Come From AI Agents. Here's What Crypto Investors Need to Know.",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-says-cryptos-next-wave-100900583.html",
+          "source": "Motley Fool",
+          "time": "2026-09-06T10:09:00Z"
         },
         {
-          "title": "Bitcoin ETFs just had their best day of 2026",
-          "url": "https://finance.yahoo.com/video/bitcoin-etfs-just-had-best-160000838.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-09-04T16:00:00Z"
+          "title": "Ripple CEO Is 'Proud' About White House Crypto Meeting: What's Next for XRP?",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/ripple-ceo-proud-white-house-163115788.html",
+          "source": "Benzinga",
+          "time": "2026-09-05T16:31:15Z"
+        },
+        {
+          "title": "Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitwises-matt-hougan-names-robinhood-145359352.html",
+          "source": "Stocktwits",
+          "time": "2026-09-05T14:53:59Z"
         },
         {
           "title": "Wall Street Banker, Musk’s Finance Chief, Now Coinbase Board Director: The Anthony Armstrong Story",
@@ -930,12 +936,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/coinbase-global-inc-coin-dips-214504905.html",
           "source": "Zacks",
           "time": "2026-09-04T21:45:04Z"
-        },
-        {
-          "title": "Weekly Wrap: Bitcoin’s Win Streak Continues",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-win-streak-192500774.html",
-          "source": "CryptoProwl",
-          "time": "2026-09-04T19:25:00Z"
         }
       ],
       "top_companies": [
@@ -1015,7 +1015,7 @@
           "ticker": "OPRA",
           "name": "Opera Limited",
           "market_cap": 1669868544,
-          "pe": 13.414287,
+          "pe": 13.608696,
           "revenue_growth": 24.6,
           "price": 18.78,
           "change_pct": 1.84382
@@ -1023,7 +1023,7 @@
         {
           "ticker": "BBBY",
           "name": "Bed Bath & Beyond, Inc.",
-          "market_cap": 414687136,
+          "market_cap": 414399584,
           "pe": null,
           "revenue_growth": null,
           "price": 4.35,
@@ -1055,6 +1055,24 @@
       "hot_score": 2.9,
       "news": [
         {
+          "title": "I Own Both Oracle and NuScale for Different Reasons. Here's How They Fit Together.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/own-both-oracle-nuscale-different-101200827.html",
+          "source": "Motley Fool",
+          "time": "2026-09-06T10:12:00Z"
+        },
+        {
+          "title": "Bill Gates Says He Still Won't Invest in Crypto, Calls It a \"Pure Mania-Driven Asset.\" Here's Why He's Right.",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bill-gates-says-still-wont-235000894.html",
+          "source": "Motley Fool",
+          "time": "2026-09-05T23:50:00Z"
+        },
+        {
+          "title": "3 Great Quality Stocks To Own In September 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-great-quality-stocks-own-201414086.html",
+          "source": "Simply Wall St.",
+          "time": "2026-09-05T20:14:14Z"
+        },
+        {
           "title": "Amazon, Alphabet, and Microsoft: Two I'm Buying and One I'm Selling",
           "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-alphabet-microsoft-two-im-094800132.html",
           "source": "Motley Fool",
@@ -1065,24 +1083,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/move-spacex-stock-sept-9-082301362.html",
           "source": "Motley Fool",
           "time": "2026-09-05T08:23:01Z"
-        },
-        {
-          "title": "Seattle Times, Newsday sue OpenAI and Microsoft over AI training",
-          "url": "https://finance.yahoo.com/technology/ai/articles/seattle-times-newsday-sue-openai-062913073.html",
-          "source": "Investing.com",
-          "time": "2026-09-05T06:29:13Z"
-        },
-        {
-          "title": "Satya Nadella Sold $43 Million of Microsoft Under a Trading Plan. Is the Insider Signal Really Bearish?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/satya-nadella-sold-43-million-054924928.html",
-          "source": "Insider Monkey",
-          "time": "2026-09-05T05:49:24Z"
-        },
-        {
-          "title": "AI hiring boom could turn into a surprise tailwind for software: Bernstein",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-hiring-boom-could-turn-010734269.html",
-          "source": "Investing.com",
-          "time": "2026-09-05T01:07:34Z"
         }
       ],
       "top_companies": [
@@ -1108,7 +1108,7 @@
           "ticker": "GOOGL",
           "name": "Alphabet Inc.",
           "market_cap": 4139343675392,
-          "pe": 16.982437,
+          "pe": 16.97392,
           "revenue_growth": 24.2,
           "price": 338.46,
           "change_pct": -1.11027
@@ -1117,7 +1117,7 @@
           "ticker": "AMZN",
           "name": "Amazon.com, Inc.",
           "market_cap": 2788369891328,
-          "pe": 20.830782,
+          "pe": 20.797264,
           "revenue_growth": 19.6,
           "price": 258.51,
           "change_pct": -0.150631
@@ -1135,7 +1135,7 @@
           "ticker": "AVGO",
           "name": "Broadcom Inc.",
           "market_cap": 1702714146816,
-          "pe": 45.475857,
+          "pe": 45.64987,
           "revenue_growth": 85.5,
           "price": 357.895,
           "change_pct": 0.205786
@@ -1153,7 +1153,7 @@
           "ticker": "AMD",
           "name": "Advanced Micro Devices, Inc.",
           "market_cap": 779621105664,
-          "pe": 116.197075,
+          "pe": 121.82908,
           "revenue_growth": 50.1,
           "price": 477.57,
           "change_pct": 4.69353
@@ -1202,34 +1202,34 @@
       "hot_score": -0.5,
       "news": [
         {
-          "title": "Apple's John Ternus needs to be his own type of CEO and 'not Tim Cook 2'",
-          "url": "https://finance.yahoo.com/video/apples-john-ternus-needs-own-203847038.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-09-04T20:38:47Z"
-        },
-        {
-          "title": "Tech stocks today: Tesla's Cybercab event fails to impress, Feds launch investigation into the robotaxi",
-          "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-ceo-steps-down-nvidia-mag-7-145623375.html",
-          "source": "Yahoo Finance",
-          "time": "2026-08-31T14:56:23Z"
-        },
-        {
-          "title": "Are Meta and Nvidia redefining value vs. growth stocks in the era of AI?",
-          "url": "https://finance.yahoo.com/video/are-meta-and-nvidia-redefining-value-vs-growth-stocks-in-the-era-of-ai-120000681.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-09-04T12:00:00Z"
-        },
-        {
-          "title": "If a Market Crash Is Coming, Here's the 1 Thing You Should Do, According to Warren Buffett",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/market-crash-coming-heres-1-110200332.html",
+          "title": "Prediction: Nvidia Will Join the Vanguard Russell 1000 Value ETF Before the End of the Year. Here's Why the ETF Is an Excellent Buy Now.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-join-vanguard-russell-112700001.html",
           "source": "Motley Fool",
-          "time": "2026-09-05T11:02:00Z"
+          "time": "2026-09-06T11:27:00Z"
         },
         {
-          "title": "I Love Bloom Energy for 1 Reason, and It's Not the Backlog",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/love-bloom-energy-1-reason-105000656.html",
+          "title": "Why Palo Alto Networks Stock Plummeted This Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-palo-alto-networks-stock-112012453.html",
           "source": "Motley Fool",
-          "time": "2026-09-05T10:50:00Z"
+          "time": "2026-09-06T11:20:12Z"
+        },
+        {
+          "title": "Why Rezolve AI Stock Plummeted This Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-rezolve-ai-stock-plummeted-112000988.html",
+          "source": "Motley Fool",
+          "time": "2026-09-06T11:20:00Z"
+        },
+        {
+          "title": "If You'd Invested in Moderna (MRNA) Stock 5 Years Ago, Here's How Much You'd Have Today (Hint: You'd Be Disappointed -- But Not If You Bought It 1 Year Ago.)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-moderna-mrna-stock-111500301.html",
+          "source": "Motley Fool",
+          "time": "2026-09-06T11:15:00Z"
+        },
+        {
+          "title": "Why GitLab Stock Surged This Week",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-gitlab-stock-surged-week-110500899.html",
+          "source": "Motley Fool",
+          "time": "2026-09-06T11:05:00Z"
         }
       ],
       "top_companies": [
@@ -1255,7 +1255,7 @@
           "ticker": "AVGO",
           "name": "Broadcom Inc.",
           "market_cap": 1702714146816,
-          "pe": 45.475857,
+          "pe": 45.64987,
           "revenue_growth": 85.5,
           "price": 357.895,
           "change_pct": 0.205786
@@ -1273,7 +1273,7 @@
           "ticker": "AMD",
           "name": "Advanced Micro Devices, Inc.",
           "market_cap": 779621105664,
-          "pe": 116.197075,
+          "pe": 121.82908,
           "revenue_growth": 50.1,
           "price": 477.57,
           "change_pct": 4.69353
@@ -1291,7 +1291,7 @@
           "ticker": "LRCX",
           "name": "Lam Research Corporation",
           "market_cap": 384968884224,
-          "pe": 50.767326,
+          "pe": 53.504345,
           "revenue_growth": 30.0,
           "price": 307.65,
           "change_pct": 5.12198
@@ -1300,7 +1300,7 @@
           "ticker": "KLAC",
           "name": "KLA Corporation",
           "market_cap": 242495094784,
-          "pe": 50.57221,
+          "pe": 50.710384,
           "revenue_growth": 15.2,
           "price": 185.6,
           "change_pct": 7.32046
@@ -1318,7 +1318,7 @@
           "ticker": "ADI",
           "name": "Analog Devices, Inc.",
           "market_cap": 175533834240,
-          "pe": 42.36842,
+          "pe": 43.125004,
           "revenue_growth": 39.6,
           "price": 362.25,
           "change_pct": 1.6129
@@ -1401,7 +1401,7 @@
         {
           "ticker": "BA",
           "name": "Boeing Company (The)",
-          "market_cap": 167756038144,
+          "market_cap": 167633453056,
           "pe": 76.34892,
           "revenue_growth": 8.0,
           "price": 212.25,
@@ -1411,7 +1411,7 @@
           "ticker": "LMT",
           "name": "Lockheed Martin Corporation",
           "market_cap": 121229770752,
-          "pe": 19.64398,
+          "pe": 19.383026,
           "revenue_growth": 10.5,
           "price": 525.28,
           "change_pct": -1.43916
@@ -1420,7 +1420,7 @@
           "ticker": "HWM",
           "name": "Howmet Aerospace Inc.",
           "market_cap": 103397236736,
-          "pe": 56.119045,
+          "pe": 55.877155,
           "revenue_growth": 24.1,
           "price": 259.27,
           "change_pct": -0.468349
@@ -1429,7 +1429,7 @@
           "ticker": "GD",
           "name": "General Dynamics Corporation",
           "market_cap": 97235550208,
-          "pe": 22.322361,
+          "pe": 21.927397,
           "revenue_growth": 8.1,
           "price": 359.39,
           "change_pct": -1.77112
@@ -1438,7 +1438,7 @@
           "ticker": "NOC",
           "name": "Northrop Grumman Corporation",
           "market_cap": 73159614464,
-          "pe": 16.780058,
+          "pe": 16.364157,
           "revenue_growth": 5.1,
           "price": 514.98,
           "change_pct": -2.51022
@@ -1446,7 +1446,7 @@
         {
           "ticker": "TDG",
           "name": "Transdigm Group Incorporated",
-          "market_cap": 64234086400,
+          "market_cap": 64997625856,
           "pe": 35.21364,
           "revenue_growth": 22.5,
           "price": 1162.05,
@@ -1456,7 +1456,7 @@
           "ticker": "LHX",
           "name": "L3Harris Technologies, Inc.",
           "market_cap": 47754743808,
-          "pe": 25.877903,
+          "pe": 25.904043,
           "revenue_growth": 190.0,
           "price": 256.45,
           "change_pct": -1.70187
