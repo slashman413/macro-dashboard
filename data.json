@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T11:39:58.318214+00:00",
+  "updated_at": "2026-09-07T13:31:59.963080+00:00",
   "total_tracked": 14,
   "industries": [
     {
@@ -26,6 +26,24 @@
       "hot_score": 27.4,
       "news": [
         {
+          "title": "AstraZeneca Secures FDA Nod for New Breast Cancer Therapy Etcamah",
+          "url": "https://finance.yahoo.com/healthcare/articles/astrazeneca-secures-fda-nod-breast-124100423.html",
+          "source": "Zacks",
+          "time": "2026-09-07T12:41:00Z"
+        },
+        {
+          "title": "Eli Lilly’s $100B incretin opportunity: Is more upside coming?",
+          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-100b-incretin-opportunity-214922159.html",
+          "source": "Investing.com",
+          "time": "2026-09-06T21:49:22Z"
+        },
+        {
+          "title": "Moderna Just Doubled Overnight, and 2 More Healthcare Stocks Could Follow It",
+          "url": "https://finance.yahoo.com/healthcare/articles/moderna-just-doubled-overnight-2-125000386.html",
+          "source": "MarketBeat",
+          "time": "2026-09-06T12:50:00Z"
+        },
+        {
           "title": "Here's Why Billionaires Stanley Druckenmiller and Ken Griffin Are Loading Up on Eli Lilly Stock",
           "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-billionaires-stanley-druckenmiller-091100451.html",
           "source": "Motley Fool",
@@ -36,24 +54,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-heres-5-000-investment-210800354.html",
           "source": "Motley Fool",
           "time": "2026-09-05T21:08:00Z"
-        },
-        {
-          "title": "Will Eli Lilly Split Its Stock? Here's What History Says Will Happen If It Does.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-split-stock-heres-185200612.html",
-          "source": "Motley Fool",
-          "time": "2026-09-05T18:52:00Z"
-        },
-        {
-          "title": "MarketBeat Week in Review – 08/31 - 09/04",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-08-31-110000926.html",
-          "source": "MarketBeat",
-          "time": "2026-09-05T11:00:00Z"
-        },
-        {
-          "title": "Lilly Launches Foundayo in the UK as NICE Review Continues",
-          "url": "https://finance.yahoo.com/healthcare/articles/lilly-launches-foundayo-uk-nice-004726812.html",
-          "source": "Insider Monkey",
-          "time": "2026-09-05T00:47:26Z"
         }
       ],
       "top_companies": [
@@ -64,7 +64,7 @@
           "pe": null,
           "revenue_growth": null,
           "price": 210.02,
-          "change_pct": -0.403088
+          "change_pct": -0.40308765
         },
         {
           "ticker": "SMMT",
@@ -73,7 +73,7 @@
           "pe": null,
           "revenue_growth": null,
           "price": 17.605,
-          "change_pct": 2.77292
+          "change_pct": 2.7729154
         },
         {
           "ticker": "MDGL",
@@ -82,34 +82,34 @@
           "pe": null,
           "revenue_growth": 71.2,
           "price": 541.08,
-          "change_pct": -0.281965
+          "change_pct": -0.28196463
         },
         {
           "ticker": "ARWR",
           "name": "Arrowhead Pharmaceuticals, Inc.",
-          "market_cap": 12161595392,
+          "market_cap": 12195909632,
           "pe": null,
           "revenue_growth": 171.0,
           "price": 86.34,
-          "change_pct": -0.173432
+          "change_pct": -0.17343223
         },
         {
           "ticker": "TGTX",
           "name": "TG Therapeutics, Inc.",
-          "market_cap": 8569571328,
+          "market_cap": 8570384384,
           "pe": 20.432482,
           "revenue_growth": 70.3,
           "price": 55.985,
-          "change_pct": -1.27843
+          "change_pct": -1.2784314
         },
         {
           "ticker": "TWST",
           "name": "Twist Bioscience Corporation",
-          "market_cap": 8210619904,
+          "market_cap": 7820870144,
           "pe": null,
           "revenue_growth": 23.2,
           "price": 124.72,
-          "change_pct": -3.1
+          "change_pct": -3.0999963
         },
         {
           "ticker": "ALKS",
@@ -118,16 +118,16 @@
           "pe": 121.31579,
           "revenue_growth": 27.0,
           "price": 46.1,
-          "change_pct": -1.66383
+          "change_pct": -1.6638281
         },
         {
           "ticker": "TVTX",
           "name": "Travere Therapeutics, Inc.",
-          "market_cap": 6070576640,
+          "market_cap": 6153362944,
           "pe": null,
           "revenue_growth": 48.2,
           "price": 65.28,
-          "change_pct": -1.8936
+          "change_pct": -1.8936011
         },
         {
           "ticker": "BEAM",
@@ -136,7 +136,7 @@
           "pe": null,
           "revenue_growth": -94.2,
           "price": 29.66,
-          "change_pct": 0.678889
+          "change_pct": 0.6788892
         },
         {
           "ticker": "APLS",
@@ -211,7 +211,7 @@
           "pe": 54.030975,
           "revenue_growth": 32.3,
           "price": 122.11,
-          "change_pct": -2.09269
+          "change_pct": -2.092688
         },
         {
           "ticker": "INTU",
@@ -220,7 +220,7 @@
           "pe": 20.200365,
           "revenue_growth": 13.7,
           "price": 332.7,
-          "change_pct": -3.36915
+          "change_pct": -3.3691478
         },
         {
           "ticker": "XYZ",
@@ -238,25 +238,25 @@
           "pe": null,
           "revenue_growth": -17.3,
           "price": 184.64,
-          "change_pct": -4.18267
+          "change_pct": -4.1826663
         },
         {
           "ticker": "PYPL",
           "name": "PayPal Holdings, Inc.",
-          "market_cap": 47375519744,
+          "market_cap": 47016128512,
           "pe": 10.389414,
           "revenue_growth": 4.8,
           "price": 54.96,
-          "change_pct": -3.2735
+          "change_pct": -3.2734964
         },
         {
           "ticker": "ADYEN.AS",
           "name": "ADYEN",
-          "market_cap": 32406349824,
-          "pe": 28.902025,
+          "market_cap": 31544578048,
+          "pe": 28.133446,
           "revenue_growth": 18.9,
-          "price": 1026.6,
-          "change_pct": -1.5723897
+          "price": 999.3,
+          "change_pct": -2.6600397
         },
         {
           "ticker": "FISV",
@@ -265,7 +265,7 @@
           "pe": 10.153257,
           "revenue_growth": null,
           "price": 53.0,
-          "change_pct": 0.512043
+          "change_pct": 0.51204336
         },
         {
           "ticker": "GPN",
@@ -283,12 +283,12 @@
           "pe": 37.18367,
           "revenue_growth": 42.6,
           "price": 18.22,
-          "change_pct": -1.56673
+          "change_pct": -1.5667256
         },
         {
           "ticker": "FIS",
           "name": "Fidelity National Information S",
-          "market_cap": 21652066304,
+          "market_cap": 21602920448,
           "pe": 6.4347153,
           "revenue_growth": 29.1,
           "price": 41.89,
@@ -320,34 +320,34 @@
       "hot_score": 14.8,
       "news": [
         {
-          "title": "I Own Both Oracle and NuScale for Different Reasons. Here's How They Fit Together.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/own-both-oracle-nuscale-different-101200827.html",
-          "source": "Motley Fool",
-          "time": "2026-09-06T10:12:00Z"
+          "title": "The real danger of black market peptides: Novo Nordisk CEO",
+          "url": "https://finance.yahoo.com/video/real-danger-black-market-peptides-110000226.html",
+          "source": "Yahoo Finance Video",
+          "time": "2026-09-07T11:00:00Z"
         },
         {
-          "title": "Prediction: Amazon Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club Before 2029",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-amazon-join-nvidia-apple-194000818.html",
-          "source": "Motley Fool",
-          "time": "2026-09-05T19:40:00Z"
+          "title": "Amazon.com, Inc. (AMZN) is Attracting Investor Attention: Here is What You Should Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-attracting-130004501.html",
+          "source": "Zacks",
+          "time": "2026-09-07T13:00:04Z"
         },
         {
-          "title": "Costco silently kills member perk that saved customers money",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/costco-kills-member-perk-saved-182047414.html",
-          "source": "TheStreet",
-          "time": "2026-09-05T18:20:47Z"
+          "title": "Amazon Cargo Jet Crash Puts Its Air Network in the Spotlight",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-cargo-jet-crash-puts-124313120.html",
+          "source": "GuruFocus.com",
+          "time": "2026-09-07T12:43:13Z"
         },
         {
-          "title": "‘AI Laggard’ Apple Is Sitting Pretty, But AAPL Stock Might Be Running Out of Room to Outperform",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-laggard-apple-sitting-pretty-150214875.html",
-          "source": "Barchart",
-          "time": "2026-09-05T15:02:14Z"
+          "title": "Amazon Stock in Focus After Cargo Plane Crash Kills 5 in Miami",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-focus-cargo-plane-123456497.html",
+          "source": "GuruFocus.com",
+          "time": "2026-09-07T12:34:56Z"
         },
         {
-          "title": "If You Buy Amazon With $10,000 at a 10% Discount From Its High, Here's What I Predict It Could Be Worth in 10 Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-amazon-10-000-10-135000208.html",
-          "source": "Motley Fool",
-          "time": "2026-09-05T13:50:00Z"
+          "title": "Nvidia, Tech Giants Flash Stunning Market Signal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-tech-giants-flash-stunning-123419569.html",
+          "source": "GuruFocus.com",
+          "time": "2026-09-07T12:34:19Z"
         }
       ],
       "top_companies": [
@@ -358,7 +358,7 @@
           "pe": 16.97392,
           "revenue_growth": 24.2,
           "price": 338.46,
-          "change_pct": -1.11027
+          "change_pct": -1.1102724
         },
         {
           "ticker": "MSFT",
@@ -367,7 +367,7 @@
           "pe": 27.853958,
           "revenue_growth": 17.7,
           "price": 499.7,
-          "change_pct": -2.04265
+          "change_pct": -2.0426533
         },
         {
           "ticker": "AMZN",
@@ -376,7 +376,7 @@
           "pe": 20.797264,
           "revenue_growth": 19.6,
           "price": 258.51,
-          "change_pct": -0.150631
+          "change_pct": -0.15063119
         },
         {
           "ticker": "ORCL",
@@ -403,7 +403,7 @@
           "pe": null,
           "revenue_growth": 112.5,
           "price": 89.36,
-          "change_pct": 5.67645
+          "change_pct": 5.6764464
         },
         {
           "ticker": "P",
@@ -421,12 +421,12 @@
           "pe": 13.16441,
           "revenue_growth": 15.9,
           "price": 68.06,
-          "change_pct": -0.0293835
+          "change_pct": -0.029383477
         },
         {
           "ticker": "DOCN",
           "name": "DigitalOcean Holdings, Inc.",
-          "market_cap": 13148653568,
+          "market_cap": 13224172544,
           "pe": 51.122726,
           "revenue_growth": 28.6,
           "price": 112.47,
@@ -435,7 +435,7 @@
         {
           "ticker": "LUMN",
           "name": "Lumen Technologies, Inc.",
-          "market_cap": 6975205888,
+          "market_cap": 6982885376,
           "pe": null,
           "revenue_growth": -9.3,
           "price": 6.77,
@@ -467,6 +467,24 @@
       "hot_score": 13.8,
       "news": [
         {
+          "title": "Breakfast News: Selling Is an Art. Your Art.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/breakfast-news-selling-art-art-115000372.html",
+          "source": "Motley Fool",
+          "time": "2026-09-07T11:50:00Z"
+        },
+        {
+          "title": "CrowdStrike (CRWD)’s CEO Warns AI Is Exposing Gaps in Legacy Cybersecurity Tools",
+          "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-ceo-warns-ai-221012462.html",
+          "source": "Insider Monkey",
+          "time": "2026-09-06T22:10:12Z"
+        },
+        {
+          "title": "Up 90% in 2026, This Cybersecurity Growth Stock Under $300 Is the Best One to Buy Now",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/90-2026-cybersecurity-growth-stock-104939003.html",
+          "source": "Barchart",
+          "time": "2026-09-06T10:49:39Z"
+        },
+        {
           "title": "CrowdStrike (CRWD) Unveiled A Broad AI Security Platform Push",
           "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-unveiled-broad-ai-001430063.html",
           "source": "Simply Wall St.",
@@ -477,24 +495,6 @@
           "url": "https://finance.yahoo.com/technology/ai/articles/ai-next-winners-investor-bets-170009073.html",
           "source": "Benzinga",
           "time": "2026-09-05T17:00:09Z"
-        },
-        {
-          "title": "CrowdStrike (CRWD) Stock Faces High Expectations After Strong Gains, DA Davidson Stays Bullish",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-stock-faces-high-144223749.html",
-          "source": "Insider Monkey",
-          "time": "2026-09-05T14:42:23Z"
-        },
-        {
-          "title": "Jim Cramer Couldn’t Stop Gushing About This Computer Hardware AI Stock",
-          "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-couldn-t-stop-225032126.html",
-          "source": "Insider Monkey",
-          "time": "2026-09-04T22:50:32Z"
-        },
-        {
-          "title": "CrowdStrike and Palo Alto Made the SaaSmageddon Survivor List. Can AI Expand Their Moats Faster Than It Compresses Software Prices?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-palo-alto-made-saasmageddon-225017164.html",
-          "source": "Insider Monkey",
-          "time": "2026-09-04T22:50:17Z"
         }
       ],
       "top_companies": [
@@ -505,7 +505,7 @@
           "pe": 45.64987,
           "revenue_growth": 85.5,
           "price": 357.895,
-          "change_pct": 0.205786
+          "change_pct": 0.20578602
         },
         {
           "ticker": "CSCO",
@@ -514,7 +514,7 @@
           "pe": 32.792793,
           "revenue_growth": 17.6,
           "price": 109.2,
-          "change_pct": 0.543225
+          "change_pct": 0.5432247
         },
         {
           "ticker": "PANW",
@@ -523,7 +523,7 @@
           "pe": 284.83762,
           "revenue_growth": 34.4,
           "price": 333.26,
-          "change_pct": 0.397664
+          "change_pct": 0.39766446
         },
         {
           "ticker": "CRWD",
@@ -532,7 +532,7 @@
           "pe": 5327.5005,
           "revenue_growth": 25.8,
           "price": 213.1,
-          "change_pct": -0.869887
+          "change_pct": -0.8698866
         },
         {
           "ticker": "FTNT",
@@ -541,7 +541,7 @@
           "pe": 55.226147,
           "revenue_growth": 25.6,
           "price": 156.29,
-          "change_pct": -0.0447732
+          "change_pct": -0.044773165
         },
         {
           "ticker": "NET",
@@ -568,7 +568,7 @@
           "pe": 31.16281,
           "revenue_growth": 10.9,
           "price": 390.47,
-          "change_pct": -0.428406
+          "change_pct": -0.42840564
         },
         {
           "ticker": "FSLY",
@@ -577,7 +577,7 @@
           "pe": null,
           "revenue_growth": 23.3,
           "price": 20.59,
-          "change_pct": -2.50947
+          "change_pct": -2.5094728
         },
         {
           "ticker": "ATEN",
@@ -614,34 +614,34 @@
       "hot_score": 13.5,
       "news": [
         {
-          "title": "I Own Both Oracle and NuScale for Different Reasons. Here's How They Fit Together.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/own-both-oracle-nuscale-different-101200827.html",
-          "source": "Motley Fool",
-          "time": "2026-09-06T10:12:00Z"
+          "title": "Here is What to Know Beyond Why Meta Platforms, Inc. (META) is a Trending Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-meta-platforms-130005630.html",
+          "source": "Zacks",
+          "time": "2026-09-07T13:00:05Z"
         },
         {
-          "title": "Mark Zuckerberg Opposes Federal AI Watchdog in Call With Trump: Report",
-          "url": "https://www.yahoo.com/news/politics/articles/mark-zuckerberg-opposes-federal-ai-233016128.html",
+          "title": "Nvidia, Tech Giants Flash Stunning Market Signal",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-tech-giants-flash-stunning-123419569.html",
+          "source": "GuruFocus.com",
+          "time": "2026-09-07T12:34:19Z"
+        },
+        {
+          "title": "Meta’s $18 Billion Teen Safety Deal Puts the Pressure on TikTok and YouTube Next",
+          "url": "https://finance.yahoo.com/media-advertising/articles/meta-18-billion-teen-safety-011613870.html",
+          "source": "Insider Monkey",
+          "time": "2026-09-07T01:16:13Z"
+        },
+        {
+          "title": "Norway Skeptical of Smart Spectacles: Leader in EV Adoption Not Ready to Welcome ‘Pervert’ Glasses",
+          "url": "https://www.yahoo.com/news/world/articles/norway-skeptical-smart-spectacles-leader-213019935.html",
           "source": "Benzinga",
-          "time": "2026-09-05T23:30:16Z"
+          "time": "2026-09-06T21:30:19Z"
         },
         {
-          "title": "Meta stands to gain as Mark Zuckerberg makes shocking decision",
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-stands-gain-mark-zuckerberg-153300310.html",
-          "source": "TheStreet",
-          "time": "2026-09-05T15:33:00Z"
-        },
-        {
-          "title": "‘AI Laggard’ Apple Is Sitting Pretty, But AAPL Stock Might Be Running Out of Room to Outperform",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/ai-laggard-apple-sitting-pretty-150214875.html",
-          "source": "Barchart",
-          "time": "2026-09-05T15:02:14Z"
-        },
-        {
-          "title": "Palantir Billionaire Peter Thiel Just Bought Shares of This AI Stock That’s Climbed 200,000% Since Its IPO -- And It’s His Top Position.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/palantir-billionaire-peter-thiel-just-102501539.html",
-          "source": "Motley Fool",
-          "time": "2026-09-05T10:25:01Z"
+          "title": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-prove-doesn-t-202105317.html",
+          "source": "Insider Monkey",
+          "time": "2026-09-06T20:21:05Z"
         }
       ],
       "top_companies": [
@@ -652,7 +652,7 @@
           "pe": 29.159492,
           "revenue_growth": 105.9,
           "price": 230.36,
-          "change_pct": 0.836071
+          "change_pct": 0.83607084
         },
         {
           "ticker": "AAPL",
@@ -661,7 +661,7 @@
           "pe": 36.60984,
           "revenue_growth": 16.4,
           "price": 319.97,
-          "change_pct": -2.51058
+          "change_pct": -2.5105848
         },
         {
           "ticker": "GOOGL",
@@ -670,7 +670,7 @@
           "pe": 16.97392,
           "revenue_growth": 24.2,
           "price": 338.46,
-          "change_pct": -1.11027
+          "change_pct": -1.1102724
         },
         {
           "ticker": "MSFT",
@@ -679,7 +679,7 @@
           "pe": 27.853958,
           "revenue_growth": 17.7,
           "price": 499.7,
-          "change_pct": -2.04265
+          "change_pct": -2.0426533
         },
         {
           "ticker": "META",
@@ -688,7 +688,7 @@
           "pe": 23.256788,
           "revenue_growth": 28.0,
           "price": 616.77,
-          "change_pct": 0.997253
+          "change_pct": 0.9972534
         },
         {
           "ticker": "QCOM",
@@ -697,7 +697,7 @@
           "pe": 19.262558,
           "revenue_growth": -4.0,
           "price": 168.74,
-          "change_pct": 0.100847
+          "change_pct": 0.100847214
         },
         {
           "ticker": "RBLX",
@@ -761,72 +761,72 @@
       "hot_score": 11.1,
       "news": [
         {
-          "title": "I Own Both Oracle and NuScale for Different Reasons. Here's How They Fit Together.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/own-both-oracle-nuscale-different-101200827.html",
-          "source": "Motley Fool",
-          "time": "2026-09-06T10:12:00Z"
+          "title": "Weight loss is just the beginning of GLP-1's: Novo Nordisk CEO",
+          "url": "https://finance.yahoo.com/video/weight-loss-just-beginning-glp-100000472.html",
+          "source": "Yahoo Finance Video",
+          "time": "2026-09-07T10:00:00Z"
         },
         {
-          "title": "Bill Gates Says He Still Won't Invest in Crypto, Calls It a \"Pure Mania-Driven Asset.\" Here's Why He's Right.",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/bill-gates-says-still-wont-235000894.html",
-          "source": "Motley Fool",
-          "time": "2026-09-05T23:50:00Z"
+          "title": "Why Apple May Be the Safest AI Stock Nobody Calls an AI Stock",
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-apple-may-safest-ai-130028156.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-09-07T13:00:28Z"
         },
         {
-          "title": "3 Great Quality Stocks To Own In September 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-great-quality-stocks-own-201414086.html",
-          "source": "Simply Wall St.",
-          "time": "2026-09-05T20:14:14Z"
+          "title": "Microsoft Corporation (MSFT) Is a Trending Stock: Facts to Know Before Betting on It",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-trending-stock-130003642.html",
+          "source": "Zacks",
+          "time": "2026-09-07T13:00:03Z"
         },
         {
-          "title": "Amazon, Alphabet, and Microsoft: Two I'm Buying and One I'm Selling",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-alphabet-microsoft-two-im-094800132.html",
-          "source": "Motley Fool",
-          "time": "2026-09-05T09:48:00Z"
+          "title": "Apple’s Sept. 9 Event Could Change Everything",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-sept-9-event-could-125501364.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-09-07T12:55:01Z"
         },
         {
-          "title": "What Move Will SpaceX Stock Make After Sept. 9? The Evidence Is Piling Up, and Here’s What It Shows.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/move-spacex-stock-sept-9-082301362.html",
-          "source": "Motley Fool",
-          "time": "2026-09-05T08:23:01Z"
+          "title": "Nebius Stock Up 254% in a Year: Should You Buy, Hold or Sell?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-254-buy-hold-123800481.html",
+          "source": "Zacks",
+          "time": "2026-09-07T12:38:00Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "7974.T",
           "name": "NINTENDO CO LTD",
-          "market_cap": 10190246117376,
-          "pe": 24.271631,
+          "market_cap": 10087640858624,
+          "pe": 24.027239,
           "revenue_growth": -9.5,
-          "price": 8839.0,
-          "change_pct": -0.18068887
+          "price": 8750.0,
+          "change_pct": -1.0069013
         },
         {
           "ticker": "0700.HK",
           "name": "TENCENT",
-          "market_cap": 3990081241088,
-          "pe": 14.904073,
+          "market_cap": 3950432747520,
+          "pe": 14.755975,
           "revenue_growth": 11.0,
-          "price": 442.8,
-          "change_pct": 2.2632766
+          "price": 438.4,
+          "change_pct": -0.9936753
         },
         {
           "ticker": "9697.T",
           "name": "CAPCOM CO LTD",
-          "market_cap": 1776975872000,
-          "pe": 32.57419,
+          "market_cap": 1802911088640,
+          "pe": 33.04961,
           "revenue_growth": 54.7,
-          "price": 4248.0,
-          "change_pct": 1.4811275
+          "price": 4310.0,
+          "change_pct": 1.4595103
         },
         {
           "ticker": "3293.TWO",
           "name": "INTERNATIONAL GAMES SYSTEM CO",
-          "market_cap": 199797309440,
-          "pe": 16.557684,
+          "market_cap": 200079114240,
+          "pe": 16.581038,
           "revenue_growth": 14.6,
-          "price": 709.0,
-          "change_pct": 0.85348505
+          "price": 710.0,
+          "change_pct": 0.14104372
         },
         {
           "ticker": "NTES",
@@ -835,7 +835,7 @@
           "pe": 15.926569,
           "revenue_growth": 7.9,
           "price": 119.29,
-          "change_pct": 1.91371
+          "change_pct": 1.9137101
         },
         {
           "ticker": "EA",
@@ -853,16 +853,16 @@
           "pe": null,
           "revenue_growth": 2.0,
           "price": 214.69,
-          "change_pct": 0.261522
+          "change_pct": 0.26152223
         },
         {
           "ticker": "ALL.AX",
           "name": "ARISTOCRAT FPO [ALL]",
-          "market_cap": 36419170304,
-          "pe": 25.738398,
+          "market_cap": 36198268928,
+          "pe": 25.474789,
           "revenue_growth": -0.2,
-          "price": 61.0,
-          "change_pct": -0.74845284
+          "price": 60.63,
+          "change_pct": -0.60655564
         },
         {
           "ticker": "RBLX",
@@ -908,45 +908,45 @@
       "hot_score": 6.9,
       "news": [
         {
+          "title": "Strategy Is Down More Than 50% in 12 Months. One Analyst Thinks the Stock Is About to Triple",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-down-more-50-12-123619635.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-09-07T12:36:19Z"
+        },
+        {
+          "title": "Coinbase Brings BTC, ETH and SOL Derivatives to Canada as Eric Richmond Pushes ‘Everything Exchange’ Vision",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-brings-btc-eth-sol-095215768.html",
+          "source": "CCN",
+          "time": "2026-09-07T09:52:15Z"
+        },
+        {
+          "title": "Week Ahead: Two Market-Moving Events in 48 Hours — the CLARITY Act Vote and Circle Arc Mainnet",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/week-ahead-two-market-moving-091841347.html",
+          "source": "Forkast News",
+          "time": "2026-09-07T09:18:41Z"
+        },
+        {
+          "title": "What Happens When Congress Doesn’t Show Up: The Institutional Crypto Buildout Is Already Underway",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/happens-congress-doesn-t-show-123849346.html",
+          "source": "Forkast News",
+          "time": "2026-09-06T12:38:49Z"
+        },
+        {
           "title": "Coinbase Says Crypto's Next Wave of Growth Will Come From AI Agents. Here's What Crypto Investors Need to Know.",
           "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-says-cryptos-next-wave-100900583.html",
           "source": "Motley Fool",
           "time": "2026-09-06T10:09:00Z"
-        },
-        {
-          "title": "Ripple CEO Is 'Proud' About White House Crypto Meeting: What's Next for XRP?",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/ripple-ceo-proud-white-house-163115788.html",
-          "source": "Benzinga",
-          "time": "2026-09-05T16:31:15Z"
-        },
-        {
-          "title": "Bitwise's Matt Hougan Names Robinhood, Solana, Uniswap And Ethereum As His Tokenization Basket",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/bitwises-matt-hougan-names-robinhood-145359352.html",
-          "source": "Stocktwits",
-          "time": "2026-09-05T14:53:59Z"
-        },
-        {
-          "title": "Wall Street Banker, Musk’s Finance Chief, Now Coinbase Board Director: The Anthony Armstrong Story",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/wall-street-banker-musk-finance-100759116.html",
-          "source": "CoinGape",
-          "time": "2026-09-05T10:07:59Z"
-        },
-        {
-          "title": "Coinbase Global, Inc. (COIN) Dips More Than Broader Market: What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coinbase-global-inc-coin-dips-214504905.html",
-          "source": "Zacks",
-          "time": "2026-09-04T21:45:04Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "8473.T",
           "name": "SBI HOLDINGS INC",
-          "market_cap": 2191267856384,
-          "pe": 5.4288645,
+          "market_cap": 2174461673472,
+          "pe": 5.387227,
           "revenue_growth": 28.8,
-          "price": 3390.0,
-          "change_pct": 3.860294
+          "price": 3364.0,
+          "change_pct": -0.76696163
         },
         {
           "ticker": "NU",
@@ -964,7 +964,7 @@
           "pe": null,
           "revenue_growth": -17.3,
           "price": 184.64,
-          "change_pct": -4.18267
+          "change_pct": -4.1826663
         },
         {
           "ticker": "GLXY",
@@ -973,7 +973,7 @@
           "pe": null,
           "revenue_growth": -3.8,
           "price": 26.33,
-          "change_pct": -0.64151
+          "change_pct": -0.6415097
         },
         {
           "ticker": "HUT",
@@ -982,7 +982,7 @@
           "pe": null,
           "revenue_growth": 81.4,
           "price": 93.545,
-          "change_pct": 6.19253
+          "change_pct": 6.1925325
         },
         {
           "ticker": "WULF",
@@ -991,7 +991,7 @@
           "pe": null,
           "revenue_growth": -6.0,
           "price": 16.51,
-          "change_pct": 1.7252
+          "change_pct": 1.7252045
         },
         {
           "ticker": "CIFR",
@@ -1000,7 +1000,7 @@
           "pe": null,
           "revenue_growth": -43.0,
           "price": 17.74,
-          "change_pct": 2.1301
+          "change_pct": 2.130103
         },
         {
           "ticker": "CORZ",
@@ -1009,7 +1009,7 @@
           "pe": null,
           "revenue_growth": 108.8,
           "price": 17.89,
-          "change_pct": -0.0558672
+          "change_pct": -0.055867203
         },
         {
           "ticker": "OPRA",
@@ -1018,12 +1018,12 @@
           "pe": 13.608696,
           "revenue_growth": 24.6,
           "price": 18.78,
-          "change_pct": 1.84382
+          "change_pct": 1.8438187
         },
         {
           "ticker": "BBBY",
           "name": "Bed Bath & Beyond, Inc.",
-          "market_cap": 414399584,
+          "market_cap": 414687136,
           "pe": null,
           "revenue_growth": null,
           "price": 4.35,
@@ -1055,54 +1055,54 @@
       "hot_score": 2.9,
       "news": [
         {
-          "title": "I Own Both Oracle and NuScale for Different Reasons. Here's How They Fit Together.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/own-both-oracle-nuscale-different-101200827.html",
-          "source": "Motley Fool",
-          "time": "2026-09-06T10:12:00Z"
+          "title": "Weight loss is just the beginning of GLP-1's: Novo Nordisk CEO",
+          "url": "https://finance.yahoo.com/video/weight-loss-just-beginning-glp-100000472.html",
+          "source": "Yahoo Finance Video",
+          "time": "2026-09-07T10:00:00Z"
         },
         {
-          "title": "Bill Gates Says He Still Won't Invest in Crypto, Calls It a \"Pure Mania-Driven Asset.\" Here's Why He's Right.",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/bill-gates-says-still-wont-235000894.html",
-          "source": "Motley Fool",
-          "time": "2026-09-05T23:50:00Z"
+          "title": "Why Apple May Be the Safest AI Stock Nobody Calls an AI Stock",
+          "url": "https://finance.yahoo.com/technology/ai/articles/why-apple-may-safest-ai-130028156.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-09-07T13:00:28Z"
         },
         {
-          "title": "3 Great Quality Stocks To Own In September 2026",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-great-quality-stocks-own-201414086.html",
-          "source": "Simply Wall St.",
-          "time": "2026-09-05T20:14:14Z"
+          "title": "Microsoft Corporation (MSFT) Is a Trending Stock: Facts to Know Before Betting on It",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-trending-stock-130003642.html",
+          "source": "Zacks",
+          "time": "2026-09-07T13:00:03Z"
         },
         {
-          "title": "Amazon, Alphabet, and Microsoft: Two I'm Buying and One I'm Selling",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-alphabet-microsoft-two-im-094800132.html",
-          "source": "Motley Fool",
-          "time": "2026-09-05T09:48:00Z"
+          "title": "Apple’s Sept. 9 Event Could Change Everything",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-sept-9-event-could-125501364.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-09-07T12:55:01Z"
         },
         {
-          "title": "What Move Will SpaceX Stock Make After Sept. 9? The Evidence Is Piling Up, and Here’s What It Shows.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/move-spacex-stock-sept-9-082301362.html",
-          "source": "Motley Fool",
-          "time": "2026-09-05T08:23:01Z"
+          "title": "Nebius Stock Up 254% in a Year: Should You Buy, Hold or Sell?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-254-buy-hold-123800481.html",
+          "source": "Zacks",
+          "time": "2026-09-07T12:38:00Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "005930.KS",
           "name": "SamsungElec",
-          "market_cap": 1677756899262464,
+          "market_cap": 1772972163465216,
           "pe": null,
           "revenue_growth": 130.0,
-          "price": 255500.0,
-          "change_pct": 2.2
+          "price": 270000.0,
+          "change_pct": 5.6751466
         },
         {
           "ticker": "000660.KS",
           "name": "SK hynix",
-          "market_cap": 1169131034378240,
+          "market_cap": 1265671295991808,
           "pe": null,
           "revenue_growth": 256.8,
-          "price": 1647000.0,
-          "change_pct": 3.195489
+          "price": 1783000.0,
+          "change_pct": 8.257438
         },
         {
           "ticker": "GOOGL",
@@ -1111,7 +1111,7 @@
           "pe": 16.97392,
           "revenue_growth": 24.2,
           "price": 338.46,
-          "change_pct": -1.11027
+          "change_pct": -1.1102724
         },
         {
           "ticker": "AMZN",
@@ -1120,7 +1120,7 @@
           "pe": 20.797264,
           "revenue_growth": 19.6,
           "price": 258.51,
-          "change_pct": -0.150631
+          "change_pct": -0.15063119
         },
         {
           "ticker": "TSM",
@@ -1138,7 +1138,7 @@
           "pe": 45.64987,
           "revenue_growth": 85.5,
           "price": 357.895,
-          "change_pct": 0.205786
+          "change_pct": 0.20578602
         },
         {
           "ticker": "MU",
@@ -1147,7 +1147,7 @@
           "pe": 22.98937,
           "revenue_growth": 345.7,
           "price": 1016.59,
-          "change_pct": 6.09815
+          "change_pct": 6.098152
         },
         {
           "ticker": "AMD",
@@ -1156,7 +1156,7 @@
           "pe": 121.82908,
           "revenue_growth": 50.1,
           "price": 477.57,
-          "change_pct": 4.69353
+          "change_pct": 4.6935296
         },
         {
           "ticker": "INTC",
@@ -1165,7 +1165,7 @@
           "pe": null,
           "revenue_growth": 25.4,
           "price": 95.8,
-          "change_pct": 4.5053
+          "change_pct": 4.505296
         },
         {
           "ticker": "CSCO",
@@ -1174,7 +1174,7 @@
           "pe": 32.792793,
           "revenue_growth": 17.6,
           "price": 109.2,
-          "change_pct": 0.543225
+          "change_pct": 0.5432247
         }
       ]
     },
@@ -1202,34 +1202,34 @@
       "hot_score": -0.5,
       "news": [
         {
-          "title": "Prediction: Nvidia Will Join the Vanguard Russell 1000 Value ETF Before the End of the Year. Here's Why the ETF Is an Excellent Buy Now.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-join-vanguard-russell-112700001.html",
+          "title": "Warren Buffett's Successor, Greg Abel, Sees Multiple Ways for Berkshire Hathaway to Profit From Opportunities in Artificial Intelligence",
+          "url": "https://finance.yahoo.com/technology/ai/articles/warren-buffetts-successor-greg-abel-132001367.html",
           "source": "Motley Fool",
-          "time": "2026-09-06T11:27:00Z"
+          "time": "2026-09-07T13:20:01Z"
         },
         {
-          "title": "Why Palo Alto Networks Stock Plummeted This Week",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-palo-alto-networks-stock-112012453.html",
+          "title": "If You'd Invested $10,000 in the Vanguard Information Technology ETF (VGT) 20 Years Ago, Here's What You'd Have Today. (You Might Want to Sit Down.)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-10-000-vanguard-132000311.html",
           "source": "Motley Fool",
-          "time": "2026-09-06T11:20:12Z"
+          "time": "2026-09-07T13:20:00Z"
         },
         {
-          "title": "Why Rezolve AI Stock Plummeted This Week",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-rezolve-ai-stock-plummeted-112000988.html",
+          "title": "Is Oklo at $41 a Bargain or a Trap? Here's the Answer.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-41-bargain-trap-heres-131400513.html",
           "source": "Motley Fool",
-          "time": "2026-09-06T11:20:00Z"
+          "time": "2026-09-07T13:14:00Z"
         },
         {
-          "title": "If You'd Invested in Moderna (MRNA) Stock 5 Years Ago, Here's How Much You'd Have Today (Hint: You'd Be Disappointed -- But Not If You Bought It 1 Year Ago.)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-moderna-mrna-stock-111500301.html",
+          "title": "Cathie Wood Has Stuck With Tesla Through Repeated Missed Robotaxi Deadlines. Here's Why She's Still Buying.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-stuck-tesla-repeated-130500709.html",
           "source": "Motley Fool",
-          "time": "2026-09-06T11:15:00Z"
+          "time": "2026-09-07T13:05:00Z"
         },
         {
-          "title": "Why GitLab Stock Surged This Week",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-gitlab-stock-surged-week-110500899.html",
-          "source": "Motley Fool",
-          "time": "2026-09-06T11:05:00Z"
+          "title": "NVIDIA's Hugging Face Buyout: Can It Further Strengthen AI Dominance?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-hugging-face-buyout-further-130200882.html",
+          "source": "Zacks",
+          "time": "2026-09-07T13:02:00Z"
         }
       ],
       "top_companies": [
@@ -1240,7 +1240,7 @@
           "pe": 29.159492,
           "revenue_growth": 105.9,
           "price": 230.36,
-          "change_pct": 0.836071
+          "change_pct": 0.83607084
         },
         {
           "ticker": "TSM",
@@ -1258,7 +1258,7 @@
           "pe": 45.64987,
           "revenue_growth": 85.5,
           "price": 357.895,
-          "change_pct": 0.205786
+          "change_pct": 0.20578602
         },
         {
           "ticker": "MU",
@@ -1267,7 +1267,7 @@
           "pe": 22.98937,
           "revenue_growth": 345.7,
           "price": 1016.59,
-          "change_pct": 6.09815
+          "change_pct": 6.098152
         },
         {
           "ticker": "AMD",
@@ -1276,7 +1276,7 @@
           "pe": 121.82908,
           "revenue_growth": 50.1,
           "price": 477.57,
-          "change_pct": 4.69353
+          "change_pct": 4.6935296
         },
         {
           "ticker": "INTC",
@@ -1285,7 +1285,7 @@
           "pe": null,
           "revenue_growth": 25.4,
           "price": 95.8,
-          "change_pct": 4.5053
+          "change_pct": 4.505296
         },
         {
           "ticker": "LRCX",
@@ -1294,7 +1294,7 @@
           "pe": 53.504345,
           "revenue_growth": 30.0,
           "price": 307.65,
-          "change_pct": 5.12198
+          "change_pct": 5.121981
         },
         {
           "ticker": "KLAC",
@@ -1312,7 +1312,7 @@
           "pe": 39.216995,
           "revenue_growth": 22.8,
           "price": 258.44,
-          "change_pct": 1.81618
+          "change_pct": 1.8161764
         },
         {
           "ticker": "ADI",
@@ -1321,7 +1321,7 @@
           "pe": 43.125004,
           "revenue_growth": 39.6,
           "price": 362.25,
-          "change_pct": 1.6129
+          "change_pct": 1.6129031
         }
       ]
     },
@@ -1401,7 +1401,7 @@
         {
           "ticker": "BA",
           "name": "Boeing Company (The)",
-          "market_cap": 167633453056,
+          "market_cap": 167756038144,
           "pe": 76.34892,
           "revenue_growth": 8.0,
           "price": 212.25,
@@ -1446,7 +1446,7 @@
         {
           "ticker": "TDG",
           "name": "Transdigm Group Incorporated",
-          "market_cap": 64997625856,
+          "market_cap": 64234086400,
           "pe": 35.21364,
           "revenue_growth": 22.5,
           "price": 1162.05,
@@ -1468,7 +1468,7 @@
           "pe": null,
           "revenue_growth": 62.0,
           "price": 64.26,
-          "change_pct": 0.70522
+          "change_pct": 0.7052198
         }
       ]
     }
