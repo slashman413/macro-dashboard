@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T13:31:59.963080+00:00",
+  "updated_at": "2026-09-08T12:09:51.222317+00:00",
   "total_tracked": 14,
   "industries": [
     {
@@ -26,34 +26,34 @@
       "hot_score": 27.4,
       "news": [
         {
-          "title": "AstraZeneca Secures FDA Nod for New Breast Cancer Therapy Etcamah",
-          "url": "https://finance.yahoo.com/healthcare/articles/astrazeneca-secures-fda-nod-breast-124100423.html",
-          "source": "Zacks",
-          "time": "2026-09-07T12:41:00Z"
+          "title": "Plastic surgery is booming with boomers. Here’s how to cash in on the antiaging craze.",
+          "url": "https://finance.yahoo.com/healthcare/articles/plastic-surgery-booming-boomers-cash-123000980.html",
+          "source": "MarketWatch",
+          "time": "2026-09-08T10:58:00Z"
         },
         {
-          "title": "Eli Lilly’s $100B incretin opportunity: Is more upside coming?",
-          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-100b-incretin-opportunity-214922159.html",
-          "source": "Investing.com",
-          "time": "2026-09-06T21:49:22Z"
+          "title": "Stocks to Watch: Amgen, Nike, Bloom Energy",
+          "url": "",
+          "source": "The Wall Street Journal",
+          "time": "2026-09-08T09:07:28Z"
         },
         {
-          "title": "Moderna Just Doubled Overnight, and 2 More Healthcare Stocks Could Follow It",
-          "url": "https://finance.yahoo.com/healthcare/articles/moderna-just-doubled-overnight-2-125000386.html",
-          "source": "MarketBeat",
-          "time": "2026-09-06T12:50:00Z"
+          "title": "Could Mounjaro’s New Heart Benefit Unlock the Next Growth Phase for Lilly?",
+          "url": "https://finance.yahoo.com/healthcare/articles/could-mounjaro-heart-benefit-unlock-001426121.html",
+          "source": "Insider Monkey",
+          "time": "2026-09-08T00:14:26Z"
         },
         {
-          "title": "Here's Why Billionaires Stanley Druckenmiller and Ken Griffin Are Loading Up on Eli Lilly Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-billionaires-stanley-druckenmiller-091100451.html",
+          "title": "Eli Lilly vs. Novo Nordisk: One Has 39% Upside. I'm Picking the Other.",
+          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-vs-novo-nordisk-230002000.html",
+          "source": "Barchart",
+          "time": "2026-09-07T23:00:02Z"
+        },
+        {
+          "title": "Eli Lilly Has Been on an Acquisition Spree. How Much Could Its Latest Deals Boost the Stock?",
+          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-acquisition-spree-much-213500340.html",
           "source": "Motley Fool",
-          "time": "2026-09-06T09:11:00Z"
-        },
-        {
-          "title": "Prediction: Here's What a $5,000 Investment in Eli Lilly Could Look Like in 5 Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-heres-5-000-investment-210800354.html",
-          "source": "Motley Fool",
-          "time": "2026-09-05T21:08:00Z"
+          "time": "2026-09-07T21:35:00Z"
         }
       ],
       "top_companies": [
@@ -87,7 +87,7 @@
         {
           "ticker": "ARWR",
           "name": "Arrowhead Pharmaceuticals, Inc.",
-          "market_cap": 12195909632,
+          "market_cap": 12161595392,
           "pe": null,
           "revenue_growth": 171.0,
           "price": 86.34,
@@ -96,7 +96,7 @@
         {
           "ticker": "TGTX",
           "name": "TG Therapeutics, Inc.",
-          "market_cap": 8570384384,
+          "market_cap": 8569571328,
           "pe": 20.432482,
           "revenue_growth": 70.3,
           "price": 55.985,
@@ -105,7 +105,7 @@
         {
           "ticker": "TWST",
           "name": "Twist Bioscience Corporation",
-          "market_cap": 7820870144,
+          "market_cap": 8210619904,
           "pe": null,
           "revenue_growth": 23.2,
           "price": 124.72,
@@ -123,7 +123,7 @@
         {
           "ticker": "TVTX",
           "name": "Travere Therapeutics, Inc.",
-          "market_cap": 6153362944,
+          "market_cap": 6070576640,
           "pe": null,
           "revenue_growth": 48.2,
           "price": 65.28,
@@ -243,7 +243,7 @@
         {
           "ticker": "PYPL",
           "name": "PayPal Holdings, Inc.",
-          "market_cap": 47016128512,
+          "market_cap": 47375519744,
           "pe": 10.389414,
           "revenue_growth": 4.8,
           "price": 54.96,
@@ -252,11 +252,11 @@
         {
           "ticker": "ADYEN.AS",
           "name": "ADYEN",
-          "market_cap": 31544578048,
-          "pe": 28.133446,
+          "market_cap": 31434094592,
+          "pe": 28.034908,
           "revenue_growth": 18.9,
-          "price": 999.3,
-          "change_pct": -2.6600397
+          "price": 995.8,
+          "change_pct": -0.45981973
         },
         {
           "ticker": "FISV",
@@ -288,7 +288,7 @@
         {
           "ticker": "FIS",
           "name": "Fidelity National Information S",
-          "market_cap": 21602920448,
+          "market_cap": 21652066304,
           "pe": 6.4347153,
           "revenue_growth": 29.1,
           "price": 41.89,
@@ -320,34 +320,34 @@
       "hot_score": 14.8,
       "news": [
         {
-          "title": "The real danger of black market peptides: Novo Nordisk CEO",
-          "url": "https://finance.yahoo.com/video/real-danger-black-market-peptides-110000226.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-09-07T11:00:00Z"
+          "title": "Discount Hyperscaler: Oracle’s Direct Threat to AWS",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/discount-hyperscaler-oracle-direct-threat-113554836.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-09-08T11:35:54Z"
         },
         {
-          "title": "Amazon.com, Inc. (AMZN) is Attracting Investor Attention: Here is What You Should Know",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-inc-amzn-attracting-130004501.html",
-          "source": "Zacks",
-          "time": "2026-09-07T13:00:04Z"
+          "title": "Oracle Stock Keeps Falling While Wall Street Holds Firm—Who’s Right?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-keeps-falling-while-113456535.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-09-08T11:34:56Z"
         },
         {
-          "title": "Amazon Cargo Jet Crash Puts Its Air Network in the Spotlight",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-cargo-jet-crash-puts-124313120.html",
-          "source": "GuruFocus.com",
-          "time": "2026-09-07T12:43:13Z"
+          "title": "Market Chatter: Investigators Probe Amazon Cargo Plane Crash",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-investigators-probe-amazon-110417895.html",
+          "source": "MT Newswires",
+          "time": "2026-09-08T11:04:17Z"
         },
         {
-          "title": "Amazon Stock in Focus After Cargo Plane Crash Kills 5 in Miami",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-focus-cargo-plane-123456497.html",
-          "source": "GuruFocus.com",
-          "time": "2026-09-07T12:34:56Z"
+          "title": "Amazon, Boeing Stocks Slip as Inquiry Into Fatal Miami Plane Crash Ramps Up",
+          "url": "",
+          "source": "Barrons.com",
+          "time": "2026-09-08T10:39:00Z"
         },
         {
-          "title": "Nvidia, Tech Giants Flash Stunning Market Signal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-tech-giants-flash-stunning-123419569.html",
-          "source": "GuruFocus.com",
-          "time": "2026-09-07T12:34:19Z"
+          "title": "Market Chatter: Anthropic to Start Marketing IPO Mid-October",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-anthropic-start-marketing-091304446.html",
+          "source": "MT Newswires",
+          "time": "2026-09-08T09:13:04Z"
         }
       ],
       "top_companies": [
@@ -408,7 +408,7 @@
         {
           "ticker": "P",
           "name": "Everpure, Inc.",
-          "market_cap": 33077614592,
+          "market_cap": 33159446528,
           "pe": 136.31506,
           "revenue_growth": null,
           "price": 99.51,
@@ -426,7 +426,7 @@
         {
           "ticker": "DOCN",
           "name": "DigitalOcean Holdings, Inc.",
-          "market_cap": 13224172544,
+          "market_cap": 13148653568,
           "pe": 51.122726,
           "revenue_growth": 28.6,
           "price": 112.47,
@@ -435,7 +435,7 @@
         {
           "ticker": "LUMN",
           "name": "Lumen Technologies, Inc.",
-          "market_cap": 6982885376,
+          "market_cap": 6975205888,
           "pe": null,
           "revenue_growth": -9.3,
           "price": 6.77,
@@ -467,6 +467,18 @@
       "hot_score": 13.8,
       "news": [
         {
+          "title": "Investors Pulled $700 Million From IGV Hours Before Snowflake Reignited Software",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-pulled-700-million-igv-133745603.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-09-07T13:37:45Z"
+        },
+        {
+          "title": "Brokers Suggest Investing in CrowdStrike (CRWD): Read This Before Placing a Bet",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/brokers-suggest-investing-crowdstrike-crwd-133004050.html",
+          "source": "Zacks",
+          "time": "2026-09-07T13:30:04Z"
+        },
+        {
           "title": "Breakfast News: Selling Is an Art. Your Art.",
           "url": "https://finance.yahoo.com/markets/stocks/articles/breakfast-news-selling-art-art-115000372.html",
           "source": "Motley Fool",
@@ -483,18 +495,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/90-2026-cybersecurity-growth-stock-104939003.html",
           "source": "Barchart",
           "time": "2026-09-06T10:49:39Z"
-        },
-        {
-          "title": "CrowdStrike (CRWD) Unveiled A Broad AI Security Platform Push",
-          "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-unveiled-broad-ai-001430063.html",
-          "source": "Simply Wall St.",
-          "time": "2026-09-06T00:14:30Z"
-        },
-        {
-          "title": "AI’s Next Winners? Investor Bets on Snowflake, CrowdStrike and Palantir",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-next-winners-investor-bets-170009073.html",
-          "source": "Benzinga",
-          "time": "2026-09-05T17:00:09Z"
         }
       ],
       "top_companies": [
@@ -614,34 +614,34 @@
       "hot_score": 13.5,
       "news": [
         {
-          "title": "Here is What to Know Beyond Why Meta Platforms, Inc. (META) is a Trending Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-meta-platforms-130005630.html",
-          "source": "Zacks",
-          "time": "2026-09-07T13:00:05Z"
+          "title": "Alphabet vs. Meta Platforms: Which \"Magnificent Seven\" Titan Has More Room to Run in September?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-vs-meta-platforms-magnificent-103500073.html",
+          "source": "Motley Fool",
+          "time": "2026-09-08T10:35:00Z"
         },
         {
-          "title": "Nvidia, Tech Giants Flash Stunning Market Signal",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-tech-giants-flash-stunning-123419569.html",
+          "title": "Nvidia, Palantir, and Meta Platforms Are Rattling Wall Street With This $18.6 Billion Warning",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-palantir-meta-platforms-rattling-092601179.html",
+          "source": "Motley Fool",
+          "time": "2026-09-08T09:26:01Z"
+        },
+        {
+          "title": "Local Data Center Fights Are Reshaping the Midterms—Here’s How",
+          "url": "",
+          "source": "Barrons.com",
+          "time": "2026-09-08T05:00:00Z"
+        },
+        {
+          "title": "Bank of America sends wake-up call to Meta stock investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-wake-call-230000244.html",
+          "source": "TheStreet",
+          "time": "2026-09-07T23:00:00Z"
+        },
+        {
+          "title": "Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-leads-august-rally-215855985.html",
           "source": "GuruFocus.com",
-          "time": "2026-09-07T12:34:19Z"
-        },
-        {
-          "title": "Meta’s $18 Billion Teen Safety Deal Puts the Pressure on TikTok and YouTube Next",
-          "url": "https://finance.yahoo.com/media-advertising/articles/meta-18-billion-teen-safety-011613870.html",
-          "source": "Insider Monkey",
-          "time": "2026-09-07T01:16:13Z"
-        },
-        {
-          "title": "Norway Skeptical of Smart Spectacles: Leader in EV Adoption Not Ready to Welcome ‘Pervert’ Glasses",
-          "url": "https://www.yahoo.com/news/world/articles/norway-skeptical-smart-spectacles-leader-213019935.html",
-          "source": "Benzinga",
-          "time": "2026-09-06T21:30:19Z"
-        },
-        {
-          "title": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-prove-doesn-t-202105317.html",
-          "source": "Insider Monkey",
-          "time": "2026-09-06T20:21:05Z"
+          "time": "2026-09-07T21:58:55Z"
         }
       ],
       "top_companies": [
@@ -761,34 +761,34 @@
       "hot_score": 11.1,
       "news": [
         {
-          "title": "Weight loss is just the beginning of GLP-1's: Novo Nordisk CEO",
-          "url": "https://finance.yahoo.com/video/weight-loss-just-beginning-glp-100000472.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-09-07T10:00:00Z"
-        },
-        {
-          "title": "Why Apple May Be the Safest AI Stock Nobody Calls an AI Stock",
-          "url": "https://finance.yahoo.com/technology/ai/articles/why-apple-may-safest-ai-130028156.html",
+          "title": "Oracle Stock Keeps Falling While Wall Street Holds Firm—Who’s Right?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-keeps-falling-while-113456535.html",
           "source": "24/7 Wall St.",
-          "time": "2026-09-07T13:00:28Z"
+          "time": "2026-09-08T11:34:56Z"
         },
         {
-          "title": "Microsoft Corporation (MSFT) Is a Trending Stock: Facts to Know Before Betting on It",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-trending-stock-130003642.html",
-          "source": "Zacks",
-          "time": "2026-09-07T13:00:03Z"
-        },
-        {
-          "title": "Apple’s Sept. 9 Event Could Change Everything",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-sept-9-event-could-125501364.html",
+          "title": "IREN Limited Has Cratered Over 3 Months: A Top-Ranked Wall Street Name Says It’s Due to Double",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/iren-limited-cratered-over-3-112449341.html",
           "source": "24/7 Wall St.",
-          "time": "2026-09-07T12:55:01Z"
+          "time": "2026-09-08T11:24:49Z"
         },
         {
-          "title": "Nebius Stock Up 254% in a Year: Should You Buy, Hold or Sell?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-254-buy-hold-123800481.html",
-          "source": "Zacks",
-          "time": "2026-09-07T12:38:00Z"
+          "title": "Microsoft-Backed OpenAI Acknowledges AI Agents Misused External Wikis",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-backed-openai-acknowledges-ai-092747378.html",
+          "source": "MT Newswires",
+          "time": "2026-09-08T09:27:47Z"
+        },
+        {
+          "title": "archTIS wins A$445,000 US private aviation security contract",
+          "url": "https://finance.yahoo.com/technology/articles/archtis-wins-445-000-us-234500438.html",
+          "source": "Proactive",
+          "time": "2026-09-07T23:45:00Z"
+        },
+        {
+          "title": "Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-leads-august-rally-215855985.html",
+          "source": "GuruFocus.com",
+          "time": "2026-09-07T21:58:55Z"
         }
       ],
       "top_companies": [
@@ -796,37 +796,37 @@
           "ticker": "7974.T",
           "name": "NINTENDO CO LTD",
           "market_cap": 10087640858624,
-          "pe": 24.027239,
+          "pe": 23.980486,
           "revenue_growth": -9.5,
           "price": 8750.0,
-          "change_pct": -1.0069013
+          "change_pct": 0.0
         },
         {
           "ticker": "0700.HK",
           "name": "TENCENT",
-          "market_cap": 3950432747520,
-          "pe": 14.755975,
+          "market_cap": 3923302940672,
+          "pe": 14.650067,
           "revenue_growth": 11.0,
-          "price": 438.4,
-          "change_pct": -0.9936753
+          "price": 435.4,
+          "change_pct": -0.68430656
         },
         {
           "ticker": "9697.T",
           "name": "CAPCOM CO LTD",
-          "market_cap": 1802911088640,
-          "pe": 33.04961,
+          "market_cap": 1825081393152,
+          "pe": 33.40991,
           "revenue_growth": 54.7,
-          "price": 4310.0,
-          "change_pct": 1.4595103
+          "price": 4363.0,
+          "change_pct": 1.2296984
         },
         {
           "ticker": "3293.TWO",
           "name": "INTERNATIONAL GAMES SYSTEM CO",
-          "market_cap": 200079114240,
-          "pe": 16.581038,
+          "market_cap": 199515504640,
+          "pe": 16.53819,
           "revenue_growth": 14.6,
-          "price": 710.0,
-          "change_pct": 0.14104372
+          "price": 708.0,
+          "change_pct": -0.28169012
         },
         {
           "ticker": "NTES",
@@ -858,11 +858,11 @@
         {
           "ticker": "ALL.AX",
           "name": "ARISTOCRAT FPO [ALL]",
-          "market_cap": 36198268928,
-          "pe": 25.474789,
+          "market_cap": 35869900800,
+          "pe": 25.350212,
           "revenue_growth": -0.2,
-          "price": 60.63,
-          "change_pct": -0.60655564
+          "price": 60.08,
+          "change_pct": -0.90714043
         },
         {
           "ticker": "RBLX",
@@ -908,45 +908,45 @@
       "hot_score": 6.9,
       "news": [
         {
-          "title": "Strategy Is Down More Than 50% in 12 Months. One Analyst Thinks the Stock Is About to Triple",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-down-more-50-12-123619635.html",
-          "source": "24/7 Wall St.",
-          "time": "2026-09-07T12:36:19Z"
+          "title": "MSTR, COIN, CRCL Stocks Dip: Crypto Equities Pull Back After Bitcoin's $82K Rejection",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/mstr-coin-crcl-stocks-dip-104827495.html",
+          "source": "Stocktwits",
+          "time": "2026-09-08T10:48:27Z"
         },
         {
-          "title": "Coinbase Brings BTC, ETH and SOL Derivatives to Canada as Eric Richmond Pushes ‘Everything Exchange’ Vision",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-brings-btc-eth-sol-095215768.html",
-          "source": "CCN",
-          "time": "2026-09-07T09:52:15Z"
+          "title": "Bitcoin Rally Faces Fresh Risks From Fed, Oil, Yen And Bond Markets As Spot Demand Weakens",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rally-faces-fresh-risks-093058897.html",
+          "source": "Stocktwits",
+          "time": "2026-09-08T09:30:58Z"
         },
         {
-          "title": "Week Ahead: Two Market-Moving Events in 48 Hours — the CLARITY Act Vote and Circle Arc Mainnet",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/week-ahead-two-market-moving-091841347.html",
-          "source": "Forkast News",
-          "time": "2026-09-07T09:18:41Z"
+          "title": "Stocks to Watch: Amgen, Nike, Bloom Energy",
+          "url": "",
+          "source": "The Wall Street Journal",
+          "time": "2026-09-08T09:07:28Z"
         },
         {
-          "title": "What Happens When Congress Doesn’t Show Up: The Institutional Crypto Buildout Is Already Underway",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/happens-congress-doesn-t-show-123849346.html",
-          "source": "Forkast News",
-          "time": "2026-09-06T12:38:49Z"
+          "title": "Hunter Biden (and His Laptop) Enter the Cryptosphere With New Meme Coin",
+          "url": "",
+          "source": "The Wall Street Journal",
+          "time": "2026-09-07T23:13:00Z"
         },
         {
-          "title": "Coinbase Says Crypto's Next Wave of Growth Will Come From AI Agents. Here's What Crypto Investors Need to Know.",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-says-cryptos-next-wave-100900583.html",
-          "source": "Motley Fool",
-          "time": "2026-09-06T10:09:00Z"
+          "title": "Hunter Biden makes new crypto move against Donald Trump",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/hunter-biden-makes-crypto-move-185306893.html",
+          "source": "TheStreet",
+          "time": "2026-09-07T18:53:06Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "8473.T",
           "name": "SBI HOLDINGS INC",
-          "market_cap": 2174461673472,
-          "pe": 5.387227,
+          "market_cap": 2164765753344,
+          "pe": 5.361059,
           "revenue_growth": 28.8,
-          "price": 3364.0,
-          "change_pct": -0.76696163
+          "price": 3349.0,
+          "change_pct": -0.44589773
         },
         {
           "ticker": "NU",
@@ -1023,7 +1023,7 @@
         {
           "ticker": "BBBY",
           "name": "Bed Bath & Beyond, Inc.",
-          "market_cap": 414687136,
+          "market_cap": 414399584,
           "pe": null,
           "revenue_growth": null,
           "price": 4.35,
@@ -1055,54 +1055,54 @@
       "hot_score": 2.9,
       "news": [
         {
-          "title": "Weight loss is just the beginning of GLP-1's: Novo Nordisk CEO",
-          "url": "https://finance.yahoo.com/video/weight-loss-just-beginning-glp-100000472.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-09-07T10:00:00Z"
-        },
-        {
-          "title": "Why Apple May Be the Safest AI Stock Nobody Calls an AI Stock",
-          "url": "https://finance.yahoo.com/technology/ai/articles/why-apple-may-safest-ai-130028156.html",
+          "title": "Oracle Stock Keeps Falling While Wall Street Holds Firm—Who’s Right?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-keeps-falling-while-113456535.html",
           "source": "24/7 Wall St.",
-          "time": "2026-09-07T13:00:28Z"
+          "time": "2026-09-08T11:34:56Z"
         },
         {
-          "title": "Microsoft Corporation (MSFT) Is a Trending Stock: Facts to Know Before Betting on It",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-trending-stock-130003642.html",
-          "source": "Zacks",
-          "time": "2026-09-07T13:00:03Z"
-        },
-        {
-          "title": "Apple’s Sept. 9 Event Could Change Everything",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-sept-9-event-could-125501364.html",
+          "title": "IREN Limited Has Cratered Over 3 Months: A Top-Ranked Wall Street Name Says It’s Due to Double",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/iren-limited-cratered-over-3-112449341.html",
           "source": "24/7 Wall St.",
-          "time": "2026-09-07T12:55:01Z"
+          "time": "2026-09-08T11:24:49Z"
         },
         {
-          "title": "Nebius Stock Up 254% in a Year: Should You Buy, Hold or Sell?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-254-buy-hold-123800481.html",
-          "source": "Zacks",
-          "time": "2026-09-07T12:38:00Z"
+          "title": "Microsoft-Backed OpenAI Acknowledges AI Agents Misused External Wikis",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-backed-openai-acknowledges-ai-092747378.html",
+          "source": "MT Newswires",
+          "time": "2026-09-08T09:27:47Z"
+        },
+        {
+          "title": "archTIS wins A$445,000 US private aviation security contract",
+          "url": "https://finance.yahoo.com/technology/articles/archtis-wins-445-000-us-234500438.html",
+          "source": "Proactive",
+          "time": "2026-09-07T23:45:00Z"
+        },
+        {
+          "title": "Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-leads-august-rally-215855985.html",
+          "source": "GuruFocus.com",
+          "time": "2026-09-07T21:58:55Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "005930.KS",
           "name": "SamsungElec",
-          "market_cap": 1772972163465216,
+          "market_cap": 1769688795185152,
           "pe": null,
           "revenue_growth": 130.0,
-          "price": 270000.0,
-          "change_pct": 5.6751466
+          "price": 269500.0,
+          "change_pct": -0.18518518
         },
         {
           "ticker": "000660.KS",
           "name": "SK hynix",
-          "market_cap": 1265671295991808,
+          "market_cap": 1272769803190272,
           "pe": null,
           "revenue_growth": 256.8,
-          "price": 1783000.0,
-          "change_pct": 8.257438
+          "price": 1793000.0,
+          "change_pct": 0.5608525
         },
         {
           "ticker": "GOOGL",
@@ -1202,34 +1202,34 @@
       "hot_score": -0.5,
       "news": [
         {
-          "title": "Warren Buffett's Successor, Greg Abel, Sees Multiple Ways for Berkshire Hathaway to Profit From Opportunities in Artificial Intelligence",
-          "url": "https://finance.yahoo.com/technology/ai/articles/warren-buffetts-successor-greg-abel-132001367.html",
+          "title": "3 Financial Stocks You Could Buy Today and Not Think About Until 2030",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-financial-stocks-could-buy-115000573.html",
           "source": "Motley Fool",
-          "time": "2026-09-07T13:20:01Z"
+          "time": "2026-09-08T11:50:00Z"
         },
         {
-          "title": "If You'd Invested $10,000 in the Vanguard Information Technology ETF (VGT) 20 Years Ago, Here's What You'd Have Today. (You Might Want to Sit Down.)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-10-000-vanguard-132000311.html",
+          "title": "Why USA Rare Earth Stock Surged 19.2% Last Month",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-usa-rare-earth-stock-113613276.html",
           "source": "Motley Fool",
-          "time": "2026-09-07T13:20:00Z"
+          "time": "2026-09-08T11:36:13Z"
         },
         {
-          "title": "Is Oklo at $41 a Bargain or a Trap? Here's the Answer.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-41-bargain-trap-heres-131400513.html",
+          "title": "I've Covered Many IPOs for The Motley Fool. Here's What Most Investors Get Wrong.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ive-covered-many-ipos-motley-113500676.html",
           "source": "Motley Fool",
-          "time": "2026-09-07T13:14:00Z"
+          "time": "2026-09-08T11:35:00Z"
         },
         {
-          "title": "Cathie Wood Has Stuck With Tesla Through Repeated Missed Robotaxi Deadlines. Here's Why She's Still Buying.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-stuck-tesla-repeated-130500709.html",
-          "source": "Motley Fool",
-          "time": "2026-09-07T13:05:00Z"
+          "title": "Lab Notes: The Week AI Infrastructure Got Serious and Its Safety Got Fragile",
+          "url": "https://finance.yahoo.com/technology/ai/articles/lab-notes-week-ai-infrastructure-113150450.html",
+          "source": "Forkast News",
+          "time": "2026-09-08T11:31:50Z"
         },
         {
-          "title": "NVIDIA's Hugging Face Buyout: Can It Further Strengthen AI Dominance?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-hugging-face-buyout-further-130200882.html",
-          "source": "Zacks",
-          "time": "2026-09-07T13:02:00Z"
+          "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Winner Is Down 20% and Clearly the Superior Buy Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-1-artificial-113000528.html",
+          "source": "Motley Fool",
+          "time": "2026-09-08T11:30:00Z"
         }
       ],
       "top_companies": [
@@ -1349,34 +1349,34 @@
       "hot_score": -1.6,
       "news": [
         {
+          "title": "Lockheed's $729 Million HIMARS Win Feeds a 19% Missile-Sales Surge",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lockheeds-729-million-himars-win-214041633.html",
+          "source": "GuruFocus.com",
+          "time": "2026-09-07T21:40:41Z"
+        },
+        {
+          "title": "Lockheed Martin (LMT)’s HIMARS Win in Sweden Strengthens its European Defense Footprint",
+          "url": "https://finance.yahoo.com/economy/policy/articles/lockheed-martin-lmt-himars-win-191854846.html",
+          "source": "Insider Monkey",
+          "time": "2026-09-07T19:18:54Z"
+        },
+        {
+          "title": "Lockheed Martin’s (LMT) Javelin JV Signs Co-Production MOU With Tata Advanced Systems",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-javelin-jv-182848367.html",
+          "source": "Insider Monkey",
+          "time": "2026-09-07T18:28:48Z"
+        },
+        {
+          "title": "Can Local Javelin Production Strengthen Lockheed Martin in India?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/local-javelin-production-strengthen-lockheed-141200198.html",
+          "source": "Zacks",
+          "time": "2026-09-07T14:12:00Z"
+        },
+        {
           "title": "Lockheed Martin (LMT) Stock Still Looks Below Fair Value After A 74% Run",
           "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-stock-still-041623805.html",
           "source": "Simply Wall St.",
           "time": "2026-09-05T04:16:23Z"
-        },
-        {
-          "title": "Lockheed Martin (LMT) Could Be 22% Undervalued On Credit Deal Extension",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-could-22-010805640.html",
-          "source": "Simply Wall St.",
-          "time": "2026-09-05T01:08:05Z"
-        },
-        {
-          "title": "Boeing vs. Lockheed Martin: Which Aerospace Stock Is a Better Buy in 2026?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-vs-lockheed-martin-aerospace-191901208.html",
-          "source": "Motley Fool",
-          "time": "2026-09-04T19:19:01Z"
-        },
-        {
-          "title": "Can the Sea-Launched Cruise Missile Program Boost GD's Growth?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/sea-launched-cruise-missile-program-143000673.html",
-          "source": "Zacks",
-          "time": "2026-09-04T14:30:00Z"
-        },
-        {
-          "title": "Boeing Slips 3.2% in 3 Months: Is a Better Entry Point Ahead?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-slips-3-2-3-115100322.html",
-          "source": "Zacks",
-          "time": "2026-09-04T11:51:00Z"
         }
       ],
       "top_companies": [
@@ -1401,7 +1401,7 @@
         {
           "ticker": "BA",
           "name": "Boeing Company (The)",
-          "market_cap": 167756038144,
+          "market_cap": 167633453056,
           "pe": 76.34892,
           "revenue_growth": 8.0,
           "price": 212.25,
@@ -1446,7 +1446,7 @@
         {
           "ticker": "TDG",
           "name": "Transdigm Group Incorporated",
-          "market_cap": 64234086400,
+          "market_cap": 64997625856,
           "pe": 35.21364,
           "revenue_growth": 22.5,
           "price": 1162.05,
