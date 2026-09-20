@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T11:59:15.408252+00:00",
+  "updated_at": "2026-09-20T12:24:00.377195+00:00",
   "total_tracked": 14,
   "industries": [
     {
@@ -26,10 +26,16 @@
       "hot_score": 25.2,
       "news": [
         {
-          "title": "Crowdstrike, Palo Alto Networks, and cybersecurity stocks post strong weekly gains after AI freak-out moment",
-          "url": "https://finance.yahoo.com/markets/article/crowdstrike-palo-alto-networks-and-cybersecurity-stocks-post-strong-weekly-gains-after-ai-freak-out-moment-142352398.html",
-          "source": "Yahoo Finance",
-          "time": "2026-09-18T14:23:52Z"
+          "title": "CrowdStrike CEO sends strong six-word message on AI cyber safety",
+          "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-ceo-sends-strong-six-183500330.html",
+          "source": "TheStreet",
+          "time": "2026-09-19T18:35:00Z"
+        },
+        {
+          "title": "CrowdStrike (CRWD) Lands Forrester Leadership Nod As AI Security Ties Deepen",
+          "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-lands-forrester-leadership-141102892.html",
+          "source": "Simply Wall St.",
+          "time": "2026-09-19T14:11:02Z"
         },
         {
           "title": "CrowdStrike, HubSpot, Intuit, Cloudflare, and Okta Shares Plummet, What You Need To Know",
@@ -48,12 +54,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/crwd-stock-keeps-climbing-climb-224914402.html",
           "source": "Trefis",
           "time": "2026-09-18T22:49:14Z"
-        },
-        {
-          "title": "Cybersecurity Stock Fortinet Forms Rare Pattern, Flirts With Buy Point",
-          "url": "",
-          "source": "Investor's Business Daily",
-          "time": "2026-09-18T19:24:44Z"
         }
       ],
       "top_companies": [
@@ -97,7 +97,7 @@
           "ticker": "FTNT",
           "name": "Fortinet, Inc.",
           "market_cap": 124613926912,
-          "pe": 60.87455,
+          "pe": 59.80282,
           "revenue_growth": 25.6,
           "price": 169.84,
           "change_pct": -1.58767
@@ -173,34 +173,34 @@
       "hot_score": 25.1,
       "news": [
         {
-          "title": "Cathie Wood Is Selling 2 Magnificent Seven Stocks, but Piling Into Another",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-selling-2-magnificent-092500847.html",
+          "title": "FedEx Lease Rollover Raises Industrial CMBS Refi Risk",
+          "url": "https://finance.yahoo.com/real-estate/articles/fedex-lease-rollover-raises-industrial-114601022.html",
+          "source": "CRE Daily",
+          "time": "2026-09-20T11:46:01Z"
+        },
+        {
+          "title": "Prediction: Here's What a $5,000 Investment in Amazon (AMZN) Stock Could Be Worth by 2036.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-heres-5-000-investment-105200570.html",
           "source": "Motley Fool",
-          "time": "2026-09-19T09:25:00Z"
+          "time": "2026-09-20T10:52:00Z"
         },
         {
-          "title": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-returned-11-annually-090000695.html",
+          "title": "Prediction: Anthropic's IPO Will Be a Big Winner for Alphabet and Amazon Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-anthropics-ipo-big-winner-093500839.html",
           "source": "Motley Fool",
-          "time": "2026-09-19T09:00:00Z"
+          "time": "2026-09-20T09:35:00Z"
         },
         {
-          "title": "How AI concerns moved to the center of the midterm debate",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-concerns-moved-center-midterm-085642768.html",
-          "source": "Investing.com",
-          "time": "2026-09-19T08:56:42Z"
-        },
-        {
-          "title": "These 15 Words From Amazon’s Andy Jassy May Eliminate Nvidia’s Biggest Risk",
-          "url": "https://finance.yahoo.com/technology/ai/articles/15-words-amazon-andy-jassy-082801539.html",
+          "title": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-buying-seven-magnificent-seven-185000912.html",
           "source": "Motley Fool",
-          "time": "2026-09-19T08:28:01Z"
+          "time": "2026-09-19T18:50:00Z"
         },
         {
-          "title": "Is Affirm Holdings, Inc. (AFRM) Stock a Buy After Goldman Sachs Raised Its Price Target?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/affirm-holdings-inc-afrm-stock-080841812.html",
-          "source": "Insider Monkey",
-          "time": "2026-09-19T08:08:41Z"
+          "title": "$949 million fraud verdict costs CVS a business in Chapter 11",
+          "url": "https://finance.yahoo.com/healthcare/articles/cvs-division-completes-chapter-11-150700440.html",
+          "source": "TheStreet",
+          "time": "2026-09-19T18:28:58Z"
         }
       ],
       "top_companies": [
@@ -226,7 +226,7 @@
           "ticker": "AMZN",
           "name": "Amazon.com, Inc.",
           "market_cap": 2736595664896,
-          "pe": 20.19984,
+          "pe": 20.411102,
           "revenue_growth": 19.6,
           "price": 253.71,
           "change_pct": 1.00323
@@ -235,7 +235,7 @@
           "ticker": "ORCL",
           "name": "Oracle Corporation",
           "market_cap": 446333681664,
-          "pe": 23.579872,
+          "pe": 23.136364,
           "revenue_growth": 29.6,
           "price": 147.61,
           "change_pct": -1.97888
@@ -279,7 +279,7 @@
         {
           "ticker": "DOCN",
           "name": "DigitalOcean Holdings, Inc.",
-          "market_cap": 15301803008,
+          "market_cap": 15214419968,
           "pe": 59.154545,
           "revenue_growth": 28.6,
           "price": 130.14,
@@ -288,7 +288,7 @@
         {
           "ticker": "LUMN",
           "name": "Lumen Technologies, Inc.",
-          "market_cap": 6601250304,
+          "market_cap": 6593990656,
           "pe": null,
           "revenue_growth": -9.3,
           "price": 6.4,
@@ -320,34 +320,34 @@
       "hot_score": 12.9,
       "news": [
         {
-          "title": "'Astonishing theft of unprecedented proportions': NYT vs. OpenAI, Microsoft lawsuit",
-          "url": "https://finance.yahoo.com/video/astonishing-theft-unprecedented-proportions-nyt-134822530.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-09-18T13:48:22Z"
-        },
-        {
-          "title": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-returned-11-annually-090000695.html",
+          "title": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-buying-seven-magnificent-seven-185000912.html",
           "source": "Motley Fool",
-          "time": "2026-09-19T09:00:00Z"
+          "time": "2026-09-19T18:50:00Z"
         },
         {
-          "title": "How AI concerns moved to the center of the midterm debate",
-          "url": "https://finance.yahoo.com/technology/ai/articles/ai-concerns-moved-center-midterm-085642768.html",
-          "source": "Investing.com",
-          "time": "2026-09-19T08:56:42Z"
+          "title": "Meta stock delivers a bold case for a $900 target",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-delivers-bold-case-161700431.html",
+          "source": "TheStreet",
+          "time": "2026-09-19T16:17:00Z"
         },
         {
-          "title": "Meta (META)’s Stilla.ai Deal Could Turn Business Agent Into a New Monetization Engine",
-          "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-stilla-ai-deal-075756581.html",
-          "source": "Insider Monkey",
-          "time": "2026-09-19T07:57:56Z"
+          "title": "The Stock Market's Biggest Companies Are Losing Their Grip. Here's the ETF I'd Buy If History Repeats.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-markets-biggest-companies-losing-150500940.html",
+          "source": "Motley Fool",
+          "time": "2026-09-19T15:05:00Z"
         },
         {
-          "title": "What Happens To Reddit Stock If Search Keeps Sending Fewer People?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/happens-reddit-stock-search-keeps-213638799.html",
-          "source": "Trefis",
-          "time": "2026-09-18T21:36:38Z"
+          "title": "JPMorgan Changed Its Mind on Meta Stock After This Major AI Breakthrough",
+          "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-changed-mind-meta-stock-140002556.html",
+          "source": "Barchart",
+          "time": "2026-09-19T14:00:02Z"
+        },
+        {
+          "title": "Meta Stock Could Hit $800 This Year -- And It All Begins on Sept. 23",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-could-hit-800-122139390.html",
+          "source": "Barchart",
+          "time": "2026-09-19T12:21:39Z"
         }
       ],
       "top_companies": [
@@ -400,7 +400,7 @@
           "ticker": "QCOM",
           "name": "QUALCOMM Incorporated",
           "market_cap": 189815717888,
-          "pe": 21.541819,
+          "pe": 20.334097,
           "revenue_growth": -4.0,
           "price": 177.72,
           "change_pct": -5.82375
@@ -467,34 +467,34 @@
       "hot_score": 10.8,
       "news": [
         {
-          "title": "'Astonishing theft of unprecedented proportions': NYT vs. OpenAI, Microsoft lawsuit",
-          "url": "https://finance.yahoo.com/video/astonishing-theft-unprecedented-proportions-nyt-134822530.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-09-18T13:48:22Z"
+          "title": "Can Nokia Oyj (HLSE:NOKIA) Speed Up Telecom AI With Its New Data Push?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nokia-oyj-hlse-nokia-speed-031933816.html",
+          "source": "Simply Wall St.",
+          "time": "2026-09-20T03:19:33Z"
         },
         {
-          "title": "The Agent Economy Runs on Concrete: Why $660 Billion Is Pouring Into Physical Infrastructure",
-          "url": "https://finance.yahoo.com/technology/articles/agent-economy-runs-concrete-why-101127688.html",
-          "source": "Forkast News",
-          "time": "2026-09-19T10:11:27Z"
+          "title": "Anthropic Made a ‘Mistake’ Teaching Claude About Consciousness: Microsoft AI Chief Mustafa Suleyman Warns It’s Now ‘A Lot Harder to Turn It Off’",
+          "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-made-mistake-teaching-claude-003110200.html",
+          "source": "Benzinga",
+          "time": "2026-09-20T00:31:10Z"
         },
         {
-          "title": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-returned-11-annually-090000695.html",
+          "title": "DGRW Pays Dividends Every Month. Its Biggest Stocks Look Nothing Like a High-Yield ETF",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dgrw-pays-dividends-every-month-225737231.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-09-19T22:57:37Z"
+        },
+        {
+          "title": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-buying-seven-magnificent-seven-185000912.html",
           "source": "Motley Fool",
-          "time": "2026-09-19T09:00:00Z"
+          "time": "2026-09-19T18:50:00Z"
         },
         {
-          "title": "Sam Altman Admits the AI Industry Has Done \"a Terrible Job\" Explaining Its Benefits Amid Growing Backlash. Should That Worry Nvidia and Microsoft Investors?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/sam-altman-admits-ai-industry-085000115.html",
-          "source": "Motley Fool",
-          "time": "2026-09-19T08:50:00Z"
-        },
-        {
-          "title": "How to position for the next wave of AI-led scientific breakthroughs",
-          "url": "https://finance.yahoo.com/technology/ai/articles/position-next-wave-ai-led-013630980.html",
-          "source": "Investing.com",
-          "time": "2026-09-19T01:36:30Z"
+          "title": "AI Made Execution Easier. It Also Changed the Founder’s Most Important Job.",
+          "url": "https://finance.yahoo.com/small-business/articles/ai-made-execution-easier-changed-183000456.html",
+          "source": "Entrepreneur",
+          "time": "2026-09-19T18:30:00Z"
         }
       ],
       "top_companies": [
@@ -614,6 +614,18 @@
       "hot_score": 7.4,
       "news": [
         {
+          "title": "Eli Lilly (LLY) Stock Fair Value Edges Higher As Analysts Back GLP 1 Growth",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-stock-fair-041830693.html",
+          "source": "Simply Wall St.",
+          "time": "2026-09-20T04:18:30Z"
+        },
+        {
+          "title": "Pfizer to Share Revenue With HHS in Deal on Overseas Drug Prices",
+          "url": "https://finance.yahoo.com/healthcare/articles/pfizer-share-revenue-hhs-deal-211251182.html",
+          "source": "Bloomberg",
+          "time": "2026-09-19T21:12:51Z"
+        },
+        {
           "title": "How to position for the next wave of AI-led scientific breakthroughs",
           "url": "https://finance.yahoo.com/technology/ai/articles/position-next-wave-ai-led-013630980.html",
           "source": "Investing.com",
@@ -630,18 +642,6 @@
           "url": "https://finance.yahoo.com/healthcare/articles/why-twist-bioscience-stock-skyrocketed-235628109.html",
           "source": "Motley Fool",
           "time": "2026-09-18T23:56:28Z"
-        },
-        {
-          "title": "What About the Energy Sector?",
-          "url": "",
-          "source": "Barrons.com",
-          "time": "2026-09-18T22:10:00Z"
-        },
-        {
-          "title": "What Would It Take For Eli Lilly Stock To Keep Climbing?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-stock-keep-climbing-212344778.html",
-          "source": "Trefis",
-          "time": "2026-09-18T21:23:44Z"
         }
       ],
       "top_companies": [
@@ -684,7 +684,7 @@
         {
           "ticker": "ARWR",
           "name": "Arrowhead Pharmaceuticals, Inc.",
-          "market_cap": 9390597120,
+          "market_cap": 9364175872,
           "pe": null,
           "revenue_growth": 171.0,
           "price": 66.48,
@@ -693,7 +693,7 @@
         {
           "ticker": "TGTX",
           "name": "TG Therapeutics, Inc.",
-          "market_cap": 8705863680,
+          "market_cap": 8705037312,
           "pe": 20.755474,
           "revenue_growth": 70.3,
           "price": 56.87,
@@ -711,7 +711,7 @@
         {
           "ticker": "TVTX",
           "name": "Travere Therapeutics, Inc.",
-          "market_cap": 5915825152,
+          "market_cap": 5836234752,
           "pe": null,
           "revenue_growth": 48.2,
           "price": 62.76,
@@ -831,7 +831,7 @@
         {
           "ticker": "PYPL",
           "name": "PayPal Holdings, Inc.",
-          "market_cap": 44834705408,
+          "market_cap": 45177421824,
           "pe": 9.907372,
           "revenue_growth": 4.8,
           "price": 52.41,
@@ -841,7 +841,7 @@
           "ticker": "ADYEN.AS",
           "name": "ADYEN",
           "market_cap": 27750264832,
-          "pe": 24.742472,
+          "pe": 24.69382,
           "revenue_growth": 18.9,
           "price": 879.1,
           "change_pct": -3.7446637
@@ -859,7 +859,7 @@
           "ticker": "GPN",
           "name": "Global Payments Inc.",
           "market_cap": 22508439552,
-          "pe": 40.50476,
+          "pe": 40.312798,
           "revenue_growth": 68.6,
           "price": 85.06,
           "change_pct": -0.398131
@@ -876,7 +876,7 @@
         {
           "ticker": "FIS",
           "name": "Fidelity National Information S",
-          "market_cap": 18369443840,
+          "market_cap": 18411233280,
           "pe": 5.471582,
           "revenue_growth": 29.1,
           "price": 35.62,
@@ -891,13 +891,13 @@
       "name_en": "5G & Networking",
       "description": "5G-Advanced 與 6G 研發加速，邊緣運算與物聯網基礎設施佈建擴大",
       "etf": "FIVG",
-      "etf_name": "FIVG,136311,166600",
+      "etf_name": "FIVG",
       "bellwether": "QCOM",
       "metrics": {
-        "pe_ratio": 25.4,
+        "pe_ratio": null,
         "revenue_growth": -4.0,
         "profit_margin": 21.0,
-        "total_assets": 598189312
+        "total_assets": null
       },
       "returns": {
         "1m": null,
@@ -907,6 +907,18 @@
       },
       "hot_score": 0,
       "news": [
+        {
+          "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mediatek-stepping-competition-against-qualcomm-183002481.html",
+          "source": "Barchart",
+          "time": "2026-09-19T18:30:02Z"
+        },
+        {
+          "title": "MarketBeat Week in Review – 09/14 - 09/18",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-09-14-110000916.html",
+          "source": "MarketBeat",
+          "time": "2026-09-19T11:00:00Z"
+        },
         {
           "title": "Qualcomm (QCOM) Joins New Edge AI Ecosystem",
           "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-joins-edge-ai-041937210.html",
@@ -924,18 +936,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/why-does-nvda-stock-carry-164036851.html",
           "source": "Trefis",
           "time": "2026-09-18T16:40:36Z"
-        },
-        {
-          "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/needs-true-buy-qualcomm-stock-140330945.html",
-          "source": "Trefis",
-          "time": "2026-09-18T14:03:30Z"
-        },
-        {
-          "title": "Volatility Aside, ARM’s AI Thesis Is Untouched",
-          "url": "https://finance.yahoo.com/technology/ai/articles/volatility-aside-arm-ai-thesis-113524746.html",
-          "source": "24/7 Wall St.",
-          "time": "2026-09-18T11:35:24Z"
         }
       ],
       "top_companies": [
@@ -988,7 +988,7 @@
           "ticker": "ORCL",
           "name": "Oracle Corporation",
           "market_cap": 446333681664,
-          "pe": 23.579872,
+          "pe": 23.136364,
           "revenue_growth": 29.6,
           "price": 147.61,
           "change_pct": -1.97888
@@ -1015,7 +1015,7 @@
           "ticker": "QCOM",
           "name": "QUALCOMM Incorporated",
           "market_cap": 189815717888,
-          "pe": 21.541819,
+          "pe": 20.334097,
           "revenue_growth": -4.0,
           "price": 177.72,
           "change_pct": -5.82375
@@ -1024,7 +1024,7 @@
           "ticker": "ADI",
           "name": "Analog Devices, Inc.",
           "market_cap": 182060941312,
-          "pe": 43.087154,
+          "pe": 44.622326,
           "revenue_growth": 39.6,
           "price": 375.72,
           "change_pct": 3.60403
@@ -1055,34 +1055,34 @@
       "hot_score": -2.3,
       "news": [
         {
-          "title": "The SEC is bringing tokenized stocks to markets: 7 key details you need to know",
-          "url": "https://finance.yahoo.com/video/sec-bringing-tokenized-stocks-markets-180000283.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-09-18T18:00:00Z"
-        },
-        {
-          "title": "Coinbase Stock Jumped 12% Yesterday. Bitcoin’s Breakout Wasn’t the Whole Story.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/coinbase-stock-jumped-12-yesterday-090945993.html",
-          "source": "TIKR",
-          "time": "2026-09-19T09:09:45Z"
-        },
-        {
-          "title": "Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+          "title": "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
           "url": "",
           "source": "Investor's Business Daily",
-          "time": "2026-09-19T01:36:29Z"
+          "time": "2026-09-20T11:24:28Z"
         },
         {
-          "title": "Bitwise CIO Matt Hougan Adjusts His Crypto Outlook After the Senate Vote. Here’s What He Changed",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/bitwise-cio-matt-hougan-adjusts-233010546.html",
-          "source": "24/7 Wall St.",
-          "time": "2026-09-18T23:30:10Z"
+          "title": "Coinbase (COIN) Says Custom AI Agents Drove Most Trading Activity Last Week",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-coin-says-custom-ai-041832902.html",
+          "source": "Simply Wall St.",
+          "time": "2026-09-20T04:18:32Z"
         },
         {
-          "title": "What Is a Stablecoin Reward, and Why Did the CLARITY Act’s Failure Keep It Alive?",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/stablecoin-reward-why-did-clarity-231049426.html",
+          "title": "Fairshake Has $193 Million for the Midterms. Which Coin Stands to Gain the Most on November 3?",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/fairshake-193-million-midterms-coin-013424675.html",
           "source": "24/7 Wall St.",
-          "time": "2026-09-18T23:10:49Z"
+          "time": "2026-09-20T01:34:24Z"
+        },
+        {
+          "title": "Hyperliquid Surges 18% to New High as Bitcoin Sees 5% Gain. What’s Behind the Divergence?",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-surges-18-high-bitcoin-011455205.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-09-20T01:14:55Z"
+        },
+        {
+          "title": "Crypto Blew Its Big Moment—and the Blame Game Has Begun",
+          "url": "",
+          "source": "The Wall Street Journal",
+          "time": "2026-09-20T01:00:00Z"
         }
       ],
       "top_companies": [
@@ -1170,7 +1170,7 @@
         {
           "ticker": "BBBY",
           "name": "Bed Bath & Beyond, Inc.",
-          "market_cap": 414687136,
+          "market_cap": 414399584,
           "pe": null,
           "revenue_growth": null,
           "price": 4.35,
@@ -1202,34 +1202,34 @@
       "hot_score": -4.4,
       "news": [
         {
-          "title": "'Astonishing theft of unprecedented proportions': NYT vs. OpenAI, Microsoft lawsuit",
-          "url": "https://finance.yahoo.com/video/astonishing-theft-unprecedented-proportions-nyt-134822530.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-09-18T13:48:22Z"
+          "title": "Can Nokia Oyj (HLSE:NOKIA) Speed Up Telecom AI With Its New Data Push?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/nokia-oyj-hlse-nokia-speed-031933816.html",
+          "source": "Simply Wall St.",
+          "time": "2026-09-20T03:19:33Z"
         },
         {
-          "title": "The Agent Economy Runs on Concrete: Why $660 Billion Is Pouring Into Physical Infrastructure",
-          "url": "https://finance.yahoo.com/technology/articles/agent-economy-runs-concrete-why-101127688.html",
-          "source": "Forkast News",
-          "time": "2026-09-19T10:11:27Z"
+          "title": "Anthropic Made a ‘Mistake’ Teaching Claude About Consciousness: Microsoft AI Chief Mustafa Suleyman Warns It’s Now ‘A Lot Harder to Turn It Off’",
+          "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-made-mistake-teaching-claude-003110200.html",
+          "source": "Benzinga",
+          "time": "2026-09-20T00:31:10Z"
         },
         {
-          "title": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years.",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-returned-11-annually-090000695.html",
+          "title": "DGRW Pays Dividends Every Month. Its Biggest Stocks Look Nothing Like a High-Yield ETF",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dgrw-pays-dividends-every-month-225737231.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-09-19T22:57:37Z"
+        },
+        {
+          "title": "Forget Buying All Seven: The \"Magnificent Seven\" Stock Most Likely to Double by 2028",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/forget-buying-seven-magnificent-seven-185000912.html",
           "source": "Motley Fool",
-          "time": "2026-09-19T09:00:00Z"
+          "time": "2026-09-19T18:50:00Z"
         },
         {
-          "title": "Sam Altman Admits the AI Industry Has Done \"a Terrible Job\" Explaining Its Benefits Amid Growing Backlash. Should That Worry Nvidia and Microsoft Investors?",
-          "url": "https://finance.yahoo.com/technology/ai/articles/sam-altman-admits-ai-industry-085000115.html",
-          "source": "Motley Fool",
-          "time": "2026-09-19T08:50:00Z"
-        },
-        {
-          "title": "How to position for the next wave of AI-led scientific breakthroughs",
-          "url": "https://finance.yahoo.com/technology/ai/articles/position-next-wave-ai-led-013630980.html",
-          "source": "Investing.com",
-          "time": "2026-09-19T01:36:30Z"
+          "title": "AI Made Execution Easier. It Also Changed the Founder’s Most Important Job.",
+          "url": "https://finance.yahoo.com/small-business/articles/ai-made-execution-easier-changed-183000456.html",
+          "source": "Entrepreneur",
+          "time": "2026-09-19T18:30:00Z"
         }
       ],
       "top_companies": [
@@ -1264,7 +1264,7 @@
           "ticker": "AMZN",
           "name": "Amazon.com, Inc.",
           "market_cap": 2736595664896,
-          "pe": 20.19984,
+          "pe": 20.411102,
           "revenue_growth": 19.6,
           "price": 253.71,
           "change_pct": 1.00323
@@ -1349,34 +1349,34 @@
       "hot_score": -8.4,
       "news": [
         {
+          "title": "Did Rockwell’s (ROK) AI-Powered Cyber Push Quietly Redefine Its Industrial Reliability Narrative?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/did-rockwell-rok-ai-powered-080844519.html",
+          "source": "Simply Wall St.",
+          "time": "2026-09-20T08:08:44Z"
+        },
+        {
+          "title": "Rockwell Automation Sees Data Centers, Labor Crunch Fueling Automation Demand",
+          "url": "https://finance.yahoo.com/technology/articles/rockwell-automation-sees-data-centers-030201302.html",
+          "source": "MarketBeat",
+          "time": "2026-09-20T03:02:01Z"
+        },
+        {
+          "title": "Rockwell Automation (ROK) Stock Could Be 16% Above Fair Value As AI Cyber Defense News",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rockwell-automation-rok-stock-could-001929522.html",
+          "source": "Simply Wall St.",
+          "time": "2026-09-20T00:19:29Z"
+        },
+        {
+          "title": "Rockwell Automation (ROK) Joins Project Glasswing, Is The Stock Still Undervalued?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/rockwell-automation-rok-joins-project-141215336.html",
+          "source": "Simply Wall St.",
+          "time": "2026-09-19T14:12:15Z"
+        },
+        {
           "title": "3 Reasons to Sell ROK and 1 Stock to Buy Instead",
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-rok-1-184840289.html",
           "source": "StockStory",
           "time": "2026-09-18T18:48:40Z"
-        },
-        {
-          "title": "Rockwell Just Got a Major AI Cybersecurity Boost From Anthropic. What It Means for ROK Stock.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/rockwell-just-got-major-ai-204856597.html",
-          "source": "Barchart",
-          "time": "2026-09-17T20:48:56Z"
-        },
-        {
-          "title": "Teradyne Looks Expensive Until You Price The AI Chips It Has Not Tested Yet",
-          "url": "https://finance.yahoo.com/technology/ai/articles/teradyne-looks-expensive-until-price-001348002.html",
-          "source": "Trefis",
-          "time": "2026-09-16T00:13:48Z"
-        },
-        {
-          "title": "Is Teradyne Stock Asking Too Much Of Its Test Business?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-stock-asking-too-much-221944153.html",
-          "source": "Trefis",
-          "time": "2026-09-14T22:19:44Z"
-        },
-        {
-          "title": "Is Rockwell Automation Stock Outperforming the S&P 500?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/rockwell-automation-stock-outperforming-p-112055592.html",
-          "source": "Barchart",
-          "time": "2026-09-14T11:20:55Z"
         }
       ],
       "top_companies": [
@@ -1438,7 +1438,7 @@
           "ticker": "ABBN.SW",
           "name": "ABB LTD N",
           "market_cap": 144897277952,
-          "pe": 35.723213,
+          "pe": 35.56444,
           "revenue_growth": 14.2,
           "price": 80.02,
           "change_pct": 0.6287727
