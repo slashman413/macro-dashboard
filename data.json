@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T12:35:45.368213+00:00",
+  "updated_at": "2026-10-04T13:13:04.056609+00:00",
   "total_tracked": 14,
   "industries": [
     {
@@ -66,7 +66,7 @@
           "ticker": "ANET",
           "name": "Arista Networks, Inc.",
           "market_cap": 261514952704,
-          "pe": 64.59502,
+          "pe": 65.82539,
           "revenue_growth": 37.7,
           "price": 207.35,
           "change_pct": 1.3986
@@ -209,7 +209,7 @@
           "ticker": "FFIV",
           "name": "F5, Inc.",
           "market_cap": 25711007744,
-          "pe": 35.33385,
+          "pe": 36.207336,
           "revenue_growth": 10.9,
           "price": 454.04,
           "change_pct": 2.33502
@@ -262,7 +262,7 @@
           "ticker": "NVDA",
           "name": "NVIDIA Corporation",
           "market_cap": 5649190617088,
-          "pe": 29.17082,
+          "pe": 29.576487,
           "revenue_growth": 105.9,
           "price": 233.95,
           "change_pct": 1.33847
@@ -494,7 +494,7 @@
           "ticker": "NVDA",
           "name": "NVIDIA Corporation",
           "market_cap": 5649190617088,
-          "pe": 29.17082,
+          "pe": 29.576487,
           "revenue_growth": 105.9,
           "price": 233.95,
           "change_pct": 1.33847
@@ -726,7 +726,7 @@
           "ticker": "NVDA",
           "name": "NVIDIA Corporation",
           "market_cap": 5649190617088,
-          "pe": 29.17082,
+          "pe": 29.576487,
           "revenue_growth": 105.9,
           "price": 233.95,
           "change_pct": 1.33847
@@ -789,7 +789,7 @@
           "ticker": "ANET",
           "name": "Arista Networks, Inc.",
           "market_cap": 261514952704,
-          "pe": 64.59502,
+          "pe": 65.82539,
           "revenue_growth": 37.7,
           "price": 207.35,
           "change_pct": 1.3986
@@ -1083,7 +1083,7 @@
           "ticker": "NVDA",
           "name": "NVIDIA Corporation",
           "market_cap": 5649190617088,
-          "pe": 29.17082,
+          "pe": 29.576487,
           "revenue_growth": 105.9,
           "price": 233.95,
           "change_pct": 1.33847
