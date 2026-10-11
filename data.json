@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T13:44:17.398455+00:00",
+  "updated_at": "2026-10-11T14:04:49.190629+00:00",
   "total_tracked": 14,
   "industries": [
     {
@@ -48,7 +48,7 @@
           "ticker": "AMZN",
           "name": "Amazon.com, Inc.",
           "market_cap": 2830652145664,
-          "pe": 20.438473,
+          "pe": 21.112629,
           "revenue_growth": 19.6,
           "price": 262.43,
           "change_pct": 3.2945
@@ -102,7 +102,7 @@
           "ticker": "DOCN",
           "name": "DigitalOcean Holdings, Inc.",
           "market_cap": 15761550336,
-          "pe": 57.127125,
+          "pe": 62.129032,
           "revenue_growth": 28.6,
           "price": 134.82,
           "change_pct": 8.81356
@@ -110,11 +110,11 @@
         {
           "ticker": "LUMN",
           "name": "Lumen Technologies, Inc. Common Stock",
-          "market_cap": 5790347776,
+          "market_cap": 5440042496,
           "pe": null,
           "revenue_growth": -9.3,
-          "price": 5.62,
-          "change_pct": -2.26087
+          "price": 5.28,
+          "change_pct": -5.035967
         }
       ]
     },
@@ -387,7 +387,7 @@
           "ticker": "0700.HK",
           "name": "TENCENT",
           "market_cap": 3825543938048,
-          "pe": 14.483463,
+          "pe": 14.952481,
           "revenue_growth": 11.0,
           "price": 424.8,
           "change_pct": 3.2571692
@@ -521,7 +521,7 @@
           "ticker": "AMZN",
           "name": "Amazon.com, Inc.",
           "market_cap": 2830652145664,
-          "pe": 20.438473,
+          "pe": 21.112629,
           "revenue_growth": 19.6,
           "price": 262.43,
           "change_pct": 3.2945
@@ -905,7 +905,7 @@
           "ticker": "GPN",
           "name": "Global Payments Inc.",
           "market_cap": 21751629824,
-          "pe": 38.773586,
+          "pe": 38.591545,
           "revenue_growth": 68.6,
           "price": 82.2,
           "change_pct": -0.688655
