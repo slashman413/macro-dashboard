@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T11:38:48.529554+00:00",
+  "updated_at": "2026-10-18T12:04:42.985781+00:00",
   "total_tracked": 14,
   "industries": [
     {
@@ -39,7 +39,7 @@
           "ticker": "MSFT",
           "name": "Microsoft Corporation",
           "market_cap": 3928485003264,
-          "pe": 29.805634,
+          "pe": 29.473536,
           "revenue_growth": 17.7,
           "price": 529.05,
           "change_pct": -1.92607
@@ -173,7 +173,7 @@
           "ticker": "MSFT",
           "name": "Microsoft Corporation",
           "market_cap": 3928485003264,
-          "pe": 29.805634,
+          "pe": 29.473536,
           "revenue_growth": 17.7,
           "price": 529.05,
           "change_pct": -1.92607
@@ -194,7 +194,7 @@
           "pe": 19.920137,
           "revenue_growth": -4.0,
           "price": 172.11,
-          "change_pct": -3.52578
+          "change_pct": -3.5257812
         },
         {
           "ticker": "RBLX",
@@ -462,7 +462,7 @@
           "pe": 32.24925,
           "revenue_growth": 17.6,
           "price": 107.39,
-          "change_pct": -2.23942
+          "change_pct": -2.2394166
         }
       ]
     },
@@ -506,7 +506,7 @@
           "pe": 32.24925,
           "revenue_growth": 17.6,
           "price": 107.39,
-          "change_pct": -2.23942
+          "change_pct": -2.2394166
         },
         {
           "ticker": "PANW",
@@ -533,7 +533,7 @@
           "pe": 61.95238,
           "revenue_growth": 25.6,
           "price": 169.13,
-          "change_pct": -7.02545
+          "change_pct": -7.025451
         },
         {
           "ticker": "NET",
@@ -658,7 +658,7 @@
           "pe": 32.24925,
           "revenue_growth": 17.6,
           "price": 107.39,
-          "change_pct": -2.23942
+          "change_pct": -2.2394166
         },
         {
           "ticker": "ORCL",
@@ -694,7 +694,7 @@
           "pe": 19.920137,
           "revenue_growth": -4.0,
           "price": 172.11,
-          "change_pct": -3.52578
+          "change_pct": -3.5257812
         }
       ]
     },
@@ -801,7 +801,7 @@
           "pe": 45.284153,
           "revenue_growth": 15.2,
           "price": 165.74,
-          "change_pct": -4.99828
+          "change_pct": -4.998281
         },
         {
           "ticker": "ADI",
@@ -905,7 +905,7 @@
           "ticker": "GPN",
           "name": "Global Payments Inc.",
           "market_cap": 22140618752,
-          "pe": 39.842857,
+          "pe": 39.28169,
           "revenue_growth": 68.6,
           "price": 83.67,
           "change_pct": -0.594036
