@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T12:01:47.101286+00:00",
+  "updated_at": "2026-10-25T12:35:14.031203+00:00",
   "total_tracked": 14,
   "industries": [
     {
@@ -396,7 +396,7 @@
           "ticker": "9697.T",
           "name": "CAPCOM CO LTD",
           "market_cap": 1798727925760,
-          "pe": 27.652733,
+          "pe": 27.052532,
           "revenue_growth": 54.7,
           "price": 4300.0,
           "change_pct": -2.5606163
@@ -842,7 +842,7 @@
           "ticker": "INTU",
           "name": "Intuit Inc.",
           "market_cap": 91766177792,
-          "pe": 21.556183,
+          "pe": 20.862091,
           "revenue_growth": 13.7,
           "price": 343.39,
           "change_pct": -3.24316
@@ -968,7 +968,7 @@
           "name": "FANUC CORPORATION",
           "market_cap": 5167492104192,
           "pe": 29.017347,
-          "revenue_growth": 17.7,
+          "revenue_growth": 14.9,
           "price": 5587.0,
           "change_pct": -0.65789473
         },
@@ -1012,7 +1012,7 @@
           "ticker": "ISRG",
           "name": "Intuitive Surgical, Inc.",
           "market_cap": 159784124416,
-          "pe": 52.775967,
+          "pe": 54.690445,
           "revenue_growth": 21.7,
           "price": 452.29,
           "change_pct": 1.90154
