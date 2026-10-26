@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T12:35:14.031203+00:00",
+  "updated_at": "2026-10-26T14:17:54.384337+00:00",
   "total_tracked": 14,
   "industries": [
     {
@@ -12,109 +12,109 @@
       "etf_name": "First Trust Cloud Computing ETF",
       "bellwether": "AMZN",
       "metrics": {
-        "pe_ratio": 29.4,
+        "pe_ratio": 29.6,
         "revenue_growth": 19.6,
         "profit_margin": 17.4,
         "total_assets": 3327039232
       },
       "returns": {
-        "1m": 0.3,
-        "3m": 26.8,
-        "6m": 41.2,
-        "1y": 20.8
+        "1m": 3.7,
+        "3m": 24.1,
+        "6m": 41.4,
+        "1y": 19.7
       },
-      "hot_score": 26.8,
+      "hot_score": 24.1,
       "news": [],
       "top_companies": [
         {
           "ticker": "GOOGL",
           "name": "Alphabet Inc.",
-          "market_cap": 3916147458048,
-          "pe": 16.066732,
+          "market_cap": 3913579233280,
+          "pe": 16.056196,
           "revenue_growth": 24.2,
-          "price": 320.21,
-          "change_pct": -1.23682
+          "price": 320.0,
+          "change_pct": -0.065579295
         },
         {
           "ticker": "MSFT",
           "name": "Microsoft Corporation",
-          "market_cap": 3894773022720,
-          "pe": 29.220612,
+          "market_cap": 3909735677952,
+          "pe": 29.332869,
           "revenue_growth": 17.7,
-          "price": 524.51,
-          "change_pct": 0.658247
+          "price": 526.525,
+          "change_pct": 0.38421848
         },
         {
           "ticker": "AMZN",
           "name": "Amazon.com, Inc.",
-          "market_cap": 2675005718528,
-          "pe": 19.951729,
+          "market_cap": 2700784959488,
+          "pe": 20.144007,
           "revenue_growth": 19.6,
-          "price": 248.0,
-          "change_pct": -0.950557
+          "price": 250.39,
+          "change_pct": 0.9637094
         },
         {
           "ticker": "ORCL",
           "name": "Oracle Corporation",
-          "market_cap": 382454169600,
-          "pe": 19.774296,
+          "market_cap": 382484480000,
+          "pe": 19.775862,
           "revenue_growth": 29.6,
-          "price": 126.16,
-          "change_pct": 0.493869
+          "price": 126.157,
+          "change_pct": 0.007922088
         },
         {
           "ticker": "ANET",
           "name": "Arista Networks, Inc.",
-          "market_cap": 217397297152,
-          "pe": 54.375393,
+          "market_cap": 220329656320,
+          "pe": 55.108833,
           "revenue_growth": 37.7,
-          "price": 172.37,
-          "change_pct": 0.759916
+          "price": 174.695,
+          "change_pct": 1.3488498
         },
         {
           "ticker": "P",
           "name": "Everpure, Inc.",
-          "market_cap": 41096921088,
-          "pe": 168.9452,
+          "market_cap": 42116595712,
+          "pe": 173.13698,
           "revenue_growth": 37.7,
-          "price": 123.33,
-          "change_pct": 1.75743
+          "price": 126.39,
+          "change_pct": 2.481146
         },
         {
           "ticker": "CRWV",
           "name": "CoreWeave, Inc.",
-          "market_cap": 29912586240,
+          "market_cap": 30069774336,
           "pe": null,
           "revenue_growth": 112.5,
-          "price": 54.235,
-          "change_pct": -2.45503
+          "price": 54.52,
+          "change_pct": 0.52549064
         },
         {
           "ticker": "NTNX",
           "name": "Nutanix, Inc.",
-          "market_cap": 19096844288,
-          "pe": 13.651837,
+          "market_cap": 19451289600,
+          "pe": 13.905222,
           "revenue_growth": 15.9,
-          "price": 70.58,
-          "change_pct": 1.48095
+          "price": 71.89,
+          "change_pct": 1.8560463
         },
         {
           "ticker": "DOCN",
           "name": "DigitalOcean Holdings, Inc.",
-          "market_cap": 10898172928,
-          "pe": 42.958523,
+          "market_cap": 11130081280,
+          "pe": 43.62212,
           "revenue_growth": 28.6,
-          "price": 93.22,
-          "change_pct": 1.32609
+          "price": 94.66,
+          "change_pct": 1.5447354
         },
         {
           "ticker": "LUMN",
           "name": "Lumen Technologies, Inc.",
-          "market_cap": 4708521472,
+          "market_cap": 4646661632,
           "pe": null,
           "revenue_growth": -9.3,
-          "price": 4.57,
-          "change_pct": 2.46637
+          "price": 4.505,
+          "change_pct": -1.4223207
         }
       ]
     },
@@ -128,109 +128,109 @@
       "etf_name": "Amplify Cybersecurity ETF",
       "bellwether": "CRWD",
       "metrics": {
-        "pe_ratio": 33.4,
+        "pe_ratio": 34.0,
         "revenue_growth": 25.8,
         "profit_margin": 0.8,
         "total_assets": 3326192128
       },
       "returns": {
-        "1m": 4.6,
-        "3m": 21.5,
-        "6m": 62.5,
-        "1y": 44.9
+        "1m": 8.8,
+        "3m": 22.7,
+        "6m": 63.4,
+        "1y": 46.8
       },
-      "hot_score": 21.5,
+      "hot_score": 22.7,
       "news": [],
       "top_companies": [
         {
           "ticker": "AVGO",
           "name": "Broadcom Inc.",
-          "market_cap": 1535581224960,
-          "pe": 41.08301,
+          "market_cap": 1557683240960,
+          "pe": 41.674328,
           "revenue_growth": 85.5,
-          "price": 321.68,
-          "change_pct": -0.482613
+          "price": 326.31,
+          "change_pct": 1.4393201
         },
         {
           "ticker": "CSCO",
           "name": "Cisco Systems, Inc.",
-          "market_cap": 419885514752,
-          "pe": 31.981983,
+          "market_cap": 428618317824,
+          "pe": 32.64715,
           "revenue_growth": 17.6,
-          "price": 106.5,
-          "change_pct": 1.53494
+          "price": 108.715,
+          "change_pct": 2.0798087
         },
         {
           "ticker": "PANW",
           "name": "Palo Alto Networks, Inc.",
-          "market_cap": 311289905152,
-          "pe": 951.37494,
+          "market_cap": 317118152704,
+          "pe": 969.18744,
           "revenue_growth": 34.5,
-          "price": 380.55,
-          "change_pct": 7.22134
+          "price": 387.675,
+          "change_pct": 1.8722901
         },
         {
           "ticker": "CRWD",
           "name": "CrowdStrike Holdings, Inc.",
-          "market_cap": 263734902784,
-          "pe": 4292.8335,
+          "market_cap": 265193996288,
+          "pe": 4316.5835,
           "revenue_growth": 25.8,
-          "price": 257.57,
-          "change_pct": 8.24998
+          "price": 258.995,
+          "change_pct": 0.5532429
         },
         {
           "ticker": "FTNT",
           "name": "Fortinet, Inc.",
-          "market_cap": 132061126656,
-          "pe": 63.60071,
+          "market_cap": 133411160064,
+          "pe": 64.250885,
           "revenue_growth": 25.6,
-          "price": 179.99,
-          "change_pct": 4.0525
+          "price": 181.83,
+          "change_pct": 1.0223906
         },
         {
           "ticker": "NET",
           "name": "Cloudflare, Inc.",
-          "market_cap": 115985850368,
+          "market_cap": 115439263744,
           "pe": null,
           "revenue_growth": 35.9,
-          "price": 325.73,
-          "change_pct": 7.28567
+          "price": 324.195,
+          "change_pct": -0.47146147
         },
         {
           "ticker": "GD",
           "name": "General Dynamics Corporation",
-          "market_cap": 94521851904,
-          "pe": 21.315435,
+          "market_cap": 96069443584,
+          "pe": 21.664429,
           "revenue_growth": 8.1,
-          "price": 349.36,
-          "change_pct": -0.407658
+          "price": 355.08,
+          "change_pct": 1.63728
         },
         {
           "ticker": "FFIV",
           "name": "F5, Inc.",
-          "market_cap": 25789153280,
-          "pe": 36.96591,
+          "market_cap": 25936381952,
+          "pe": 36.495617,
           "revenue_growth": 10.9,
-          "price": 455.42,
-          "change_pct": 1.18646
+          "price": 458.02,
+          "change_pct": 0.5708962
         },
         {
           "ticker": "FSLY",
           "name": "Fastly, Inc.",
-          "market_cap": 3888513024,
+          "market_cap": 3931189504,
           "pe": null,
           "revenue_growth": 23.3,
-          "price": 24.41,
-          "change_pct": 8.73051
+          "price": 24.6779,
+          "change_pct": 1.097503
         },
         {
           "ticker": "ATEN",
           "name": "A10 Networks, Inc.",
-          "market_cap": 1847899776,
-          "pe": 43.879314,
+          "market_cap": 1905623936,
+          "pe": 45.250004,
           "revenue_growth": 15.5,
-          "price": 25.45,
-          "change_pct": 3.62378
+          "price": 26.245,
+          "change_pct": 3.1237724
         }
       ]
     },
@@ -244,91 +244,91 @@
       "etf_name": "Roundhill Metaverse ETF",
       "bellwether": "META",
       "metrics": {
-        "pe_ratio": 18.8,
+        "pe_ratio": 18.5,
         "revenue_growth": 26.1,
         "profit_margin": 31.1,
         "total_assets": 275281632
       },
       "returns": {
-        "1m": -1.4,
-        "3m": 15.2,
-        "6m": 17.1,
-        "1y": 2.4
+        "1m": -1.0,
+        "3m": 11.7,
+        "6m": 15.3,
+        "1y": -1.7
       },
-      "hot_score": 15.2,
+      "hot_score": 11.7,
       "news": [],
       "top_companies": [
         {
           "ticker": "NVDA",
           "name": "NVIDIA Corporation",
-          "market_cap": 5094050889728,
-          "pe": 26.67004,
+          "market_cap": 5185689092096,
+          "pe": 27.14981,
           "revenue_growth": 105.9,
-          "price": 210.96,
-          "change_pct": -0.589039
+          "price": 214.755,
+          "change_pct": 1.7989182
         },
         {
           "ticker": "AAPL",
           "name": "Apple Inc.",
-          "market_cap": 5074761285632,
-          "pe": 39.87672,
+          "market_cap": 5028570464256,
+          "pe": 39.51376,
           "revenue_growth": 16.4,
-          "price": 347.725,
-          "change_pct": -0.14215
+          "price": 344.56,
+          "change_pct": -0.91020447
         },
         {
           "ticker": "GOOGL",
           "name": "Alphabet Inc.",
-          "market_cap": 3916147458048,
-          "pe": 16.066732,
+          "market_cap": 3915474796544,
+          "pe": 16.063974,
           "revenue_growth": 24.2,
-          "price": 320.21,
-          "change_pct": -1.23682
+          "price": 320.155,
+          "change_pct": -0.01717394
         },
         {
           "ticker": "MSFT",
           "name": "Microsoft Corporation",
-          "market_cap": 3894773022720,
-          "pe": 29.220612,
+          "market_cap": 3911109312512,
+          "pe": 29.343176,
           "revenue_growth": 17.7,
-          "price": 524.51,
-          "change_pct": 0.658247
+          "price": 526.71,
+          "change_pct": 0.4194414
         },
         {
           "ticker": "META",
           "name": "Meta Platforms, Inc.",
-          "market_cap": 1637078401024,
-          "pe": 21.92494,
+          "market_cap": 1620850769920,
+          "pe": 21.70761,
           "revenue_growth": 26.1,
-          "price": 642.62,
-          "change_pct": -0.960157
+          "price": 636.25,
+          "change_pct": -0.9912538
         },
         {
           "ticker": "QCOM",
           "name": "QUALCOMM Incorporated",
-          "market_cap": 187843641344,
-          "pe": 20.359953,
+          "market_cap": 188943515648,
+          "pe": 20.479166,
           "revenue_growth": -4.0,
-          "price": 175.91,
-          "change_pct": 1.7821
+          "price": 176.94,
+          "change_pct": 0.585526
         },
         {
           "ticker": "RBLX",
           "name": "Roblox Corporation",
-          "market_cap": 37783343104,
+          "market_cap": 37736910848,
           "pe": null,
           "revenue_growth": 35.9,
-          "price": 52.89,
-          "change_pct": -1.98295
+          "price": 52.825,
+          "change_pct": -0.12289398
         },
         {
           "ticker": "U",
           "name": "Unity Software Inc.",
-          "market_cap": 17951227904,
+          "market_cap": 17703192576,
           "pe": null,
           "revenue_growth": 23.9,
-          "price": 40.79,
-          "change_pct": 1.29129
+          "price": 40.2264,
+          "change_pct": -1.3817172
         },
         {
           "ticker": "ETHQ/U.TO",
@@ -345,8 +345,8 @@
           "market_cap": 0,
           "pe": null,
           "revenue_growth": null,
-          "price": 11.84,
-          "change_pct": -0.08439011
+          "price": 11.64,
+          "change_pct": -1.6891875
         }
       ]
     },
@@ -360,46 +360,46 @@
       "etf_name": "VanEck Video Gaming and eSports",
       "bellwether": "MSFT",
       "metrics": {
-        "pe_ratio": 18.0,
+        "pe_ratio": 18.1,
         "revenue_growth": 17.7,
         "profit_margin": 40.3,
         "total_assets": 247188672
       },
       "returns": {
-        "1m": 2.0,
-        "3m": 11.5,
-        "6m": 7.2,
-        "1y": -13.0
+        "1m": 3.2,
+        "3m": 7.7,
+        "6m": 7.3,
+        "1y": -13.6
       },
-      "hot_score": 11.5,
+      "hot_score": 7.7,
       "news": [],
       "top_companies": [
         {
           "ticker": "7974.T",
           "name": "NINTENDO CO LTD",
-          "market_cap": 9844384858112,
-          "pe": 20.84615,
+          "market_cap": 9887040929792,
+          "pe": 20.936478,
           "revenue_growth": -9.5,
-          "price": 8539.0,
-          "change_pct": -1.8392918
+          "price": 8576.0,
+          "change_pct": 0.43330604
         },
         {
           "ticker": "0700.HK",
           "name": "TENCENT",
-          "market_cap": 3475778568192,
-          "pe": 13.586765,
+          "market_cap": 3479380164608,
+          "pe": 13.600844,
           "revenue_growth": 11.0,
-          "price": 386.0,
-          "change_pct": 0.9414242
+          "price": 386.4,
+          "change_pct": 0.103625365
         },
         {
           "ticker": "9697.T",
           "name": "CAPCOM CO LTD",
-          "market_cap": 1798727925760,
-          "pe": 27.052532,
+          "market_cap": 1816715198464,
+          "pe": 27.323057,
           "revenue_growth": 54.7,
-          "price": 4300.0,
-          "change_pct": -2.5606163
+          "price": 4343.0,
+          "change_pct": 1.0
         },
         {
           "ticker": "3293.TWO",
@@ -413,11 +413,11 @@
         {
           "ticker": "NTES",
           "name": "NetEase, Inc.",
-          "market_cap": 75949596672,
-          "pe": 16.473612,
+          "market_cap": 75866349568,
+          "pe": 16.455557,
           "revenue_growth": 7.9,
-          "price": 118.61,
-          "change_pct": -0.0505583
+          "price": 118.48,
+          "change_pct": -0.10960058
         },
         {
           "ticker": "EA",
@@ -431,38 +431,38 @@
         {
           "ticker": "TTWO",
           "name": "Take-Two Interactive Software, ",
-          "market_cap": 38086049792,
+          "market_cap": 37776596992,
           "pe": null,
           "revenue_growth": 2.0,
-          "price": 203.69,
-          "change_pct": -1.98258
-        },
-        {
-          "ticker": "ALL.AX",
-          "name": "ARISTOCRAT FPO [ALL]",
-          "market_cap": 37904388096,
-          "pe": 27.000002,
-          "revenue_growth": -0.2,
-          "price": 63.99,
-          "change_pct": 1.3141258
+          "price": 202.035,
+          "change_pct": -0.8125086
         },
         {
           "ticker": "RBLX",
           "name": "Roblox Corporation",
-          "market_cap": 37783343104,
+          "market_cap": 37697617920,
           "pe": null,
           "revenue_growth": 35.9,
-          "price": 52.89,
-          "change_pct": -1.98295
+          "price": 52.77,
+          "change_pct": -0.22688398
+        },
+        {
+          "ticker": "ALL.AX",
+          "name": "ARISTOCRAT FPO [ALL]",
+          "market_cap": 37673369600,
+          "pe": 26.949154,
+          "revenue_growth": -0.2,
+          "price": 63.6,
+          "change_pct": -0.60947526
         },
         {
           "ticker": "U",
           "name": "Unity Software Inc.",
-          "market_cap": 17951227904,
+          "market_cap": 17693775872,
           "pe": null,
           "revenue_growth": 23.9,
-          "price": 40.79,
-          "change_pct": 1.29129
+          "price": 40.205,
+          "change_pct": -1.4341727
         }
       ]
     },
@@ -476,114 +476,230 @@
       "etf_name": "Global X Artificial Intelligenc",
       "bellwether": "MSFT",
       "metrics": {
-        "pe_ratio": 22.6,
+        "pe_ratio": 22.7,
         "revenue_growth": 17.7,
         "profit_margin": 40.3,
         "total_assets": 10326885376
       },
       "returns": {
-        "1m": -5.6,
-        "3m": 7.4,
-        "6m": 13.0,
-        "1y": 20.0
+        "1m": -3.1,
+        "3m": 7.5,
+        "6m": 13.2,
+        "1y": 18.2
       },
-      "hot_score": 7.4,
+      "hot_score": 7.5,
       "news": [],
       "top_companies": [
         {
           "ticker": "005930.KS",
           "name": "SamsungElec",
-          "market_cap": 1403319360684032,
+          "market_cap": 1387039555584000,
           "pe": null,
           "revenue_growth": 130.0,
-          "price": 215500.0,
-          "change_pct": 0.46620047
+          "price": 213000.0,
+          "change_pct": -1.1600928
         },
         {
           "ticker": "000660.KS",
           "name": "SK hynix",
-          "market_cap": 930762698260480,
+          "market_cap": 929304959516672,
           "pe": null,
           "revenue_growth": 256.8,
-          "price": 1277000.0,
-          "change_pct": 4.415372
+          "price": 1275000.0,
+          "change_pct": -0.15661708
         },
         {
           "ticker": "GOOGL",
           "name": "Alphabet Inc.",
-          "market_cap": 3916147458048,
-          "pe": 16.066732,
+          "market_cap": 3912600911872,
+          "pe": 16.052183,
           "revenue_growth": 24.2,
-          "price": 320.21,
-          "change_pct": -1.23682
+          "price": 319.92,
+          "change_pct": -0.09055871
         },
         {
           "ticker": "AMZN",
           "name": "Amazon.com, Inc.",
-          "market_cap": 2675005718528,
-          "pe": 19.951729,
+          "market_cap": 2700515475456,
+          "pe": 20.141994,
           "revenue_growth": 19.6,
-          "price": 248.0,
-          "change_pct": -0.950557
+          "price": 250.33,
+          "change_pct": 0.9536505
         },
         {
           "ticker": "TSM",
           "name": "Taiwan Semiconductor Manufactur",
-          "market_cap": 2170591248384,
-          "pe": 27.123137,
+          "market_cap": 2186358030336,
+          "pe": 27.320154,
           "revenue_growth": 50.9,
-          "price": 418.51,
-          "change_pct": 1.49388
+          "price": 421.55,
+          "change_pct": 0.72652006
         },
         {
           "ticker": "AVGO",
           "name": "Broadcom Inc.",
-          "market_cap": 1535581224960,
-          "pe": 41.08301,
+          "market_cap": 1557206401024,
+          "pe": 41.66157,
           "revenue_growth": 85.5,
-          "price": 321.68,
-          "change_pct": -0.482613
+          "price": 326.2101,
+          "change_pct": 1.4082694
         },
         {
           "ticker": "MU",
           "name": "Micron Technology, Inc.",
-          "market_cap": 992880427008,
-          "pe": 11.806134,
+          "market_cap": 1003730829312,
+          "pe": 11.935154,
           "revenue_growth": 379.3,
-          "price": 877.55,
-          "change_pct": 2.45887
+          "price": 887.14,
+          "change_pct": 1.0928183
         },
         {
           "ticker": "AMD",
           "name": "Advanced Micro Devices, Inc.",
-          "market_cap": 843646697472,
-          "pe": 131.83418,
+          "market_cap": 847287222272,
+          "pe": 132.40306,
           "revenue_growth": 50.1,
-          "price": 516.79,
-          "change_pct": 1.74433
+          "price": 518.755,
+          "change_pct": 0.43151796
         },
         {
           "ticker": "INTC",
           "name": "Intel Corporation",
-          "market_cap": 459679694848,
+          "market_cap": 461213204480,
           "pe": null,
           "revenue_growth": 25.4,
-          "price": 86.96,
-          "change_pct": 1.7195
+          "price": 87.2501,
+          "change_pct": 0.33360177
         },
         {
           "ticker": "CSCO",
           "name": "Cisco Systems, Inc.",
-          "market_cap": 419885514752,
-          "pe": 31.981983,
+          "market_cap": 428480331776,
+          "pe": 32.63664,
           "revenue_growth": 17.6,
-          "price": 106.5,
-          "change_pct": 1.53494
+          "price": 108.68,
+          "change_pct": 2.04618
         }
       ]
     },
     {
       "rank": 6,
+      "slug": "biotech-pharma",
+      "name": "生技製藥",
+      "name_en": "Biotech & Pharma",
+      "description": "減肥藥、基因療法與 GLP-1 藥物引發生技產業新一輪成長週期",
+      "etf": "XBI",
+      "etf_name": "State Street SPDR S&P Biotech E",
+      "bellwether": "LLY",
+      "metrics": {
+        "pe_ratio": null,
+        "revenue_growth": 47.7,
+        "profit_margin": 33.5,
+        "total_assets": 10357507072
+      },
+      "returns": {
+        "1m": -3.3,
+        "3m": 0.6,
+        "6m": 14.0,
+        "1y": 36.4
+      },
+      "hot_score": 0.6,
+      "news": [],
+      "top_companies": [
+        {
+          "ticker": "RVMD",
+          "name": "Revolution Medicines, Inc.",
+          "market_cap": 39283576832,
+          "pe": null,
+          "revenue_growth": null,
+          "price": 183.28,
+          "change_pct": -1.9840668
+        },
+        {
+          "ticker": "SMMT",
+          "name": "Summit Therapeutics Inc.",
+          "market_cap": 11886469120,
+          "pe": null,
+          "revenue_growth": null,
+          "price": 14.9,
+          "change_pct": -3.6845548
+        },
+        {
+          "ticker": "MDGL",
+          "name": "Madrigal Pharmaceuticals, Inc.",
+          "market_cap": 10206825472,
+          "pe": null,
+          "revenue_growth": 71.2,
+          "price": 441.775,
+          "change_pct": 1.7352164
+        },
+        {
+          "ticker": "TWST",
+          "name": "Twist Bioscience Corporation",
+          "market_cap": 9232438272,
+          "pe": null,
+          "revenue_growth": 23.2,
+          "price": 139.25,
+          "change_pct": -0.47952917
+        },
+        {
+          "ticker": "TGTX",
+          "name": "TG Therapeutics, Inc.",
+          "market_cap": 8474707456,
+          "pe": 20.130909,
+          "revenue_growth": 70.3,
+          "price": 55.36,
+          "change_pct": 2.1967924
+        },
+        {
+          "ticker": "ARWR",
+          "name": "Arrowhead Pharmaceuticals, Inc.",
+          "market_cap": 8389102592,
+          "pe": null,
+          "revenue_growth": 171.0,
+          "price": 59.39,
+          "change_pct": 2.3612528
+        },
+        {
+          "ticker": "ALKS",
+          "name": "Alkermes plc",
+          "market_cap": 7507405824,
+          "pe": 117.76316,
+          "revenue_growth": 27.0,
+          "price": 44.75,
+          "change_pct": 2.5670385
+        },
+        {
+          "ticker": "TVTX",
+          "name": "Travere Therapeutics, Inc.",
+          "market_cap": 4795532288,
+          "pe": null,
+          "revenue_growth": 48.2,
+          "price": 50.875,
+          "change_pct": 1.5874563
+        },
+        {
+          "ticker": "BEAM",
+          "name": "Beam Therapeutics Inc.",
+          "market_cap": 2480876800,
+          "pe": null,
+          "revenue_growth": -94.2,
+          "price": 24.0191,
+          "change_pct": -0.12847838
+        },
+        {
+          "ticker": "APLS",
+          "name": "Apellis Pharmaceuticals Inc",
+          "market_cap": 0,
+          "pe": null,
+          "revenue_growth": null,
+          "price": null,
+          "change_pct": null
+        }
+      ]
+    },
+    {
+      "rank": 7,
       "slug": "5g-networking",
       "name": "5G 與網路",
       "name_en": "5G & Networking",
@@ -609,324 +725,208 @@
         {
           "ticker": "NVDA",
           "name": "NVIDIA Corporation",
-          "market_cap": 5094050889728,
-          "pe": 26.67004,
+          "market_cap": 5183153111040,
+          "pe": 27.136536,
           "revenue_growth": 105.9,
-          "price": 210.96,
-          "change_pct": -0.589039
+          "price": 214.64,
+          "change_pct": 1.7491406
         },
         {
           "ticker": "AAPL",
           "name": "Apple Inc.",
-          "market_cap": 5074761285632,
-          "pe": 39.87672,
+          "market_cap": 5028424712192,
+          "pe": 39.51261,
           "revenue_growth": 16.4,
-          "price": 347.725,
-          "change_pct": -0.14215
+          "price": 344.55,
+          "change_pct": -0.91308314
         },
         {
           "ticker": "AVGO",
           "name": "Broadcom Inc.",
-          "market_cap": 1535581224960,
-          "pe": 41.08301,
+          "market_cap": 1556084031488,
+          "pe": 41.631546,
           "revenue_growth": 85.5,
-          "price": 321.68,
-          "change_pct": -0.482613
+          "price": 325.975,
+          "change_pct": 1.3351821
         },
         {
           "ticker": "AMD",
           "name": "Advanced Micro Devices, Inc.",
-          "market_cap": 843646697472,
-          "pe": 131.83418,
+          "market_cap": 847736078336,
+          "pe": 132.4732,
           "revenue_growth": 50.1,
-          "price": 516.79,
-          "change_pct": 1.74433
+          "price": 519.275,
+          "change_pct": 0.48472396
         },
         {
           "ticker": "INTC",
           "name": "Intel Corporation",
-          "market_cap": 459679694848,
+          "market_cap": 462065336320,
           "pe": null,
           "revenue_growth": 25.4,
-          "price": 86.96,
-          "change_pct": 1.7195
+          "price": 87.42,
+          "change_pct": 0.51899576
         },
         {
           "ticker": "CSCO",
           "name": "Cisco Systems, Inc.",
-          "market_cap": 419885514752,
-          "pe": 31.981983,
+          "market_cap": 428756336640,
+          "pe": 32.657658,
           "revenue_growth": 17.6,
-          "price": 106.5,
-          "change_pct": 1.53494
+          "price": 108.75,
+          "change_pct": 2.1126761
         },
         {
           "ticker": "ORCL",
           "name": "Oracle Corporation",
-          "market_cap": 382454169600,
-          "pe": 19.774296,
+          "market_cap": 383348473856,
+          "pe": 19.820534,
           "revenue_growth": 29.6,
-          "price": 126.16,
-          "change_pct": 0.493869
+          "price": 126.455,
+          "change_pct": 0.2338286
         },
         {
           "ticker": "ANET",
           "name": "Arista Networks, Inc.",
-          "market_cap": 217397297152,
-          "pe": 54.375393,
+          "market_cap": 220815228928,
+          "pe": 55.23028,
           "revenue_growth": 37.7,
-          "price": 172.37,
-          "change_pct": 0.759916
+          "price": 175.08,
+          "change_pct": 1.5722033
         },
         {
           "ticker": "ADI",
           "name": "Analog Devices, Inc.",
-          "market_cap": 189499015168,
-          "pe": 46.44537,
+          "market_cap": 192706838528,
+          "pe": 47.23159,
           "revenue_growth": 39.6,
-          "price": 391.07,
-          "change_pct": 1.3765
+          "price": 397.69,
+          "change_pct": 1.692747
         },
         {
           "ticker": "QCOM",
           "name": "QUALCOMM Incorporated",
-          "market_cap": 187843641344,
-          "pe": 20.359953,
+          "market_cap": 188826058752,
+          "pe": 20.466434,
           "revenue_growth": -4.0,
-          "price": 175.91,
-          "change_pct": 1.7821
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "slug": "biotech-pharma",
-      "name": "生技製藥",
-      "name_en": "Biotech & Pharma",
-      "description": "減肥藥、基因療法與 GLP-1 藥物引發生技產業新一輪成長週期",
-      "etf": "XBI",
-      "etf_name": "State Street SPDR S&P Biotech E",
-      "bellwether": "LLY",
-      "metrics": {
-        "pe_ratio": null,
-        "revenue_growth": 47.7,
-        "profit_margin": 33.5,
-        "total_assets": 10357507072
-      },
-      "returns": {
-        "1m": -4.2,
-        "3m": -0.6,
-        "6m": 12.3,
-        "1y": 38.6
-      },
-      "hot_score": -0.6,
-      "news": [],
-      "top_companies": [
-        {
-          "ticker": "RVMD",
-          "name": "Revolution Medicines, Inc.",
-          "market_cap": 40078766080,
-          "pe": null,
-          "revenue_growth": null,
-          "price": 186.99,
-          "change_pct": -0.372954
-        },
-        {
-          "ticker": "SMMT",
-          "name": "Summit Therapeutics Inc.",
-          "market_cap": 12341186560,
-          "pe": null,
-          "revenue_growth": null,
-          "price": 15.47,
-          "change_pct": -0.514469
-        },
-        {
-          "ticker": "MDGL",
-          "name": "Madrigal Pharmaceuticals, Inc.",
-          "market_cap": 10032735232,
-          "pe": null,
-          "revenue_growth": 71.2,
-          "price": 434.24,
-          "change_pct": -4.21317
-        },
-        {
-          "ticker": "TWST",
-          "name": "Twist Bioscience Corporation",
-          "market_cap": 9276860416,
-          "pe": null,
-          "revenue_growth": 23.2,
-          "price": 139.92,
-          "change_pct": 3.28486
-        },
-        {
-          "ticker": "TGTX",
-          "name": "TG Therapeutics, Inc.",
-          "market_cap": 8291750400,
-          "pe": 19.698181,
-          "revenue_growth": 70.3,
-          "price": 54.17,
-          "change_pct": 1.89992
-        },
-        {
-          "ticker": "ARWR",
-          "name": "Arrowhead Pharmaceuticals, Inc.",
-          "market_cap": 8172524544,
-          "pe": null,
-          "revenue_growth": 171.0,
-          "price": 58.02,
-          "change_pct": -0.582591
-        },
-        {
-          "ticker": "ALKS",
-          "name": "Alkermes plc",
-          "market_cap": 7319511552,
-          "pe": 114.815796,
-          "revenue_growth": 27.0,
-          "price": 43.63,
-          "change_pct": -1.24491
-        },
-        {
-          "ticker": "TVTX",
-          "name": "Travere Therapeutics, Inc.",
-          "market_cap": 4657084928,
-          "pe": null,
-          "revenue_growth": 48.2,
-          "price": 50.08,
-          "change_pct": -4.48216
-        },
-        {
-          "ticker": "BEAM",
-          "name": "Beam Therapeutics Inc.",
-          "market_cap": 2484068352,
-          "pe": null,
-          "revenue_growth": -94.2,
-          "price": 24.05,
-          "change_pct": -2.07655
-        },
-        {
-          "ticker": "APLS",
-          "name": "Apellis Pharmaceuticals Inc",
-          "market_cap": 0,
-          "pe": null,
-          "revenue_growth": null,
-          "price": null,
-          "change_pct": null
+          "price": 176.83,
+          "change_pct": 0.5229937
         }
       ]
     },
     {
       "rank": 8,
-      "slug": "fintech",
-      "name": "金融科技",
-      "name_en": "Fintech",
-      "description": "嵌入式金融、即時支付與數位資產交易重塑金融服務業",
-      "etf": "FINX",
-      "etf_name": "Global X FinTech ETF",
-      "bellwether": "SQ",
+      "slug": "semiconductors",
+      "name": "半導體",
+      "name_en": "Semiconductors",
+      "description": "AI 晶片需求帶動先進製程與封裝產能吃緊，全球半導體市場規模持續創新高",
+      "etf": "SMH",
+      "etf_name": "VanEck Semiconductor ETF",
+      "bellwether": "NVDA",
       "metrics": {
-        "pe_ratio": 17.4,
-        "revenue_growth": null,
-        "profit_margin": null,
-        "total_assets": 155018448
+        "pe_ratio": 28.5,
+        "revenue_growth": 105.9,
+        "profit_margin": 63.7,
+        "total_assets": 74879844352
       },
       "returns": {
-        "1m": -3.9,
-        "3m": -2.3,
-        "6m": -5.1,
-        "1y": -29.3
+        "1m": -11.1,
+        "3m": -2.8,
+        "6m": 5.4,
+        "1y": 48.7
       },
-      "hot_score": -2.3,
+      "hot_score": -2.8,
       "news": [],
       "top_companies": [
         {
-          "ticker": "INTU",
-          "name": "Intuit Inc.",
-          "market_cap": 91766177792,
-          "pe": 20.862091,
-          "revenue_growth": 13.7,
-          "price": 343.39,
-          "change_pct": -3.24316
+          "ticker": "NVDA",
+          "name": "NVIDIA Corporation",
+          "market_cap": 5177116459008,
+          "pe": 27.10493,
+          "revenue_growth": 105.9,
+          "price": 214.445,
+          "change_pct": 1.6305574
         },
         {
-          "ticker": "HOOD",
-          "name": "Robinhood Markets, Inc.",
-          "market_cap": 85475753984,
-          "pe": 41.881058,
-          "revenue_growth": 32.3,
-          "price": 95.07,
-          "change_pct": -1.56347
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor Manufactur",
+          "market_cap": 2185476440064,
+          "pe": 27.309137,
+          "revenue_growth": 50.9,
+          "price": 421.38,
+          "change_pct": 0.68576497
         },
         {
-          "ticker": "PYPL",
-          "name": "PayPal Holdings, Inc.",
-          "market_cap": 49151242240,
-          "pe": 10.657944,
-          "revenue_growth": 4.8,
-          "price": 57.02,
-          "change_pct": -0.895106
+          "ticker": "AVGO",
+          "name": "Broadcom Inc.",
+          "market_cap": 1556823932928,
+          "pe": 41.65134,
+          "revenue_growth": 85.5,
+          "price": 326.13,
+          "change_pct": 1.3833662
         },
         {
-          "ticker": "XYZ",
-          "name": "Block, Inc.",
-          "market_cap": 45936787456,
-          "pe": 134.14035,
-          "revenue_growth": 9.3,
-          "price": 76.46,
-          "change_pct": -3.23968
+          "ticker": "MU",
+          "name": "Micron Technology, Inc.",
+          "market_cap": 1002904748032,
+          "pe": 11.925331,
+          "revenue_growth": 379.3,
+          "price": 886.4099,
+          "change_pct": 1.0096204
         },
         {
-          "ticker": "COIN",
-          "name": "Coinbase Global, Inc.",
-          "market_cap": 43387981824,
+          "ticker": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
+          "market_cap": 846119960576,
+          "pe": 132.22066,
+          "revenue_growth": 50.1,
+          "price": 518.305,
+          "change_pct": 0.29315868
+        },
+        {
+          "ticker": "INTC",
+          "name": "Intel Corporation",
+          "market_cap": 460789776384,
           "pe": null,
-          "revenue_growth": -17.3,
-          "price": 164.45,
-          "change_pct": -2.7441
+          "revenue_growth": 25.4,
+          "price": 87.17,
+          "change_pct": 0.24148929
         },
         {
-          "ticker": "ADYEN.AS",
-          "name": "ADYEN",
-          "market_cap": 29843136512,
-          "pe": 26.571106,
-          "revenue_growth": 18.9,
-          "price": 945.4,
-          "change_pct": -0.9430008
+          "ticker": "LRCX",
+          "name": "Lam Research Corporation",
+          "market_cap": 294647857152,
+          "pe": 35.089417,
+          "revenue_growth": 54.4,
+          "price": 235.45,
+          "change_pct": 2.325072
         },
         {
-          "ticker": "FISV",
-          "name": "Fiserv, Inc.",
-          "market_cap": 26513889280,
-          "pe": 9.570058,
-          "revenue_growth": null,
-          "price": 49.86,
-          "change_pct": -1.88902
+          "ticker": "TXN",
+          "name": "Texas Instruments Incorporated",
+          "market_cap": 261481086976,
+          "pe": 37.13619,
+          "revenue_growth": 27.7,
+          "price": 286.32,
+          "change_pct": 0.5725543
         },
         {
-          "ticker": "GPN",
-          "name": "Global Payments Inc.",
-          "market_cap": 21915695104,
-          "pe": 37.817352,
-          "revenue_growth": 68.6,
-          "price": 82.82,
-          "change_pct": -3.56311
+          "ticker": "KLAC",
+          "name": "KLA Corporation",
+          "market_cap": 194224111616,
+          "pe": 40.663933,
+          "revenue_growth": 15.2,
+          "price": 148.83,
+          "change_pct": 2.2113874
         },
         {
-          "ticker": "FIS",
-          "name": "Fidelity National Information S",
-          "market_cap": 19398473728,
-          "pe": 5.7649765,
-          "revenue_growth": 29.1,
-          "price": 37.53,
-          "change_pct": -1.98486
-        },
-        {
-          "ticker": "SOFI",
-          "name": "SoFi Technologies, Inc.",
-          "market_cap": 18876299264,
-          "pe": 29.82653,
-          "revenue_growth": 42.6,
-          "price": 14.615,
-          "change_pct": -1.04943
+          "ticker": "ADI",
+          "name": "Analog Devices, Inc.",
+          "market_cap": 192740769792,
+          "pe": 47.239906,
+          "revenue_growth": 39.6,
+          "price": 397.76,
+          "change_pct": 1.7106918
         }
       ]
     },
@@ -940,225 +940,225 @@
       "etf_name": "Global X Robotics & Artificial ",
       "bellwether": "ROK",
       "metrics": {
-        "pe_ratio": 32.7,
+        "pe_ratio": 32.9,
         "revenue_growth": 7.9,
         "profit_margin": 13.4,
         "total_assets": 3334113536
       },
       "returns": {
-        "1m": -6.2,
-        "3m": -2.4,
-        "6m": -11.6,
-        "1y": -12.1
+        "1m": -5.5,
+        "3m": -3.3,
+        "6m": -13.7,
+        "1y": -12.7
       },
-      "hot_score": -2.4,
+      "hot_score": -3.3,
       "news": [],
       "top_companies": [
         {
           "ticker": "6861.T",
           "name": "KEYENCE CORP",
-          "market_cap": 19009120501760,
-          "pe": 42.69854,
+          "market_cap": 18739917488128,
+          "pe": 42.09385,
           "revenue_growth": 32.8,
-          "price": 78380.0,
-          "change_pct": -2.4639125
+          "price": 77270.0,
+          "change_pct": -1.4161776
         },
         {
           "ticker": "6954.T",
           "name": "FANUC CORPORATION",
-          "market_cap": 5167492104192,
-          "pe": 29.017347,
+          "market_cap": 5215587663872,
+          "pe": 29.287422,
           "revenue_growth": 14.9,
-          "price": 5587.0,
-          "change_pct": -0.65789473
+          "price": 5639.0,
+          "change_pct": 0.930732
         },
         {
           "ticker": "NVDA",
           "name": "NVIDIA Corporation",
-          "market_cap": 5094050889728,
-          "pe": 26.67004,
+          "market_cap": 5184360546304,
+          "pe": 27.142857,
           "revenue_growth": 105.9,
-          "price": 210.96,
-          "change_pct": -0.589039
+          "price": 214.7,
+          "change_pct": 1.7728432
         },
         {
           "ticker": "GOOGL",
           "name": "Alphabet Inc.",
-          "market_cap": 3916147458048,
-          "pe": 16.066732,
+          "market_cap": 3915536138240,
+          "pe": 16.064224,
           "revenue_growth": 24.2,
-          "price": 320.21,
-          "change_pct": -1.23682
+          "price": 320.16,
+          "change_pct": -0.015610941
         },
         {
           "ticker": "6273.T",
           "name": "SMC CORP",
-          "market_cap": 3858688901120,
-          "pe": 23.539356,
+          "market_cap": 3862433890304,
+          "pe": 23.562202,
           "revenue_growth": 35.4,
-          "price": 61820.0,
-          "change_pct": -2.7528708
+          "price": 61880.0,
+          "change_pct": 0.097055964
         },
         {
           "ticker": "6383.T",
           "name": "DAIFUKU CO LTD",
-          "market_cap": 1933191806976,
-          "pe": 23.98284,
+          "market_cap": 1910137815040,
+          "pe": 23.696836,
           "revenue_growth": 10.0,
-          "price": 5199.0,
-          "change_pct": -0.057670124
+          "price": 5137.0,
+          "change_pct": -1.1925371
         },
         {
           "ticker": "ISRG",
           "name": "Intuitive Surgical, Inc.",
-          "market_cap": 159784124416,
-          "pe": 54.690445,
+          "market_cap": 161678082048,
+          "pe": 55.338703,
           "revenue_growth": 21.7,
-          "price": 452.29,
-          "change_pct": 1.90154
+          "price": 457.6511,
+          "change_pct": 1.18532
         },
         {
           "ticker": "300124.SZ",
           "name": "INOVANCE",
-          "market_cap": 144978051072,
-          "pe": 30.056181,
+          "market_cap": 149720317952,
+          "pe": 31.039326,
           "revenue_growth": 26.0,
-          "price": 53.5,
-          "change_pct": 7.192948
+          "price": 55.25,
+          "change_pct": 3.271028
         },
         {
           "ticker": "ABBN.SW",
           "name": "ABB LTD N",
-          "market_cap": 122461691904,
-          "pe": 30.80909,
+          "market_cap": 124412985344,
+          "pe": 31.3,
           "revenue_growth": 14.3,
-          "price": 67.78,
-          "change_pct": -1.6540909
+          "price": 68.86,
+          "change_pct": 1.5933931
         },
         {
           "ticker": "9660.HK",
           "name": "HORIZONROBOT-W",
-          "market_cap": 60081147904,
+          "market_cap": 60795453440,
           "pe": null,
           "revenue_growth": 32.9,
-          "price": 3.785,
-          "change_pct": 8.142859
+          "price": 3.83,
+          "change_pct": 1.1888993
         }
       ]
     },
     {
       "rank": 10,
-      "slug": "semiconductors",
-      "name": "半導體",
-      "name_en": "Semiconductors",
-      "description": "AI 晶片需求帶動先進製程與封裝產能吃緊，全球半導體市場規模持續創新高",
-      "etf": "SMH",
-      "etf_name": "VanEck Semiconductor ETF",
-      "bellwether": "NVDA",
+      "slug": "fintech",
+      "name": "金融科技",
+      "name_en": "Fintech",
+      "description": "嵌入式金融、即時支付與數位資產交易重塑金融服務業",
+      "etf": "FINX",
+      "etf_name": "Global X FinTech ETF",
+      "bellwether": "SQ",
       "metrics": {
-        "pe_ratio": 28.2,
-        "revenue_growth": 105.9,
-        "profit_margin": 63.7,
-        "total_assets": 74879844352
+        "pe_ratio": 17.1,
+        "revenue_growth": null,
+        "profit_margin": null,
+        "total_assets": 155018448
       },
       "returns": {
-        "1m": -12.2,
-        "3m": -6.1,
-        "6m": 4.1,
-        "1y": 50.6
+        "1m": -2.8,
+        "3m": -6.2,
+        "6m": -5.9,
+        "1y": -31.1
       },
-      "hot_score": -6.1,
+      "hot_score": -6.2,
       "news": [],
       "top_companies": [
         {
-          "ticker": "NVDA",
-          "name": "NVIDIA Corporation",
-          "market_cap": 5094050889728,
-          "pe": 26.67004,
-          "revenue_growth": 105.9,
-          "price": 210.96,
-          "change_pct": -0.589039
+          "ticker": "INTU",
+          "name": "Intuit Inc.",
+          "market_cap": 91683463168,
+          "pe": 20.843288,
+          "revenue_growth": 13.7,
+          "price": 343.0805,
+          "change_pct": -0.09013345
         },
         {
-          "ticker": "TSM",
-          "name": "Taiwan Semiconductor Manufactur",
-          "market_cap": 2170591248384,
-          "pe": 27.123137,
-          "revenue_growth": 50.9,
-          "price": 418.51,
-          "change_pct": 1.49388
+          "ticker": "HOOD",
+          "name": "Robinhood Markets, Inc.",
+          "market_cap": 83210878976,
+          "pe": 40.771324,
+          "revenue_growth": 32.3,
+          "price": 92.5509,
+          "change_pct": -2.649728
         },
         {
-          "ticker": "AVGO",
-          "name": "Broadcom Inc.",
-          "market_cap": 1535581224960,
-          "pe": 41.08301,
-          "revenue_growth": 85.5,
-          "price": 321.68,
-          "change_pct": -0.482613
+          "ticker": "PYPL",
+          "name": "PayPal Holdings, Inc.",
+          "market_cap": 47623503872,
+          "pe": 10.523629,
+          "revenue_growth": 4.8,
+          "price": 55.67,
+          "change_pct": -2.3675942
         },
         {
-          "ticker": "MU",
-          "name": "Micron Technology, Inc.",
-          "market_cap": 992880427008,
-          "pe": 11.806134,
-          "revenue_growth": 379.3,
-          "price": 877.55,
-          "change_pct": 2.45887
+          "ticker": "XYZ",
+          "name": "Block, Inc.",
+          "market_cap": 45023580160,
+          "pe": 133.82143,
+          "revenue_growth": 9.3,
+          "price": 74.94,
+          "change_pct": -1.9866642
         },
         {
-          "ticker": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
-          "market_cap": 843646697472,
-          "pe": 131.83418,
-          "revenue_growth": 50.1,
-          "price": 516.79,
-          "change_pct": 1.74433
-        },
-        {
-          "ticker": "INTC",
-          "name": "Intel Corporation",
-          "market_cap": 459679694848,
+          "ticker": "COIN",
+          "name": "Coinbase Global, Inc.",
+          "market_cap": 41994739712,
           "pe": null,
-          "revenue_growth": 25.4,
-          "price": 86.96,
-          "change_pct": 1.7195
+          "revenue_growth": -17.3,
+          "price": 159.1693,
+          "change_pct": -3.2111285
         },
         {
-          "ticker": "LRCX",
-          "name": "Lam Research Corporation",
-          "market_cap": 287952764928,
-          "pe": 34.292103,
-          "revenue_growth": 54.4,
-          "price": 230.1,
-          "change_pct": -0.0217197
+          "ticker": "ADYEN.AS",
+          "name": "ADYEN",
+          "market_cap": 29862076416,
+          "pe": 26.587969,
+          "revenue_growth": 18.9,
+          "price": 946.0,
+          "change_pct": 0.063462615
         },
         {
-          "ticker": "TXN",
-          "name": "Texas Instruments Incorporated",
-          "market_cap": 259992485888,
-          "pe": 36.924774,
-          "revenue_growth": 27.7,
-          "price": 284.69,
-          "change_pct": 1.85689
+          "ticker": "FISV",
+          "name": "Fiserv, Inc.",
+          "market_cap": 26317135872,
+          "pe": 9.499041,
+          "revenue_growth": null,
+          "price": 49.49,
+          "change_pct": -0.7420757
         },
         {
-          "ticker": "KLAC",
-          "name": "KLA Corporation",
-          "market_cap": 190021992448,
-          "pe": 39.784153,
-          "revenue_growth": 15.2,
-          "price": 145.61,
-          "change_pct": -1.50173
+          "ticker": "GPN",
+          "name": "Global Payments Inc.",
+          "market_cap": 21856155648,
+          "pe": 38.776993,
+          "revenue_growth": 68.6,
+          "price": 82.595,
+          "change_pct": -0.27167165
         },
         {
-          "ticker": "ADI",
-          "name": "Analog Devices, Inc.",
-          "market_cap": 189499015168,
-          "pe": 46.44537,
-          "revenue_growth": 39.6,
-          "price": 391.07,
-          "change_pct": 1.3765
+          "ticker": "FIS",
+          "name": "Fidelity National Information S",
+          "market_cap": 19369914368,
+          "pe": 5.769585,
+          "revenue_growth": 29.1,
+          "price": 37.56,
+          "change_pct": 0.079942964
+        },
+        {
+          "ticker": "SOFI",
+          "name": "SoFi Technologies, Inc.",
+          "market_cap": 18889216000,
+          "pe": 29.84694,
+          "revenue_growth": 42.6,
+          "price": 14.625,
+          "change_pct": 0.06842442
         }
       ]
     }
