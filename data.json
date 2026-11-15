@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T14:10:18.181140+00:00",
+  "updated_at": "2026-11-15T14:46:34.468773+00:00",
   "total_tracked": 14,
   "industries": [
     {
@@ -26,34 +26,34 @@
       "hot_score": 7.7,
       "news": [
         {
-          "title": "SpaceX Hollows Out Its AI Video Division. Elon Musk Now Has Different Priorities",
-          "url": "https://finance.yahoo.com/technology/ai/articles/spacex-hollows-ai-video-division-131636093.html",
-          "source": "24/7 Wall St.",
-          "time": "2026-11-14T13:16:36Z"
+          "title": "Italy Fines Meta €805 Million. Why the Legal Route Matters More Than the Money",
+          "url": "https://finance.yahoo.com/technology/articles/italy-fines-meta-805-million-135324699.html",
+          "source": "TIKR",
+          "time": "2026-11-15T13:53:24Z"
         },
         {
-          "title": "Jamie Dimon Just Said 5 Words Blocking Outside AI Agents From JPMorgan Accounts: \"You Don't Want Rogue Agents.\" Here's Why That Security Stance Matters for JPM and Its Tech Rivals.",
-          "url": "https://finance.yahoo.com/technology/ai/articles/jamie-dimon-just-said-5-125400574.html",
-          "source": "Motley Fool",
-          "time": "2026-11-14T12:54:00Z"
-        },
-        {
-          "title": "Centrus Energy (LEU) Lands Multiyear HALEU Deal Backed By Customer Prepayments",
-          "url": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-lands-multiyear-061743445.html",
+          "title": "Meta (META) Faces $880 Million Italy Fine Over User Photo Access",
+          "url": "https://finance.yahoo.com/technology/articles/meta-meta-faces-880-million-130640061.html",
           "source": "Simply Wall St.",
-          "time": "2026-11-14T06:17:43Z"
+          "time": "2026-11-15T13:06:40Z"
         },
         {
-          "title": "3 Cash Flow Stocks Trading Up To 49% Below Fair Value",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-flow-stocks-trading-051406202.html",
-          "source": "Simply Wall St.",
-          "time": "2026-11-14T05:14:06Z"
+          "title": "From Dodge to Anthropic: The Century-Old Playbook Taking Over Tech IPOs",
+          "url": "",
+          "source": "Barrons.com",
+          "time": "2026-11-15T10:00:00Z"
         },
         {
-          "title": "Centrus Energy (LEU) Has Fresh Attention, But What Is The Market Missing?",
-          "url": "https://finance.yahoo.com/energy/articles/centrus-energy-leu-fresh-attention-031235109.html",
-          "source": "Simply Wall St.",
-          "time": "2026-11-14T03:12:35Z"
+          "title": "Evercore explains why Apple has the right assets to win the personal agents race",
+          "url": "https://finance.yahoo.com/technology/ai/articles/evercore-explains-why-apple-assets-020804809.html",
+          "source": "Investing.com",
+          "time": "2026-11-15T02:08:04Z"
+        },
+        {
+          "title": "Italy fines Meta $880 mn over photo privacy: authority",
+          "url": "https://finance.yahoo.com/technology/articles/italy-fines-meta-880-mn-201258052.html",
+          "source": "AFP",
+          "time": "2026-11-14T20:12:58Z"
         }
       ],
       "top_companies": [
@@ -79,7 +79,7 @@
           "ticker": "MSFT",
           "name": "Microsoft Corporation",
           "market_cap": 3890434801664,
-          "pe": 27.299635,
+          "pe": 27.34238,
           "revenue_growth": 18.8,
           "price": 523.88,
           "change_pct": 0.16826096
@@ -118,7 +118,7 @@
           "pe": null,
           "revenue_growth": 15.6,
           "price": 49.91,
-          "change_pct": -2.9365973
+          "change_pct": -2.9366
         },
         {
           "ticker": "U",
@@ -127,7 +127,7 @@
           "pe": null,
           "revenue_growth": 32.2,
           "price": 52.81,
-          "change_pct": 5.241134
+          "change_pct": 5.24113
         },
         {
           "ticker": "ETHQ/U.TO",
@@ -173,34 +173,34 @@
       "hot_score": 4.7,
       "news": [
         {
-          "title": "Microsoft says AI didn’t break Outlook — its own network upgrade did",
-          "url": "https://finance.yahoo.com/markets/article/microsoft-says-ai-didnt-break-outlook--its-own-network-upgrade-did-133858185.html",
-          "source": "Yahoo Finance",
-          "time": "2026-11-13T19:01:21Z"
-        },
-        {
-          "title": "SpaceX Hollows Out Its AI Video Division. Elon Musk Now Has Different Priorities",
-          "url": "https://finance.yahoo.com/technology/ai/articles/spacex-hollows-ai-video-division-131636093.html",
-          "source": "24/7 Wall St.",
-          "time": "2026-11-14T13:16:36Z"
-        },
-        {
-          "title": "Nvidia, Alphabet, Microsoft, and Micron Are All Buying Anthropic’s IPO. Should You Buy Too?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-alphabet-microsoft-micron-buying-102202908.html",
+          "title": "Microsoft Ignite Starts Nov. 17. Will Microsoft Update Its Paid Copilot Seat Count?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ignite-starts-nov-17-140301014.html",
           "source": "Motley Fool",
-          "time": "2026-11-14T10:22:02Z"
+          "time": "2026-11-15T14:03:01Z"
         },
         {
-          "title": "The Chaos and Unexpected Joys of a 19-Hour Global Email Outage",
-          "url": "",
-          "source": "The Wall Street Journal",
-          "time": "2026-11-14T10:01:00Z"
+          "title": "Want to Invest in Top Growth Stocks Like Amazon, Apple, and Microsoft but Avoid Nvidia? Consider This Low-Cost Vanguard ETF That’s Up 24.8% This Year.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/want-invest-top-growth-stocks-115002610.html",
+          "source": "Motley Fool",
+          "time": "2026-11-15T11:50:02Z"
         },
         {
-          "title": "Microsoft Service Restored After Widespread Outage, Company Says",
-          "url": "",
-          "source": "The Wall Street Journal",
-          "time": "2026-11-14T09:56:00Z"
+          "title": "IREN Is Down 63% in a Year. Is It Time to Sell, or Load Up?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/iren-down-63-time-sell-110510136.html",
+          "source": "TIKR",
+          "time": "2026-11-15T11:05:10Z"
+        },
+        {
+          "title": "Nvidia had no succession plan when Jensen Huang quit. Former Fortune 500 CEOs call it ‘preposterous’",
+          "url": "https://finance.yahoo.com/technology/articles/nvidia-had-no-succession-plan-100000756.html",
+          "source": "Fortune",
+          "time": "2026-11-15T10:00:00Z"
+        },
+        {
+          "title": "Anthropic IPO to test Wall Street's faith in AI as skepticism mounts",
+          "url": "https://finance.yahoo.com/markets/stocks/article/anthropic-ipo-to-test-wall-streets-faith-in-ai-as-skepticism-mounts-180007104.html",
+          "source": "Yahoo Finance",
+          "time": "2026-11-14T18:00:07Z"
         }
       ],
       "top_companies": [
@@ -226,7 +226,7 @@
           "ticker": "9697.T",
           "name": "CAPCOM CO LTD",
           "market_cap": 1887557255168,
-          "pe": 26.281454,
+          "pe": 26.913214,
           "revenue_growth": 41.6,
           "price": 4512.0,
           "change_pct": 2.40581
@@ -283,7 +283,7 @@
           "pe": null,
           "revenue_growth": 15.6,
           "price": 49.91,
-          "change_pct": -2.9365973
+          "change_pct": -2.9366
         },
         {
           "ticker": "U",
@@ -292,7 +292,7 @@
           "pe": null,
           "revenue_growth": 32.2,
           "price": 52.81,
-          "change_pct": 5.241134
+          "change_pct": 5.24113
         }
       ]
     },
@@ -320,34 +320,34 @@
       "hot_score": 0,
       "news": [
         {
+          "title": "The Semiconductor ETF Has Lost a Quarter of Its Value Since June. Buy It Now and Hold It Through 2030.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-etf-lost-quarter-value-013402396.html",
+          "source": "Motley Fool",
+          "time": "2026-11-15T01:34:02Z"
+        },
+        {
+          "title": "Arm vs. ASML: Which Technology Stock Is a Better Buy for 2027?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-vs-asml-technology-stock-172201795.html",
+          "source": "Motley Fool",
+          "time": "2026-11-14T17:22:01Z"
+        },
+        {
           "title": "Qualcomm Is Cheap Enough to Hold Through 2030",
           "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-cheap-enough-hold-2030-114002657.html",
           "source": "Motley Fool",
           "time": "2026-11-14T11:40:02Z"
         },
         {
+          "title": "Sandisk Is Up 273% in 2026, but Down 62% From Its June High. Take Profits, or Buy More?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-273-2026-down-62-083736807.html",
+          "source": "TIKR",
+          "time": "2026-11-14T08:37:36Z"
+        },
+        {
           "title": "Micron Technology vs. Qualcomm: Which Tech Stock Is the Better Buy for 2027?",
           "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-vs-qualcomm-tech-013102568.html",
           "source": "Motley Fool",
           "time": "2026-11-14T01:31:02Z"
-        },
-        {
-          "title": "Why Did Texas Instruments Stock Beat NXP Over Five Years?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-texas-instruments-stock-010308968.html",
-          "source": "Trefis",
-          "time": "2026-11-14T01:03:08Z"
-        },
-        {
-          "title": "ARM Stock Gains 4% Since Q2 Earnings: Is it a Buy or Hold Now?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-gains-4-since-174100653.html",
-          "source": "Zacks",
-          "time": "2026-11-13T17:41:00Z"
-        },
-        {
-          "title": "What Is Going On With Intel Stock After Its Earnings Call?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/going-intel-stock-earnings-call-165315329.html",
-          "source": "Trefis",
-          "time": "2026-11-13T16:53:15Z"
         }
       ],
       "top_companies": [
@@ -382,7 +382,7 @@
           "ticker": "AMD",
           "name": "Advanced Micro Devices, Inc.",
           "market_cap": 875905024000,
-          "pe": 125.0726,
+          "pe": 114.11539,
           "revenue_growth": 44.7,
           "price": 534.06,
           "change_pct": -8.754483
@@ -394,14 +394,14 @@
           "pe": 19.647335,
           "revenue_growth": 29.6,
           "price": 125.35,
-          "change_pct": -1.3846291
+          "change_pct": -1.38463
         },
         {
           "ticker": "CSCO",
           "name": "Cisco Systems, Inc.",
           "market_cap": 376532795392,
           "pe": 25.43617,
-          "revenue_growth": 17.6,
+          "revenue_growth": 24.4,
           "price": 95.64,
           "change_pct": -6.2444882
         },
@@ -467,6 +467,18 @@
       "hot_score": -2.0,
       "news": [
         {
+          "title": "Palo Alto Networks Sank Nearly 10% in a Day. Arora Still Sees AI as “Durable Tailwinds”",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-sank-nearly-170533200.html",
+          "source": "TIKR",
+          "time": "2026-11-14T17:05:33Z"
+        },
+        {
+          "title": "CrowdStrike Doubles Down on AI Agents With $495 Million in Deals After a Record $333 Million ARR Quarter",
+          "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-doubles-down-ai-agents-054316082.html",
+          "source": "TIKR",
+          "time": "2026-11-14T05:43:16Z"
+        },
+        {
           "title": "Top 3 AI Security Stocks With Earnings Growth Over 29%",
           "url": "https://finance.yahoo.com/technology/ai/articles/top-3-ai-security-stocks-221727984.html",
           "source": "Simply Wall St.",
@@ -483,18 +495,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/overpaying-datadog-stock-versus-rivals-203137409.html",
           "source": "Trefis",
           "time": "2026-11-13T20:31:37Z"
-        },
-        {
-          "title": "Palo Alto Stock Upgraded to Buy After 20% Dip",
-          "url": "",
-          "source": "Barrons.com",
-          "time": "2026-11-13T18:21:00Z"
-        },
-        {
-          "title": "Microsoft Outage Sends Cybersecurity Stocks Higher. Palo Alto and CrowdStrike Lead Gains",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-outage-sends-cybersecurity-stocks-175246078.html",
-          "source": "GuruFocus.com",
-          "time": "2026-11-13T17:52:46Z"
         }
       ],
       "top_companies": [
@@ -512,7 +512,7 @@
           "name": "Cisco Systems, Inc.",
           "market_cap": 376532795392,
           "pe": 25.43617,
-          "revenue_growth": 17.6,
+          "revenue_growth": 24.4,
           "price": 95.64,
           "change_pct": -6.2444882
         },
@@ -541,7 +541,7 @@
           "pe": null,
           "revenue_growth": 39.2,
           "price": 305.81,
-          "change_pct": -3.9843023
+          "change_pct": -3.9843
         },
         {
           "ticker": "GD",
@@ -550,13 +550,13 @@
           "pe": 21.392584,
           "revenue_growth": 12.9,
           "price": 363.46,
-          "change_pct": 0.10741293
+          "change_pct": 0.107413
         },
         {
           "ticker": "FTNT",
           "name": "Fortinet, Inc.",
           "market_cap": 93469777920,
-          "pe": 42.26578,
+          "pe": 41.575165,
           "revenue_growth": 20.5,
           "price": 127.22,
           "change_pct": -1.7909465
@@ -565,7 +565,7 @@
           "ticker": "FFIV",
           "name": "F5, Inc.",
           "market_cap": 17562554368,
-          "pe": 25.380953,
+          "pe": 24.691694,
           "revenue_growth": 13.3,
           "price": 309.14,
           "change_pct": -2.6759853
@@ -614,6 +614,12 @@
       "hot_score": -4.4,
       "news": [
         {
+          "title": "LifeMD: 3 Key Takeaways for Long-Term Investors",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/lifemd-3-key-takeaways-long-030604678.html",
+          "source": "Motley Fool",
+          "time": "2026-11-15T03:06:04Z"
+        },
+        {
           "title": "CVS says GLP-1s save money when priced below $350 per month",
           "url": "https://finance.yahoo.com/healthcare/articles/cvs-says-glp-1s-save-110514978.html",
           "source": "Reuters",
@@ -636,12 +642,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/market-seeing-eli-lilly-stock-003308402.html",
           "source": "Trefis",
           "time": "2026-11-14T00:33:08Z"
-        },
-        {
-          "title": "Nvidia CEO out — 10 stocks to buy before S&P 500 hits 8,000",
-          "url": "https://finance.yahoo.com/video/nvidia-ceo-10-stocks-buy-182938178.html",
-          "source": " TheStreet",
-          "time": "2026-11-13T18:29:38Z"
         }
       ],
       "top_companies": [
@@ -761,34 +761,34 @@
       "hot_score": -7.8,
       "news": [
         {
-          "title": "A $2.8 Billion Fund Dumps These 3 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-8-billion-fund-dumps-115039598.html",
+          "title": "A $22 Billion Fund Bought These 3 Stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/22-billion-fund-bought-3-125119813.html",
           "source": "TIKR",
-          "time": "2026-11-14T11:50:39Z"
+          "time": "2026-11-15T12:51:19Z"
         },
         {
-          "title": "Scott Galloway Predicts Anthropic’s First Trade Opens “15% to 40% Higher.” That’s Great News for Alphabet and Amazon",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/scott-galloway-predicts-anthropic-first-095043485.html",
-          "source": "TIKR",
-          "time": "2026-11-14T09:50:43Z"
+          "title": "Want to Invest in Top Growth Stocks Like Amazon, Apple, and Microsoft but Avoid Nvidia? Consider This Low-Cost Vanguard ETF That’s Up 24.8% This Year.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/want-invest-top-growth-stocks-115002610.html",
+          "source": "Motley Fool",
+          "time": "2026-11-15T11:50:02Z"
         },
         {
-          "title": "Jim Cramer: Amazon Has What “May Soon Be a $50 Billion Semiconductor Business”",
-          "url": "https://finance.yahoo.com/technology/articles/jim-cramer-amazon-may-soon-084957555.html",
-          "source": "TIKR",
-          "time": "2026-11-14T08:49:57Z"
+          "title": "Micron, Amazon, and IBM: My 3 Favorite Stocks to Buy and Hold Through 2030",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-amazon-ibm-3-favorite-103702400.html",
+          "source": "Motley Fool",
+          "time": "2026-11-15T10:37:02Z"
         },
         {
-          "title": "Fermi (FRMI) is Regaining Its Power Thanks to This Tech Giant",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/fermi-frmi-regaining-power-thanks-050134508.html",
-          "source": "Insider Monkey",
-          "time": "2026-11-14T05:01:34Z"
-        },
-        {
-          "title": "What It Takes to Get Your Wings Delivered During a Football Game—Fast and Hot",
+          "title": "The Backyard Battle Over Amazon Delivery Drones ‘Stealing the Sky’",
           "url": "",
           "source": "The Wall Street Journal",
-          "time": "2026-11-14T01:00:00Z"
+          "time": "2026-11-15T10:30:00Z"
+        },
+        {
+          "title": "Google Could Buy Uber to Win the Robotaxi Wars, Reuters Columnist Argues",
+          "url": "https://finance.yahoo.com/technology/articles/google-could-buy-uber-win-033038440.html",
+          "source": "Benzinga",
+          "time": "2026-11-15T03:30:38Z"
         }
       ],
       "top_companies": [
@@ -796,7 +796,7 @@
           "ticker": "MSFT",
           "name": "Microsoft Corporation",
           "market_cap": 3890434801664,
-          "pe": 27.299635,
+          "pe": 27.34238,
           "revenue_growth": 18.8,
           "price": 523.88,
           "change_pct": 0.16826096
@@ -826,7 +826,7 @@
           "pe": 19.647335,
           "revenue_growth": 29.6,
           "price": 125.35,
-          "change_pct": -1.3846291
+          "change_pct": -1.38463
         },
         {
           "ticker": "ANET",
@@ -844,7 +844,7 @@
           "pe": 147.9315,
           "revenue_growth": 37.7,
           "price": 107.99,
-          "change_pct": -1.9164402
+          "change_pct": -1.91644
         },
         {
           "ticker": "CRWV",
@@ -908,34 +908,34 @@
       "hot_score": -8.5,
       "news": [
         {
-          "title": "Microsoft says AI didn’t break Outlook — its own network upgrade did",
-          "url": "https://finance.yahoo.com/markets/article/microsoft-says-ai-didnt-break-outlook--its-own-network-upgrade-did-133858185.html",
-          "source": "Yahoo Finance",
-          "time": "2026-11-13T19:01:21Z"
-        },
-        {
-          "title": "SpaceX Hollows Out Its AI Video Division. Elon Musk Now Has Different Priorities",
-          "url": "https://finance.yahoo.com/technology/ai/articles/spacex-hollows-ai-video-division-131636093.html",
-          "source": "24/7 Wall St.",
-          "time": "2026-11-14T13:16:36Z"
-        },
-        {
-          "title": "Nvidia, Alphabet, Microsoft, and Micron Are All Buying Anthropic’s IPO. Should You Buy Too?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-alphabet-microsoft-micron-buying-102202908.html",
+          "title": "Microsoft Ignite Starts Nov. 17. Will Microsoft Update Its Paid Copilot Seat Count?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ignite-starts-nov-17-140301014.html",
           "source": "Motley Fool",
-          "time": "2026-11-14T10:22:02Z"
+          "time": "2026-11-15T14:03:01Z"
         },
         {
-          "title": "The Chaos and Unexpected Joys of a 19-Hour Global Email Outage",
-          "url": "",
-          "source": "The Wall Street Journal",
-          "time": "2026-11-14T10:01:00Z"
+          "title": "Want to Invest in Top Growth Stocks Like Amazon, Apple, and Microsoft but Avoid Nvidia? Consider This Low-Cost Vanguard ETF That’s Up 24.8% This Year.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/want-invest-top-growth-stocks-115002610.html",
+          "source": "Motley Fool",
+          "time": "2026-11-15T11:50:02Z"
         },
         {
-          "title": "Microsoft Service Restored After Widespread Outage, Company Says",
-          "url": "",
-          "source": "The Wall Street Journal",
-          "time": "2026-11-14T09:56:00Z"
+          "title": "IREN Is Down 63% in a Year. Is It Time to Sell, or Load Up?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/iren-down-63-time-sell-110510136.html",
+          "source": "TIKR",
+          "time": "2026-11-15T11:05:10Z"
+        },
+        {
+          "title": "Nvidia had no succession plan when Jensen Huang quit. Former Fortune 500 CEOs call it ‘preposterous’",
+          "url": "https://finance.yahoo.com/technology/articles/nvidia-had-no-succession-plan-100000756.html",
+          "source": "Fortune",
+          "time": "2026-11-15T10:00:00Z"
+        },
+        {
+          "title": "Anthropic IPO to test Wall Street's faith in AI as skepticism mounts",
+          "url": "https://finance.yahoo.com/markets/stocks/article/anthropic-ipo-to-test-wall-streets-faith-in-ai-as-skepticism-mounts-180007104.html",
+          "source": "Yahoo Finance",
+          "time": "2026-11-14T18:00:07Z"
         }
       ],
       "top_companies": [
@@ -982,7 +982,7 @@
           "pe": 25.841219,
           "revenue_growth": 50.9,
           "price": 398.73,
-          "change_pct": -1.6671138
+          "change_pct": -1.66711
         },
         {
           "ticker": "AVGO",
@@ -1006,7 +1006,7 @@
           "ticker": "AMD",
           "name": "Advanced Micro Devices, Inc.",
           "market_cap": 875905024000,
-          "pe": 125.0726,
+          "pe": 114.11539,
           "revenue_growth": 44.7,
           "price": 534.06,
           "change_pct": -8.754483
@@ -1016,7 +1016,7 @@
           "name": "Cisco Systems, Inc.",
           "market_cap": 376532795392,
           "pe": 25.43617,
-          "revenue_growth": 17.6,
+          "revenue_growth": 24.4,
           "price": 95.64,
           "change_pct": -6.2444882
         },
@@ -1108,16 +1108,16 @@
           "ticker": "XYZ",
           "name": "Block, Inc.",
           "market_cap": 51130470400,
-          "pe": 108.435905,
+          "pe": 111.289474,
           "revenue_growth": 9.9,
           "price": 84.58,
-          "change_pct": 2.8203254
+          "change_pct": 2.82033
         },
         {
           "ticker": "PYPL",
           "name": "PayPal Holdings, Inc.",
           "market_cap": 49241423872,
-          "pe": 11.121951,
+          "pe": 11.312978,
           "revenue_growth": 2.0,
           "price": 59.28,
           "change_pct": 1.6809597
@@ -1153,16 +1153,16 @@
           "ticker": "GPN",
           "name": "Global Payments Inc.",
           "market_cap": 24320030720,
-          "pe": 158.44829,
+          "pe": 164.10715,
           "revenue_growth": 63.7,
           "price": 91.9,
-          "change_pct": 4.2068253
+          "change_pct": 4.20683
         },
         {
           "ticker": "SOFI",
           "name": "SoFi Technologies, Inc.",
           "market_cap": 20012699648,
-          "pe": 28.555555,
+          "pe": 28.036364,
           "revenue_growth": 43.9,
           "price": 15.42,
           "change_pct": -1.3435702
@@ -1171,10 +1171,10 @@
           "ticker": "FIS",
           "name": "Fidelity National Information S",
           "market_cap": 15226991616,
-          "pe": 4.238164,
+          "pe": 4.4155455,
           "revenue_growth": 27.1,
           "price": 29.54,
-          "change_pct": 4.160791
+          "change_pct": 4.16079
         }
       ]
     },
@@ -1255,7 +1255,7 @@
           "ticker": "VWS.CO",
           "name": "Vestas Wind Systems A/S",
           "market_cap": 188633300992,
-          "pe": 23.667883,
+          "pe": 23.243729,
           "revenue_growth": 6.3,
           "price": 194.55,
           "change_pct": -1.866329
@@ -1264,7 +1264,7 @@
           "ticker": "BE",
           "name": "Bloom Energy Corporation",
           "market_cap": 56763133952,
-          "pe": 122.28662,
+          "pe": 116.35758,
           "revenue_growth": 138.1,
           "price": 191.99,
           "change_pct": -4.92249
@@ -1274,7 +1274,7 @@
           "name": "EQUATORIAL  ON      NM",
           "market_cap": 43141300224,
           "pe": 56.295082,
-          "revenue_growth": -3.5,
+          "revenue_growth": -1.2,
           "price": 34.34,
           "change_pct": 0.7333529
         },
@@ -1349,6 +1349,12 @@
       "hot_score": -15.2,
       "news": [
         {
+          "title": "Firefly Aerospace vs. Redwire: Which Industrials Stock Is a Better Buy for 2027?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-vs-redwire-industrials-162002235.html",
+          "source": "Motley Fool",
+          "time": "2026-11-14T16:20:02Z"
+        },
+        {
           "title": "Firefly Aerospace And 2 Space Stocks To Watch",
           "url": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-2-space-stocks-121221792.html",
           "source": "Simply Wall St.",
@@ -1371,12 +1377,6 @@
           "url": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-yield-over-011452860.html",
           "source": "Simply Wall St.",
           "time": "2026-11-14T01:14:52Z"
-        },
-        {
-          "title": "What Is Driving Intuitive Machines Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/driving-intuitive-machines-stock-231312910.html",
-          "source": "Trefis",
-          "time": "2026-11-13T23:13:12Z"
         }
       ],
       "top_companies": [
@@ -1387,7 +1387,7 @@
           "pe": 37.921143,
           "revenue_growth": 15.9,
           "price": 331.81,
-          "change_pct": 0.2871342
+          "change_pct": 0.287134
         },
         {
           "ticker": "RTX",
@@ -1396,7 +1396,7 @@
           "pe": 32.289433,
           "revenue_growth": 11.1,
           "price": 198.58,
-          "change_pct": 0.11091007
+          "change_pct": 0.11091
         },
         {
           "ticker": "LMT",
@@ -1405,7 +1405,7 @@
           "pe": 21.166193,
           "revenue_growth": 11.3,
           "price": 596.04,
-          "change_pct": -1.3325909
+          "change_pct": -1.33259
         },
         {
           "ticker": "BA",
@@ -1423,7 +1423,7 @@
           "pe": 21.392584,
           "revenue_growth": 12.9,
           "price": 363.46,
-          "change_pct": 0.10741293
+          "change_pct": 0.107413
         },
         {
           "ticker": "HWM",
@@ -1432,16 +1432,16 @@
           "pe": 43.298042,
           "revenue_growth": 29.4,
           "price": 220.82,
-          "change_pct": -1.0263965
+          "change_pct": -1.0264
         },
         {
           "ticker": "NOC",
           "name": "Northrop Grumman Corporation",
           "market_cap": 78196555776,
-          "pe": 17.336378,
+          "pe": 17.374683,
           "revenue_growth": 6.7,
           "price": 550.43,
-          "change_pct": 0.2367359
+          "change_pct": 0.236736
         },
         {
           "ticker": "TDG",
@@ -1450,7 +1450,7 @@
           "pe": 34.279922,
           "revenue_growth": 22.6,
           "price": 1217.28,
-          "change_pct": 1.1870348
+          "change_pct": 1.18703
         },
         {
           "ticker": "LHX",
@@ -1459,7 +1459,7 @@
           "pe": 25.358475,
           "revenue_growth": 7.1,
           "price": 272.35,
-          "change_pct": 0.18761395
+          "change_pct": 0.187614
         },
         {
           "ticker": "RKLB",
