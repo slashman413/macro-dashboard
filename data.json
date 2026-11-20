@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T16:35:38.616304+00:00",
+  "updated_at": "2026-11-20T16:10:36.918400+00:00",
   "total_tracked": 14,
   "industries": [
     {
@@ -12,292 +12,145 @@
       "etf_name": "Amplify Cybersecurity ETF",
       "bellwether": "CRWD",
       "metrics": {
-        "pe_ratio": 30.0,
+        "pe_ratio": 28.4,
         "revenue_growth": 25.8,
         "profit_margin": 0.8,
         "total_assets": 3552232192
       },
       "returns": {
-        "1m": 5.6,
-        "3m": 11.0,
-        "6m": 36.5,
-        "1y": 51.1
+        "1m": -0.5,
+        "3m": 7.3,
+        "6m": 26.7,
+        "1y": 46.0
       },
-      "hot_score": 11.0,
+      "hot_score": 7.3,
       "news": [
         {
-          "title": "Palo Alto Networks soars on Q1 earnings and Applied Compute deal",
-          "url": "https://finance.yahoo.com/markets/stocks/article/palo-alto-networks-soars-on-q1-earnings-and-applied-compute-deal-150705343.html",
-          "source": "Yahoo Finance",
-          "time": "2026-11-19T15:07:05Z"
+          "title": "Tech investors are fleeing to CrowdStrike—ignoring a 5,552x P/E",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tech-investors-fleeing-crowdstrike-ignoring-134917233.html",
+          "source": "Investing.com",
+          "time": "2026-11-20T13:49:17Z"
         },
         {
-          "title": "Stock Market Today: Dow Slammed 500 Points Despite Strong Anthropic IPO Pricing (Live Coverage)",
+          "title": "Humana and Sprouts Farmers Market have been highlighted as Zacks Bull and Bear of the Day",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/humana-sprouts-farmers-market-highlighted-130300192.html",
+          "source": "Zacks",
+          "time": "2026-11-20T13:03:00Z"
+        },
+        {
+          "title": "Baird Raises Its Palo Alto Networks Target to $465 From $420. Is It Still Too Low?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/baird-raises-palo-alto-networks-130027796.html",
+          "source": "TIKR",
+          "time": "2026-11-20T13:00:27Z"
+        },
+        {
+          "title": "Dow Jones Futures: Techs Tumble, Anthropic Dives After Ugly Market Reversal To New Lows",
           "url": "",
           "source": "Investor's Business Daily",
-          "time": "2026-11-19T16:06:24Z"
+          "time": "2026-11-20T12:55:55Z"
         },
         {
-          "title": "Cybersecurity sector outlook: Setup analysis as Palo Alto results lift peers",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-sector-outlook-setup-analysis-151113192.html",
-          "source": "Investing.com",
-          "time": "2026-11-19T15:11:13Z"
-        },
-        {
-          "title": "CEOs and investors on the record: What Anthropic must do as a public company",
-          "url": "https://finance.yahoo.com/video/ceos-and-investors-on-the-record-what-anthropic-must-do-as-a-public-company-150203045.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-11-19T14:55:56Z"
-        },
-        {
-          "title": "Palo Alto Soars 6% on Guidance Hike and $4.5 Billion AI Deal: “An Unprecedented Threat Environment”",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-soars-6-guidance-143942491.html",
-          "source": "TIKR",
-          "time": "2026-11-19T14:39:42Z"
+          "title": "What JPMorgan U.S. Tech Leaders ETF (JTEK) Bought: Meta Leads on Wednesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-u-tech-leaders-etf-110432251.html",
+          "source": "GuruFocus.com",
+          "time": "2026-11-20T11:04:32Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "AVGO",
           "name": "Broadcom Inc.",
-          "market_cap": 1712802234368,
-          "pe": 45.824394,
+          "market_cap": 1504361840640,
+          "pe": 40.24777,
           "revenue_growth": 85.5,
-          "price": 358.805,
-          "change_pct": 1.3430321
+          "price": 315.14,
+          "change_pct": -9.087626
         },
         {
           "ticker": "CSCO",
           "name": "Cisco Systems, Inc.",
-          "market_cap": 383403065344,
-          "pe": 25.864363,
+          "market_cap": 367239036928,
+          "pe": 24.773937,
           "revenue_growth": 24.4,
-          "price": 97.25,
-          "change_pct": 0.07203097
+          "price": 93.15,
+          "change_pct": -1.6367428
         },
         {
           "ticker": "PANW",
           "name": "Palo Alto Networks, Inc.",
-          "market_cap": 294921568256,
-          "pe": 900.5,
-          "revenue_growth": 34.5,
-          "price": 360.2,
-          "change_pct": 5.9661093
+          "market_cap": 289336819712,
+          "pe": 618.28076,
+          "revenue_growth": 39.2,
+          "price": 352.42,
+          "change_pct": -2.5737422
         },
         {
           "ticker": "CRWD",
           "name": "CrowdStrike Holdings, Inc.",
-          "market_cap": 258098135040,
-          "pe": 5041.3,
+          "market_cap": 239214215168,
+          "pe": 3893.7085,
           "revenue_growth": 25.8,
-          "price": 252.065,
-          "change_pct": 6.3430805
+          "price": 233.6225,
+          "change_pct": -4.0407085
         },
         {
           "ticker": "NET",
           "name": "Cloudflare, Inc.",
-          "market_cap": 114424791040,
+          "market_cap": 101062991872,
           "pe": null,
           "revenue_growth": 39.2,
-          "price": 319.2725,
-          "change_pct": 6.102319
-        },
-        {
-          "ticker": "FTNT",
-          "name": "Fortinet, Inc.",
-          "market_cap": 101169528832,
-          "pe": 45.0,
-          "revenue_growth": 20.5,
-          "price": 137.7,
-          "change_pct": 4.468553
+          "price": 281.9899,
+          "change_pct": -7.1638823
         },
         {
           "ticker": "GD",
           "name": "General Dynamics Corporation",
-          "market_cap": 94248624128,
-          "pe": 20.528547,
+          "market_cap": 94264836096,
+          "pe": 20.532078,
           "revenue_growth": 12.9,
-          "price": 348.78,
-          "change_pct": -0.07449283
+          "price": 348.84,
+          "change_pct": 0.4318473
+        },
+        {
+          "ticker": "FTNT",
+          "name": "Fortinet, Inc.",
+          "market_cap": 94230200320,
+          "pe": 41.913403,
+          "revenue_growth": 20.5,
+          "price": 128.255,
+          "change_pct": -2.4380052
         },
         {
           "ticker": "FFIV",
           "name": "F5, Inc.",
-          "market_cap": 18728556544,
-          "pe": 26.273163,
+          "market_cap": 17748402176,
+          "pe": 24.898163,
           "revenue_growth": 13.3,
-          "price": 328.94,
-          "change_pct": 2.4607506
+          "price": 311.725,
+          "change_pct": -2.001003
         },
         {
           "ticker": "FSLY",
           "name": "Fastly, Inc.",
-          "market_cap": 2961244160,
+          "market_cap": 2563079936,
           "pe": null,
           "revenue_growth": 20.2,
-          "price": 18.37,
-          "change_pct": 2.6257052
+          "price": 15.9,
+          "change_pct": -5.693956
         },
         {
           "ticker": "ATEN",
           "name": "A10 Networks, Inc.",
-          "market_cap": 2418049536,
-          "pe": 52.437504,
+          "market_cap": 2268902912,
+          "pe": 49.203125,
           "revenue_growth": 22.6,
-          "price": 33.56,
-          "change_pct": 3.7082841
+          "price": 31.49,
+          "change_pct": -3.2268012
         }
       ]
     },
     {
       "rank": 2,
-      "slug": "metaverse-spatial-computing",
-      "name": "元宇宙／空間運算",
-      "name_en": "Metaverse & Spatial Computing",
-      "description": "Apple Vision Pro 與 Meta AR 眼鏡帶動空間運算生態系逐步成形",
-      "etf": "METV",
-      "etf_name": "Roundhill Metaverse ETF",
-      "bellwether": "META",
-      "metrics": {
-        "pe_ratio": 18.0,
-        "revenue_growth": 26.1,
-        "profit_margin": 31.1,
-        "total_assets": 208605040
-      },
-      "returns": {
-        "1m": -5.6,
-        "3m": 4.2,
-        "6m": 9.1,
-        "1y": 6.7
-      },
-      "hot_score": 4.2,
-      "news": [
-        {
-          "title": "Navigating Meta Platforms’ (META) Journey from July Dip to New 52-Week High",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/navigating-meta-platforms-meta-journey-162018276.html",
-          "source": "Insider Monkey",
-          "time": "2026-11-19T16:20:18Z"
-        },
-        {
-          "title": "Bill Ackman says Nvidia's board is failing you — and not just because it fired Jensen Huang after one Zoom call, at most",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-says-nvidias-board-162000364.html",
-          "source": "Moneywise",
-          "time": "2026-11-19T16:20:00Z"
-        },
-        {
-          "title": "$100K In Anthropic Stock: Buy Now Or Wait?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/100k-anthropic-stock-buy-now-160650412.html",
-          "source": "Trefis",
-          "time": "2026-11-19T16:06:50Z"
-        },
-        {
-          "title": "A $16 Billion Hedge Fund Just Bought These 3 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/16-billion-hedge-fund-just-155254350.html",
-          "source": "TIKR",
-          "time": "2026-11-19T15:52:54Z"
-        },
-        {
-          "title": "Is Nvidia Stock Dead Money For A Year?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-dead-money-153612688.html",
-          "source": "Trefis",
-          "time": "2026-11-19T15:36:12Z"
-        }
-      ],
-      "top_companies": [
-        {
-          "ticker": "AAPL",
-          "name": "Apple Inc.",
-          "market_cap": 5080159879168,
-          "pe": 38.92873,
-          "revenue_growth": 11.7,
-          "price": 349.58,
-          "change_pct": -0.81430715
-        },
-        {
-          "ticker": "MSFT",
-          "name": "Microsoft Corporation",
-          "market_cap": 3812199497728,
-          "pe": 26.792536,
-          "revenue_growth": 18.8,
-          "price": 513.345,
-          "change_pct": 1.1896026
-        },
-        {
-          "ticker": "NVDA",
-          "name": "NVIDIA Corporation",
-          "market_cap": 3689661595648,
-          "pe": 16.412458,
-          "revenue_growth": 103.2,
-          "price": 152.8,
-          "change_pct": 1.2189443
-        },
-        {
-          "ticker": "GOOGL",
-          "name": "Alphabet Inc.",
-          "market_cap": 3540610449408,
-          "pe": 15.038903,
-          "revenue_growth": 24.7,
-          "price": 287.995,
-          "change_pct": 1.9667171
-        },
-        {
-          "ticker": "META",
-          "name": "Meta Platforms, Inc.",
-          "market_cap": 1578146594816,
-          "pe": 21.06346,
-          "revenue_growth": 26.1,
-          "price": 617.37,
-          "change_pct": 0.16061363
-        },
-        {
-          "ticker": "QCOM",
-          "name": "QUALCOMM Incorporated",
-          "market_cap": 177866096640,
-          "pe": 13.088976,
-          "revenue_growth": -8.4,
-          "price": 166.23,
-          "change_pct": 4.0172696
-        },
-        {
-          "ticker": "RBLX",
-          "name": "Roblox Corporation",
-          "market_cap": 35660419072,
-          "pe": null,
-          "revenue_growth": 15.6,
-          "price": 49.825,
-          "change_pct": 5.2709384
-        },
-        {
-          "ticker": "U",
-          "name": "Unity Software Inc.",
-          "market_cap": 21912266752,
-          "pe": null,
-          "revenue_growth": 32.2,
-          "price": 49.371,
-          "change_pct": 0.83945936
-        },
-        {
-          "ticker": "ETHQ/U.TO",
-          "name": "3iQ Ether Staking ETF",
-          "market_cap": null,
-          "pe": null,
-          "revenue_growth": null,
-          "price": null,
-          "change_pct": null
-        },
-        {
-          "ticker": "SOLQ.TO",
-          "name": "3IQ SOLANA STAKING ETF",
-          "market_cap": 0,
-          "pe": null,
-          "revenue_growth": null,
-          "price": 8.61,
-          "change_pct": -0.69204634
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "slug": "gaming-esports",
       "name": "遊戲與電競",
       "name_en": "Gaming & Esports",
@@ -306,95 +159,95 @@
       "etf_name": "VanEck Video Gaming and eSports",
       "bellwether": "MSFT",
       "metrics": {
-        "pe_ratio": 18.1,
+        "pe_ratio": 17.5,
         "revenue_growth": 18.8,
         "profit_margin": 41.2,
         "total_assets": 240414992
       },
       "returns": {
-        "1m": 1.3,
-        "3m": 3.5,
-        "6m": 12.9,
-        "1y": -4.1
+        "1m": -3.6,
+        "3m": 0.9,
+        "6m": 8.7,
+        "1y": -5.5
       },
-      "hot_score": 3.5,
+      "hot_score": 0.9,
       "news": [
         {
-          "title": "GTA VI: Why the 13-year wait could be worth $8 billion",
-          "url": "https://finance.yahoo.com/video/gta-vi-why-13-wait-120000877.html",
+          "title": "Can Microsoft catch up in the frontier AI race?",
+          "url": "https://finance.yahoo.com/video/microsoft-catch-frontier-ai-race-130000484.html",
           "source": "Yahoo Finance Video",
-          "time": "2026-11-19T12:00:00Z"
+          "time": "2026-11-20T13:00:00Z"
         },
         {
-          "title": "Bill Ackman Says His Microsoft “Sale” Was Really a Swap Into Options",
-          "url": "https://finance.yahoo.com/markets/options/articles/bill-ackman-says-microsoft-sale-162702535.html",
+          "title": "Between IREN and CoreWeave Here’s Who Has the Cleaner Path to a Sustained 30% Rebound",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/between-iren-coreweave-cleaner-path-154535203.html",
           "source": "24/7 Wall St.",
-          "time": "2026-11-19T16:27:02Z"
+          "time": "2026-11-20T15:45:35Z"
         },
         {
-          "title": "What Makes Microsoft Corporation (MSFT) a Strong Long-Term Bet?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/makes-microsoft-corporation-msft-strong-162631490.html",
-          "source": "Insider Monkey",
-          "time": "2026-11-19T16:26:31Z"
+          "title": "Big Tech Earned $607 Billion. Where Did It Go?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-earned-607-billion-153427605.html",
+          "source": "Trefis",
+          "time": "2026-11-20T15:34:27Z"
         },
         {
-          "title": "Bill Ackman says Nvidia's board is failing you — and not just because it fired Jensen Huang after one Zoom call, at most",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-says-nvidias-board-162000364.html",
-          "source": "Moneywise",
-          "time": "2026-11-19T16:20:00Z"
+          "title": "Billionaire Dan Loeb Exited Amazon and Opened $1 Billion in Meta, Nvidia and Microsoft Stakes",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-exited-amazon-152838571.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-11-20T15:28:38Z"
         },
         {
-          "title": "A $2.5 Billion Fund Dumps These 3 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-5-billion-fund-dumps-161557876.html",
-          "source": "TIKR",
-          "time": "2026-11-19T16:15:57Z"
+          "title": "Does Huang's Exit Sink Nvidia Stock? History Is Split",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-huangs-exit-sink-nvidia-152524263.html",
+          "source": "Trefis",
+          "time": "2026-11-20T15:25:24Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "7974.T",
           "name": "NINTENDO CO LTD",
-          "market_cap": 10729063186432,
-          "pe": 24.172684,
+          "market_cap": 10182579978240,
+          "pe": 22.94145,
           "revenue_growth": -15.0,
-          "price": 9306.0,
-          "change_pct": 3.3770275
+          "price": 8832.0,
+          "change_pct": -5.093488
         },
         {
           "ticker": "0700.HK",
           "name": "TENCENT",
-          "market_cap": 3137205174272,
-          "pe": 12.263288,
+          "market_cap": 3097584992256,
+          "pe": 12.108413,
           "revenue_growth": 7.5,
-          "price": 348.4,
-          "change_pct": -6.545063
+          "price": 344.0,
+          "change_pct": -1.2629145
         },
         {
           "ticker": "9697.T",
           "name": "CAPCOM CO LTD",
-          "market_cap": 1947798470656,
-          "pe": 27.772146,
+          "market_cap": 1850743193600,
+          "pe": 26.38831,
           "revenue_growth": 41.6,
-          "price": 4656.0,
-          "change_pct": 3.0772638
+          "price": 4424.0,
+          "change_pct": -4.982818
         },
         {
           "ticker": "3293.TWO",
           "name": "INTERNATIONAL GAMES SYSTEM CO",
-          "market_cap": 223186845696,
-          "pe": 17.619577,
+          "market_cap": 212478377984,
+          "pe": 16.774193,
           "revenue_growth": 25.3,
-          "price": 792.0,
-          "change_pct": -0.8760952
+          "price": 754.0,
+          "change_pct": -4.79798
         },
         {
           "ticker": "NTES",
           "name": "NetEase, Inc.",
-          "market_cap": 68754767872,
-          "pe": 14.913889,
-          "revenue_growth": 7.9,
-          "price": 107.38,
-          "change_pct": -9.330408
+          "market_cap": 64637677568,
+          "pe": 13.904958,
+          "revenue_growth": -1.8,
+          "price": 100.95,
+          "change_pct": -3.802178
         },
         {
           "ticker": "EA",
@@ -408,43 +261,43 @@
         {
           "ticker": "TTWO",
           "name": "Take-Two Interactive Software, ",
-          "market_cap": 40541454336,
+          "market_cap": 38790635520,
           "pe": null,
           "revenue_growth": -15.6,
-          "price": 216.552,
-          "change_pct": -0.026775613
+          "price": 207.2,
+          "change_pct": -0.69494224
         },
         {
           "ticker": "ALL.AX",
           "name": "ARISTOCRAT FPO [ALL]",
-          "market_cap": 38378266624,
-          "pe": 28.924107,
+          "market_cap": 38301261824,
+          "pe": 28.866074,
           "revenue_growth": -6.1,
-          "price": 64.79,
-          "change_pct": 0.73072326
+          "price": 64.66,
+          "change_pct": -0.200644
         },
         {
           "ticker": "RBLX",
           "name": "Roblox Corporation",
-          "market_cap": 35660419072,
+          "market_cap": 33795985408,
           "pe": null,
           "revenue_growth": 15.6,
-          "price": 49.825,
-          "change_pct": 5.2714953
+          "price": 47.22,
+          "change_pct": 1.8770286
         },
         {
           "ticker": "U",
           "name": "Unity Software Inc.",
-          "market_cap": 21912266752,
+          "market_cap": 20101003264,
           "pe": null,
           "revenue_growth": 32.2,
-          "price": 49.371,
-          "change_pct": 0.83945936
+          "price": 45.29,
+          "change_pct": -3.0192716
         }
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "slug": "5g-networking",
       "name": "5G 與網路",
       "name_en": "5G & Networking",
@@ -467,126 +320,273 @@
       "hot_score": 0,
       "news": [
         {
-          "title": "4 Tech Dividend Stocks Yielding Over 2% That Retirees Can Own for Growth and Income",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/4-tech-dividend-stocks-yielding-152052028.html",
-          "source": "24/7 Wall St.",
-          "time": "2026-11-19T15:20:52Z"
+          "title": "Anthropic Shares Retreat After Blockbuster Debut Amid AI Anxiety",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-shares-retreat-blockbuster-debut-154149423.html",
+          "source": "MT Newswires",
+          "time": "2026-11-20T15:41:49Z"
         },
         {
-          "title": "3 Tech Dividend Stocks to Buy in December as AI Spending Accelerates",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/3-tech-dividend-stocks-buy-131713814.html",
-          "source": "24/7 Wall St.",
-          "time": "2026-11-19T13:17:13Z"
-        },
-        {
-          "title": "Buy, Sell, Or Hold Anthropic Stock At $100?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-anthropic-stock-130246454.html",
+          "title": "Does Huang's Exit Sink Nvidia Stock? History Is Split",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-huangs-exit-sink-nvidia-152524263.html",
           "source": "Trefis",
-          "time": "2026-11-19T13:02:46Z"
+          "time": "2026-11-20T15:25:24Z"
         },
         {
-          "title": "The Dates That Matter Most For Micron Stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/dates-matter-most-micron-stock-123719645.html",
-          "source": "Trefis",
-          "time": "2026-11-19T12:37:19Z"
+          "title": "Here is What to Know Beyond Why QUALCOMM Incorporated (QCOM) is a Trending Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-qualcomm-incorporated-130004895.html",
+          "source": "Zacks",
+          "time": "2026-11-20T13:00:04Z"
         },
         {
-          "title": "Why Did David Tepper Exit AMD and Open a $172M Oracle Position? Here’s What May Have Driven the Shift",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-david-tepper-exit-121508548.html",
-          "source": "24/7 Wall St.",
-          "time": "2026-11-19T12:15:08Z"
+          "title": "3 Undervalued Tech Stocks With P E Under 19",
+          "url": "https://finance.yahoo.com/technology/articles/3-undervalued-tech-stocks-p-051742708.html",
+          "source": "Simply Wall St.",
+          "time": "2026-11-20T05:17:42Z"
+        },
+        {
+          "title": "What Should Qualcomm (QCOM) Investors Watch After 500 California Layoffs And New AI Moves?",
+          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-investors-watch-500-021653323.html",
+          "source": "Simply Wall St.",
+          "time": "2026-11-20T02:16:53Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "AAPL",
           "name": "Apple Inc.",
-          "market_cap": 5078779428864,
-          "pe": 38.91815,
+          "market_cap": 5051676884992,
+          "pe": 38.71047,
           "revenue_growth": 11.7,
-          "price": 349.485,
-          "change_pct": -0.8412617
+          "price": 347.62,
+          "change_pct": -0.45531237
         },
         {
           "ticker": "NVDA",
           "name": "NVIDIA Corporation",
-          "market_cap": 3689903030272,
-          "pe": 16.413532,
+          "market_cap": 3314416877568,
+          "pe": 14.743285,
           "revenue_growth": 103.2,
-          "price": 152.81,
-          "change_pct": 1.2254841
+          "price": 137.26,
+          "change_pct": -5.973422
         },
         {
           "ticker": "AVGO",
           "name": "Broadcom Inc.",
-          "market_cap": 1714067341312,
-          "pe": 45.85824,
+          "market_cap": 1505841643520,
+          "pe": 40.287357,
           "revenue_growth": 85.5,
-          "price": 359.07,
-          "change_pct": 1.4178843
+          "price": 315.45,
+          "change_pct": -9.000427
         },
         {
           "ticker": "AMD",
           "name": "Advanced Micro Devices, Inc.",
-          "market_cap": 820713947136,
-          "pe": 105.95727,
+          "market_cap": 733872652288,
+          "pe": 102.6412,
           "revenue_growth": 44.7,
-          "price": 495.88,
-          "change_pct": -6.4624457
+          "price": 443.41,
+          "change_pct": -9.358327
         },
         {
           "ticker": "CSCO",
           "name": "Cisco Systems, Inc.",
-          "market_cap": 383245385728,
-          "pe": 25.853724,
+          "market_cap": 367396749312,
+          "pe": 24.784575,
           "revenue_growth": 24.4,
-          "price": 97.21,
-          "change_pct": 0.030869294
+          "price": 93.19,
+          "change_pct": -1.5945033
         },
         {
           "ticker": "ORCL",
           "name": "Oracle Corporation",
-          "market_cap": 357289328640,
-          "pe": 17.962381,
+          "market_cap": 325052235776,
+          "pe": 16.341692,
           "revenue_growth": 29.6,
-          "price": 114.6,
-          "change_pct": 0.6234078
+          "price": 104.26,
+          "change_pct": -5.70679
         },
         {
           "ticker": "INTC",
           "name": "Intel Corporation",
-          "market_cap": 303685271552,
+          "market_cap": 288680509440,
           "pe": null,
           "revenue_growth": 20.9,
-          "price": 57.1374,
-          "change_pct": 4.5147047
+          "price": 54.3143,
+          "change_pct": -2.5227938
         },
         {
           "ticker": "ANET",
           "name": "Arista Networks, Inc.",
-          "market_cap": 249010290688,
-          "pe": 52.84048,
+          "market_cap": 216382930944,
+          "pe": 45.91689,
           "revenue_growth": 58.5,
-          "price": 197.095,
-          "change_pct": 1.6267911
+          "price": 171.27,
+          "change_pct": -9.662953
         },
         {
           "ticker": "ADI",
           "name": "Analog Devices, Inc.",
-          "market_cap": 186578305024,
-          "pe": 45.729515,
+          "market_cap": 174472642560,
+          "pe": 42.76247,
           "revenue_growth": 39.6,
-          "price": 385.0425,
-          "change_pct": 0.8017435
+          "price": 360.06,
+          "change_pct": -4.604707
         },
         {
           "ticker": "QCOM",
           "name": "QUALCOMM Incorporated",
-          "market_cap": 177855397888,
-          "pe": 13.088189,
+          "market_cap": 169167011840,
+          "pe": 12.448819,
           "revenue_growth": -8.4,
-          "price": 166.22,
-          "change_pct": 4.0110154
+          "price": 158.1,
+          "change_pct": -2.4134243
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "metaverse-spatial-computing",
+      "name": "元宇宙／空間運算",
+      "name_en": "Metaverse & Spatial Computing",
+      "description": "Apple Vision Pro 與 Meta AR 眼鏡帶動空間運算生態系逐步成形",
+      "etf": "METV",
+      "etf_name": "Roundhill Metaverse ETF",
+      "bellwether": "META",
+      "metrics": {
+        "pe_ratio": 17.3,
+        "revenue_growth": 26.1,
+        "profit_margin": 31.1,
+        "total_assets": 208605040
+      },
+      "returns": {
+        "1m": -10.3,
+        "3m": -2.5,
+        "6m": 2.5,
+        "1y": 5.2
+      },
+      "hot_score": -2.5,
+      "news": [
+        {
+          "title": "Anthropic just went public. Here's what SpaceX and Facebook IPOs tell us about where the stock goes next.",
+          "url": "https://finance.yahoo.com/markets/article/anthropic-just-went-public-heres-what-spacex-and-facebook-ipos-tell-us-about-where-the-stock-goes-next-135422687.html",
+          "source": "Yahoo Finance",
+          "time": "2026-11-20T13:54:22Z"
+        },
+        {
+          "title": "Apple Stock Polishes Breakout As Nvidia-Led AI Boom Gets Wake-Up Call",
+          "url": "",
+          "source": "Investor's Business Daily",
+          "time": "2026-11-20T15:35:19Z"
+        },
+        {
+          "title": "Big Tech Earned $607 Billion. Where Did It Go?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-earned-607-billion-153427605.html",
+          "source": "Trefis",
+          "time": "2026-11-20T15:34:27Z"
+        },
+        {
+          "title": "Billionaire Dan Loeb Exited Amazon and Opened $1 Billion in Meta, Nvidia and Microsoft Stakes",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-exited-amazon-152838571.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-11-20T15:28:38Z"
+        },
+        {
+          "title": "What UBS Sees in Meta (META) Amid Heavy AI Spending",
+          "url": "https://finance.yahoo.com/technology/ai/articles/ubs-sees-meta-meta-amid-152404627.html",
+          "source": "Insider Monkey",
+          "time": "2026-11-20T15:24:04Z"
+        }
+      ],
+      "top_companies": [
+        {
+          "ticker": "AAPL",
+          "name": "Apple Inc.",
+          "market_cap": 5052548775936,
+          "pe": 38.71715,
+          "revenue_growth": 11.7,
+          "price": 347.68,
+          "change_pct": -0.43813145
+        },
+        {
+          "ticker": "MSFT",
+          "name": "Microsoft Corporation",
+          "market_cap": 3651237052416,
+          "pe": 25.661274,
+          "revenue_growth": 18.8,
+          "price": 491.67,
+          "change_pct": -1.3305187
+        },
+        {
+          "ticker": "GOOGL",
+          "name": "Alphabet Inc.",
+          "market_cap": 3400520433664,
+          "pe": 14.443865,
+          "revenue_growth": 24.7,
+          "price": 276.6,
+          "change_pct": 1.4447061
+        },
+        {
+          "ticker": "NVDA",
+          "name": "NVIDIA Corporation",
+          "market_cap": 3311519399936,
+          "pe": 14.730396,
+          "revenue_growth": 103.2,
+          "price": 137.14,
+          "change_pct": -6.0556216
+        },
+        {
+          "ticker": "META",
+          "name": "Meta Platforms, Inc.",
+          "market_cap": 1469915463680,
+          "pe": 19.618902,
+          "revenue_growth": 26.1,
+          "price": 575.03,
+          "change_pct": -3.5540476
+        },
+        {
+          "ticker": "QCOM",
+          "name": "QUALCOMM Incorporated",
+          "market_cap": 168969043968,
+          "pe": 12.434252,
+          "revenue_growth": -8.4,
+          "price": 157.915,
+          "change_pct": -2.5276227
+        },
+        {
+          "ticker": "RBLX",
+          "name": "Roblox Corporation",
+          "market_cap": 33795985408,
+          "pe": null,
+          "revenue_growth": 15.6,
+          "price": 47.22,
+          "change_pct": 1.8770286
+        },
+        {
+          "ticker": "U",
+          "name": "Unity Software Inc.",
+          "market_cap": 20114317312,
+          "pe": null,
+          "revenue_growth": 32.2,
+          "price": 45.32,
+          "change_pct": -2.9550343
+        },
+        {
+          "ticker": "ETHQ/U.TO",
+          "name": "3iQ Ether Staking ETF",
+          "market_cap": null,
+          "pe": null,
+          "revenue_growth": null,
+          "price": null,
+          "change_pct": null
+        },
+        {
+          "ticker": "SOLQ.TO",
+          "name": "3IQ SOLANA STAKING ETF",
+          "market_cap": 0,
+          "pe": null,
+          "revenue_growth": null,
+          "price": 8.07,
+          "change_pct": -7.2413807
         }
       ]
     },
@@ -600,292 +600,145 @@
       "etf_name": "First Trust Cloud Computing ETF",
       "bellwether": "AMZN",
       "metrics": {
-        "pe_ratio": 25.6,
+        "pe_ratio": 24.0,
         "revenue_growth": 12.1,
         "profit_margin": 16.9,
         "total_assets": 3310213888
       },
       "returns": {
-        "1m": -7.0,
-        "3m": -7.0,
-        "6m": 17.0,
-        "1y": 18.1
+        "1m": -14.1,
+        "3m": -11.9,
+        "6m": 8.6,
+        "1y": 13.5
       },
-      "hot_score": -7.0,
+      "hot_score": -11.9,
       "news": [
         {
-          "title": "GTA VI: Why the 13-year wait could be worth $8 billion",
-          "url": "https://finance.yahoo.com/video/gta-vi-why-13-wait-120000877.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-11-19T12:00:00Z"
-        },
-        {
-          "title": "Bill Ackman says Nvidia's board is failing you — and not just because it fired Jensen Huang after one Zoom call, at most",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-says-nvidias-board-162000364.html",
-          "source": "Moneywise",
-          "time": "2026-11-19T16:20:00Z"
-        },
-        {
-          "title": "$100K In Anthropic Stock: Buy Now Or Wait?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/100k-anthropic-stock-buy-now-160650412.html",
-          "source": "Trefis",
-          "time": "2026-11-19T16:06:50Z"
-        },
-        {
-          "title": "One Magnificent Seven Stock Could Outperform Nvidia Over the Next 5 Years",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/one-magnificent-seven-stock-could-160310994.html",
+          "title": "Trump’s Tariff Refund Saved Lowe’s From An Earnings Miss. Here’s The Math On How Government Tariff Refunds Are Padding Retailers’ Profits",
+          "url": "https://finance.yahoo.com/economy/policy/articles/trump-tariff-refund-saved-lowe-154040458.html",
           "source": "24/7 Wall St.",
-          "time": "2026-11-19T16:03:10Z"
+          "time": "2026-11-20T15:40:40Z"
         },
         {
-          "title": "Inside Hinde Group’s Investment Case for Mobility Global (MBGL)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/inside-hinde-group-investment-case-155129281.html",
-          "source": "Insider Monkey",
-          "time": "2026-11-19T15:51:29Z"
+          "title": "Big Tech Earned $607 Billion. Where Did It Go?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-earned-607-billion-153427605.html",
+          "source": "Trefis",
+          "time": "2026-11-20T15:34:27Z"
+        },
+        {
+          "title": "Nvidia Earns “Highest Risk” as Focus Turns to New Semis Trade",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earns-highest-risk-focus-152909744.html",
+          "source": "TIKR",
+          "time": "2026-11-20T15:29:09Z"
+        },
+        {
+          "title": "Billionaire Dan Loeb Exited Amazon and Opened $1 Billion in Meta, Nvidia and Microsoft Stakes",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-exited-amazon-152838571.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-11-20T15:28:38Z"
+        },
+        {
+          "title": "Does Huang's Exit Sink Nvidia Stock? History Is Split",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-huangs-exit-sink-nvidia-152524263.html",
+          "source": "Trefis",
+          "time": "2026-11-20T15:25:24Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "MSFT",
           "name": "Microsoft Corporation",
-          "market_cap": 3813350834176,
-          "pe": 26.800627,
+          "market_cap": 3653167742976,
+          "pe": 25.674843,
           "revenue_growth": 18.8,
-          "price": 513.5,
-          "change_pct": 1.2201617
+          "price": 491.93,
+          "change_pct": -1.2783455
         },
         {
           "ticker": "GOOGL",
           "name": "Alphabet Inc.",
-          "market_cap": 3541409464320,
-          "pe": 15.042297,
+          "market_cap": 3399167770624,
+          "pe": 14.43812,
           "revenue_growth": 24.7,
-          "price": 288.06,
-          "change_pct": 1.9898014
+          "price": 276.54,
+          "change_pct": 1.4046749
         },
         {
           "ticker": "AMZN",
           "name": "Amazon.com, Inc.",
-          "market_cap": 2904408981504,
-          "pe": 21.713825,
+          "market_cap": 2747726561280,
+          "pe": 20.542442,
           "revenue_growth": 12.1,
-          "price": 268.6,
-          "change_pct": 0.32121307
+          "price": 254.11,
+          "change_pct": -1.2667061
         },
         {
           "ticker": "ORCL",
           "name": "Oracle Corporation",
-          "market_cap": 357507563520,
-          "pe": 17.973354,
+          "market_cap": 324865163264,
+          "pe": 16.332287,
           "revenue_growth": 29.6,
-          "price": 114.67,
-          "change_pct": 0.6848703
+          "price": 104.2,
+          "change_pct": -5.7610583
         },
         {
           "ticker": "ANET",
           "name": "Arista Networks, Inc.",
-          "market_cap": 249161891840,
-          "pe": 52.872654,
+          "market_cap": 215940726784,
+          "pe": 45.823055,
           "revenue_growth": 58.5,
-          "price": 197.215,
-          "change_pct": 1.6896653
+          "price": 170.92,
+          "change_pct": -9.847565
         },
         {
           "ticker": "P",
           "name": "Everpure, Inc.",
-          "market_cap": 38472753152,
-          "pe": 134.25,
-          "revenue_growth": 37.7,
-          "price": 115.455,
-          "change_pct": 14.606913
+          "market_cap": 32163094528,
+          "pe": 112.23255,
+          "revenue_growth": 51.4,
+          "price": 96.52,
+          "change_pct": -8.511852
         },
         {
           "ticker": "CRWV",
           "name": "CoreWeave, Inc.",
-          "market_cap": 27186204672,
+          "market_cap": 22929061888,
           "pe": null,
           "revenue_growth": 168.2,
-          "price": 48.885,
-          "change_pct": 2.2057211
+          "price": 41.23,
+          "change_pct": -8.194167
         },
         {
           "ticker": "NTNX",
           "name": "Nutanix, Inc.",
-          "market_cap": 16145752064,
-          "pe": 11.450677,
+          "market_cap": 15170733056,
+          "pe": 10.759188,
           "revenue_growth": 15.9,
-          "price": 59.2,
-          "change_pct": 3.2078106
+          "price": 55.625,
+          "change_pct": -2.8214564
         },
         {
           "ticker": "DOCN",
           "name": "DigitalOcean Holdings, Inc.",
-          "market_cap": 9641520128,
-          "pe": 281.75864,
+          "market_cap": 8062722560,
+          "pe": 235.6207,
           "revenue_growth": 39.9,
-          "price": 81.71,
-          "change_pct": 1.3520173
+          "price": 68.33,
+          "change_pct": -11.363335
         },
         {
           "ticker": "LUMN",
           "name": "Lumen Technologies, Inc.",
-          "market_cap": 4294292736,
+          "market_cap": 4206654208,
           "pe": null,
           "revenue_growth": -12.1,
-          "price": 4.165,
-          "change_pct": -3.13954
+          "price": 4.08,
+          "change_pct": -2.160868
         }
       ]
     },
     {
       "rank": 6,
-      "slug": "artificial-intelligence",
-      "name": "人工智慧",
-      "name_en": "Artificial Intelligence",
-      "description": "生成式 AI 滲透各行業，企業級 AI 應用與推理模型需求爆發性成長",
-      "etf": "AIQ",
-      "etf_name": "Global X Artificial Intelligenc",
-      "bellwether": "MSFT",
-      "metrics": {
-        "pe_ratio": 22.0,
-        "revenue_growth": 18.8,
-        "profit_margin": 41.2,
-        "total_assets": 9734066176
-      },
-      "returns": {
-        "1m": -11.0,
-        "3m": -11.0,
-        "6m": -7.2,
-        "1y": 15.0
-      },
-      "hot_score": -11.0,
-      "news": [
-        {
-          "title": "GTA VI: Why the 13-year wait could be worth $8 billion",
-          "url": "https://finance.yahoo.com/video/gta-vi-why-13-wait-120000877.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-11-19T12:00:00Z"
-        },
-        {
-          "title": "Bill Ackman Says His Microsoft “Sale” Was Really a Swap Into Options",
-          "url": "https://finance.yahoo.com/markets/options/articles/bill-ackman-says-microsoft-sale-162702535.html",
-          "source": "24/7 Wall St.",
-          "time": "2026-11-19T16:27:02Z"
-        },
-        {
-          "title": "What Makes Microsoft Corporation (MSFT) a Strong Long-Term Bet?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/makes-microsoft-corporation-msft-strong-162631490.html",
-          "source": "Insider Monkey",
-          "time": "2026-11-19T16:26:31Z"
-        },
-        {
-          "title": "Bill Ackman says Nvidia's board is failing you — and not just because it fired Jensen Huang after one Zoom call, at most",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-says-nvidias-board-162000364.html",
-          "source": "Moneywise",
-          "time": "2026-11-19T16:20:00Z"
-        },
-        {
-          "title": "A $2.5 Billion Fund Dumps These 3 Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-5-billion-fund-dumps-161557876.html",
-          "source": "TIKR",
-          "time": "2026-11-19T16:15:57Z"
-        }
-      ],
-      "top_companies": [
-        {
-          "ticker": "005930.KS",
-          "name": "SamsungElec",
-          "market_cap": 1282198464364544,
-          "pe": null,
-          "revenue_growth": 126.8,
-          "price": 196900.0,
-          "change_pct": 1.1299435
-        },
-        {
-          "ticker": "000660.KS",
-          "name": "SK hynix",
-          "market_cap": 834220020727808,
-          "pe": null,
-          "revenue_growth": 327.9,
-          "price": 1183000.0,
-          "change_pct": 3.409091
-        },
-        {
-          "ticker": "GOOGL",
-          "name": "Alphabet Inc.",
-          "market_cap": 3542884810752,
-          "pe": 15.048564,
-          "revenue_growth": 24.7,
-          "price": 288.18,
-          "change_pct": 2.0322866
-        },
-        {
-          "ticker": "AMZN",
-          "name": "Amazon.com, Inc.",
-          "market_cap": 2904408981504,
-          "pe": 21.713825,
-          "revenue_growth": 12.1,
-          "price": 268.6,
-          "change_pct": 0.32121307
-        },
-        {
-          "ticker": "TSM",
-          "name": "Taiwan Semiconductor Manufactur",
-          "market_cap": 1882378469376,
-          "pe": 23.521711,
-          "revenue_growth": 50.9,
-          "price": 362.94,
-          "change_pct": 0.08824867
-        },
-        {
-          "ticker": "AVGO",
-          "name": "Broadcom Inc.",
-          "market_cap": 1712730669056,
-          "pe": 45.82248,
-          "revenue_growth": 85.5,
-          "price": 358.79,
-          "change_pct": 1.3387998
-        },
-        {
-          "ticker": "MU",
-          "name": "Micron Technology, Inc.",
-          "market_cap": 823987273728,
-          "pe": 9.797861,
-          "revenue_growth": 379.3,
-          "price": 728.5199,
-          "change_pct": 3.2624042
-        },
-        {
-          "ticker": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
-          "market_cap": 822037970944,
-          "pe": 106.128204,
-          "revenue_growth": 44.7,
-          "price": 496.68,
-          "change_pct": -6.314582
-        },
-        {
-          "ticker": "CSCO",
-          "name": "Cisco Systems, Inc.",
-          "market_cap": 383363645440,
-          "pe": 25.861702,
-          "revenue_growth": 24.4,
-          "price": 97.24,
-          "change_pct": 0.061738588
-        },
-        {
-          "ticker": "INTC",
-          "name": "Intel Corporation",
-          "market_cap": 303964815360,
-          "pe": null,
-          "revenue_growth": 20.9,
-          "price": 57.19,
-          "change_pct": 4.608633
-        }
-      ]
-    },
-    {
-      "rank": 7,
       "slug": "biotech-pharma",
       "name": "生技製藥",
       "name_en": "Biotech & Pharma",
@@ -900,125 +753,125 @@
         "total_assets": 10918484992
       },
       "returns": {
-        "1m": -1.2,
-        "3m": -13.8,
-        "6m": 15.3,
-        "1y": 28.1
+        "1m": -6.5,
+        "3m": -12.3,
+        "6m": 8.9,
+        "1y": 26.4
       },
-      "hot_score": -13.8,
+      "hot_score": -12.3,
       "news": [
         {
-          "title": "Eli Lilly Stopped Touting Dose Counts. Should You Worry?",
-          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-stopped-touting-dose-150930626.html",
+          "title": "Cathie Wood Sold Nvidia and Bought $78 Million of Anthropic at IPO",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sold-nvidia-bought-145242005.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-11-20T14:52:42Z"
+        },
+        {
+          "title": "Should You Buy Bristol Myers Squibb Stock At Today's Discount?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/buy-bristol-myers-squibb-stock-145148672.html",
           "source": "Trefis",
-          "time": "2026-11-19T15:09:30Z"
+          "time": "2026-11-20T14:51:48Z"
         },
         {
-          "title": "Amgen (AMGN) Has Advanced MariTide Into Phase 3 Trials",
-          "url": "https://finance.yahoo.com/healthcare/articles/amgen-amgn-advanced-maritide-phase-141953302.html",
-          "source": "Simply Wall St.",
-          "time": "2026-11-19T14:19:53Z"
-        },
-        {
-          "title": "Can New Products and Acquisitions Revive Pfizer's Growth Story?",
-          "url": "https://finance.yahoo.com/healthcare/articles/products-acquisitions-revive-pfizers-growth-141800924.html",
+          "title": "Lilly vs. Pfizer: Which Drugmaker Has Stronger Growth Prospects?",
+          "url": "https://finance.yahoo.com/healthcare/articles/lilly-vs-pfizer-drugmaker-stronger-143900789.html",
           "source": "Zacks",
-          "time": "2026-11-19T14:18:00Z"
+          "time": "2026-11-20T14:39:00Z"
         },
         {
-          "title": "Is Immunology Emerging as Eli Lilly's Next Growth Driver?",
-          "url": "https://finance.yahoo.com/healthcare/articles/immunology-emerging-eli-lillys-next-132200150.html",
-          "source": "Zacks",
-          "time": "2026-11-19T13:22:00Z"
+          "title": "Big Pharma, with eye on Anthropic, says AI is shrinking drug discovery timelines",
+          "url": "https://finance.yahoo.com/healthcare/articles/big-pharma-eye-anthropic-says-110145414.html",
+          "source": "Reuters",
+          "time": "2026-11-20T11:09:13Z"
         },
         {
-          "title": "Eli Lilly (LLY) Expands Its Oncology Research Platform",
-          "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-lly-expands-oncology-122029469.html",
-          "source": "Simply Wall St.",
-          "time": "2026-11-19T12:20:29Z"
+          "title": "iShares U.S. Healthcare ETF (IYH) Sells $17.4 Million of Eli Lilly on Wednesday",
+          "url": "https://finance.yahoo.com/healthcare/articles/ishares-u-healthcare-etf-iyh-110527822.html",
+          "source": "GuruFocus.com",
+          "time": "2026-11-20T11:05:27Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "RVMD",
           "name": "Revolution Medicines, Inc.",
-          "market_cap": 35471941632,
+          "market_cap": 35702292480,
           "pe": null,
           "revenue_growth": null,
-          "price": 164.0,
-          "change_pct": 2.6154377
+          "price": 165.065,
+          "change_pct": 3.534473
         },
         {
           "ticker": "TGTX",
           "name": "TG Therapeutics, Inc.",
-          "market_cap": 10037727232,
-          "pe": 99.11941,
+          "market_cap": 9788333056,
+          "pe": 96.656715,
           "revenue_growth": 60.7,
-          "price": 66.41,
-          "change_pct": 0.43859786
+          "price": 64.76,
+          "change_pct": -0.18480691
         },
         {
           "ticker": "MDGL",
           "name": "Madrigal Pharmaceuticals, Inc.",
-          "market_cap": 9398680576,
+          "market_cap": 9068239872,
           "pe": null,
           "revenue_growth": 50.1,
-          "price": 404.6,
-          "change_pct": 1.6378667
+          "price": 390.375,
+          "change_pct": -1.6043228
         },
         {
           "ticker": "SMMT",
           "name": "Summit Therapeutics Inc.",
-          "market_cap": 8501490176,
+          "market_cap": 8261560832,
           "pe": null,
           "revenue_growth": null,
-          "price": 10.63,
-          "change_pct": 1.2380964
-        },
-        {
-          "ticker": "TWST",
-          "name": "Twist Bioscience Corporation",
-          "market_cap": 8304505344,
-          "pe": null,
-          "revenue_growth": 27.9,
-          "price": 121.805,
-          "change_pct": 4.6884418
+          "price": 10.33,
+          "change_pct": -2.270575
         },
         {
           "ticker": "ALKS",
           "name": "Alkermes plc",
-          "market_cap": 7802261504,
+          "market_cap": 7739245056,
           "pe": null,
           "revenue_growth": 21.8,
-          "price": 46.43,
-          "change_pct": -0.89647424
+          "price": 46.055,
+          "change_pct": -0.27067995
+        },
+        {
+          "ticker": "TWST",
+          "name": "Twist Bioscience Corporation",
+          "market_cap": 7235804160,
+          "pe": null,
+          "revenue_growth": 27.9,
+          "price": 106.13,
+          "change_pct": -4.9041986
         },
         {
           "ticker": "ARWR",
           "name": "Arrowhead Pharmaceuticals, Inc.",
-          "market_cap": 6148801024,
+          "market_cap": 6075996672,
           "pe": null,
           "revenue_growth": -85.3,
-          "price": 43.495,
-          "change_pct": 0.8930603
+          "price": 42.98,
+          "change_pct": -1.5349414
         },
         {
           "ticker": "TVTX",
           "name": "Travere Therapeutics, Inc.",
-          "market_cap": 4771290112,
+          "market_cap": 4627781632,
           "pe": null,
           "revenue_growth": 36.2,
-          "price": 49.705,
-          "change_pct": -1.0652063
+          "price": 48.21,
+          "change_pct": -0.18633573
         },
         {
           "ticker": "BEAM",
           "name": "Beam Therapeutics Inc.",
-          "market_cap": 2221016576,
+          "market_cap": 2237575936,
           "pe": null,
           "revenue_growth": -96.8,
-          "price": 21.46,
-          "change_pct": 2.1423416
+          "price": 21.62,
+          "change_pct": 3.2473748
         },
         {
           "ticker": "APLS",
@@ -1032,7 +885,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "slug": "aerospace-defense",
       "name": "航太防衛",
       "name_en": "Aerospace & Defense",
@@ -1041,145 +894,439 @@
       "etf_name": "iShares U.S. Aerospace & Defens",
       "bellwether": "LMT",
       "metrics": {
-        "pe_ratio": 30.6,
+        "pe_ratio": 30.0,
         "revenue_growth": 11.3,
         "profit_margin": 8.2,
         "total_assets": 12223391744
       },
       "returns": {
-        "1m": 0.0,
-        "3m": -15.5,
-        "6m": -4.6,
-        "1y": 2.6
+        "1m": -1.4,
+        "3m": -14.3,
+        "6m": -8.8,
+        "1y": 2.5
       },
-      "hot_score": -15.5,
+      "hot_score": -14.3,
       "news": [
         {
-          "title": "The One Number Lockheed Martin Stock Investors Should Watch",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/one-number-lockheed-martin-stock-150016736.html",
-          "source": "Trefis",
-          "time": "2026-11-19T15:00:16Z"
-        },
-        {
-          "title": "Can C-5 Galaxy Support Work Strengthen Lockheed Martin's Growth?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/c-5-galaxy-support-strengthen-150000956.html",
+          "title": "Can NASA's PRIMA Mission Strengthen BAE Systems' Space Growth?",
+          "url": "https://finance.yahoo.com/technology/articles/nasas-prima-mission-strengthen-bae-145800417.html",
           "source": "Zacks",
-          "time": "2026-11-19T15:00:00Z"
+          "time": "2026-11-20T14:58:00Z"
         },
         {
-          "title": "How Much Downside Is Left In Rocket Lab Stock?",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/much-downside-left-rocket-lab-141824934.html",
-          "source": "Trefis",
-          "time": "2026-11-19T14:18:24Z"
+          "title": "Tesla upgraded, Berkshire Hathaway downgraded: Wall Street's top analyst calls",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-upgraded-applovin-initiated-wall-135331262.html",
+          "source": "The Fly",
+          "time": "2026-11-20T14:43:26Z"
         },
         {
-          "title": "Wall Street Betting on Lockheed Martin Corporation (LMT)’s Business Fundamentals, Growing Backlog",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-betting-lockheed-martin-233743943.html",
-          "source": "Insider Monkey",
-          "time": "2026-11-18T23:37:43Z"
+          "title": "Can AeroVironment's $405 Million LOCUST X3 Order Expand Its Reach?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironments-405-million-locust-x3-135700754.html",
+          "source": "Zacks",
+          "time": "2026-11-20T13:57:00Z"
         },
         {
-          "title": "SpaceX's Historic Starship Catch Raises a Bigger Question About Its AI Spending",
-          "url": "https://finance.yahoo.com/technology/ai/articles/spacexs-historic-starship-catch-raises-150000343.html",
-          "source": "MarketBeat",
-          "time": "2026-11-18T15:00:00Z"
+          "title": "How Investors Are Reacting To Lockheed Martin Stock As Backlog Hits $292 Billion",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-lockheed-martin-stock-191021628.html",
+          "source": "Simply Wall St.",
+          "time": "2026-11-19T19:10:21Z"
+        },
+        {
+          "title": "3 Defense Dividend Stocks to Buy in December With Billions in Backlogged Orders",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-defense-dividend-stocks-buy-171725450.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-11-19T17:17:25Z"
         }
       ],
       "top_companies": [
         {
           "ticker": "GE",
           "name": "GE Aerospace",
-          "market_cap": 334620033024,
-          "pe": 37.008,
+          "market_cap": 324710203392,
+          "pe": 35.912003,
           "revenue_growth": 15.9,
-          "price": 323.82,
-          "change_pct": -1.30448
+          "price": 314.23,
+          "change_pct": -1.4582269
         },
         {
           "ticker": "RTX",
           "name": "RTX Corporation",
-          "market_cap": 266615701504,
-          "pe": 32.126015,
+          "market_cap": 261872418816,
+          "pe": 31.55447,
           "revenue_growth": 11.1,
-          "price": 197.575,
-          "change_pct": 0.063307166
+          "price": 194.06,
+          "change_pct": 0.7005297
         },
         {
           "ticker": "LMT",
           "name": "Lockheed Martin Corporation",
-          "market_cap": 132474224640,
-          "pe": 20.3647,
+          "market_cap": 132955299840,
+          "pe": 20.438654,
           "revenue_growth": 11.3,
-          "price": 573.47,
-          "change_pct": -0.8163461
+          "price": 575.5525,
+          "change_pct": 0.6474626
         },
         {
           "ticker": "BA",
           "name": "Boeing Company (The)",
-          "market_cap": 128281796608,
-          "pe": 16.705883,
+          "market_cap": 127976693760,
+          "pe": 16.666151,
           "revenue_growth": 3.9,
-          "price": 161.88,
-          "change_pct": -0.6322502
+          "price": 161.495,
+          "change_pct": 0.61366934
         },
         {
           "ticker": "GD",
           "name": "General Dynamics Corporation",
-          "market_cap": 94248624128,
-          "pe": 20.528547,
+          "market_cap": 94264836096,
+          "pe": 20.532078,
           "revenue_growth": 12.9,
-          "price": 348.78,
-          "change_pct": -0.07449283
+          "price": 348.84,
+          "change_pct": 0.43185353
         },
         {
           "ticker": "HWM",
           "name": "Howmet Aerospace Inc.",
-          "market_cap": 88097701888,
-          "pe": 43.439217,
+          "market_cap": 84409401344,
+          "pe": 41.62059,
           "revenue_growth": 29.4,
-          "price": 221.54,
-          "change_pct": 0.17635062
+          "price": 212.265,
+          "change_pct": -2.7066045
         },
         {
           "ticker": "NOC",
           "name": "Northrop Grumman Corporation",
-          "market_cap": 77122551808,
-          "pe": 17.136047,
+          "market_cap": 77565796352,
+          "pe": 17.234531,
           "revenue_growth": 6.7,
-          "price": 542.87,
-          "change_pct": -0.022098955
+          "price": 545.99,
+          "change_pct": 0.6785773
         },
         {
           "ticker": "TDG",
           "name": "Transdigm Group Incorporated",
-          "market_cap": 64221663232,
-          "pe": 33.12982,
+          "market_cap": 62715531264,
+          "pe": 32.35286,
           "revenue_growth": 22.6,
-          "price": 1176.44,
-          "change_pct": -0.084930025
+          "price": 1148.85,
+          "change_pct": -0.84581614
         },
         {
           "ticker": "LHX",
           "name": "L3Harris Technologies, Inc.",
-          "market_cap": 48215752704,
-          "pe": 24.110336,
+          "market_cap": 47874068480,
+          "pe": 23.939478,
           "revenue_growth": 7.1,
-          "price": 258.945,
-          "change_pct": 1.0083562
+          "price": 257.11,
+          "change_pct": 0.22217852
         },
         {
           "ticker": "RKLB",
           "name": "Rocket Lab Corporation",
-          "market_cap": 35384877056,
+          "market_cap": 32289204224,
           "pe": null,
           "revenue_growth": 72.7,
-          "price": 52.58,
-          "change_pct": -0.9233048
+          "price": 47.98,
+          "change_pct": -5.9031224
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "artificial-intelligence",
+      "name": "人工智慧",
+      "name_en": "Artificial Intelligence",
+      "description": "生成式 AI 滲透各行業，企業級 AI 應用與推理模型需求爆發性成長",
+      "etf": "AIQ",
+      "etf_name": "Global X Artificial Intelligenc",
+      "bellwether": "MSFT",
+      "metrics": {
+        "pe_ratio": 20.7,
+        "revenue_growth": 18.8,
+        "profit_margin": 41.2,
+        "total_assets": 9734066176
+      },
+      "returns": {
+        "1m": -16.8,
+        "3m": -16.6,
+        "6m": -15.0,
+        "1y": 11.2
+      },
+      "hot_score": -16.6,
+      "news": [
+        {
+          "title": "Can Microsoft catch up in the frontier AI race?",
+          "url": "https://finance.yahoo.com/video/microsoft-catch-frontier-ai-race-130000484.html",
+          "source": "Yahoo Finance Video",
+          "time": "2026-11-20T13:00:00Z"
+        },
+        {
+          "title": "Between IREN and CoreWeave Here’s Who Has the Cleaner Path to a Sustained 30% Rebound",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/between-iren-coreweave-cleaner-path-154535203.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-11-20T15:45:35Z"
+        },
+        {
+          "title": "Big Tech Earned $607 Billion. Where Did It Go?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-earned-607-billion-153427605.html",
+          "source": "Trefis",
+          "time": "2026-11-20T15:34:27Z"
+        },
+        {
+          "title": "Billionaire Dan Loeb Exited Amazon and Opened $1 Billion in Meta, Nvidia and Microsoft Stakes",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-exited-amazon-152838571.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-11-20T15:28:38Z"
+        },
+        {
+          "title": "Does Huang's Exit Sink Nvidia Stock? History Is Split",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-huangs-exit-sink-nvidia-152524263.html",
+          "source": "Trefis",
+          "time": "2026-11-20T15:25:24Z"
+        }
+      ],
+      "top_companies": [
+        {
+          "ticker": "005930.KS",
+          "name": "SamsungElec",
+          "market_cap": 1192333924106240,
+          "pe": null,
+          "revenue_growth": 126.9,
+          "price": 183100.0,
+          "change_pct": -7.0086336
+        },
+        {
+          "ticker": "000660.KS",
+          "name": "SK hynix",
+          "market_cap": 784857894486016,
+          "pe": null,
+          "revenue_growth": 327.9,
+          "price": 1113000.0,
+          "change_pct": -5.91716
+        },
+        {
+          "ticker": "GOOGL",
+          "name": "Alphabet Inc.",
+          "market_cap": 3399167770624,
+          "pe": 14.43812,
+          "revenue_growth": 24.7,
+          "price": 276.49,
+          "change_pct": 1.4046749
+        },
+        {
+          "ticker": "AMZN",
+          "name": "Amazon.com, Inc.",
+          "market_cap": 2747726561280,
+          "pe": 20.542442,
+          "revenue_growth": 12.1,
+          "price": 254.11,
+          "change_pct": -1.2667061
+        },
+        {
+          "ticker": "TSM",
+          "name": "Taiwan Semiconductor Manufactur",
+          "market_cap": 1699244146688,
+          "pe": 21.23331,
+          "revenue_growth": 50.9,
+          "price": 327.63,
+          "change_pct": -6.947085
+        },
+        {
+          "ticker": "AVGO",
+          "name": "Broadcom Inc.",
+          "market_cap": 1502834196480,
+          "pe": 40.206898,
+          "revenue_growth": 85.5,
+          "price": 314.82,
+          "change_pct": -9.182168
+        },
+        {
+          "ticker": "AMD",
+          "name": "Advanced Micro Devices, Inc.",
+          "market_cap": 731710488576,
+          "pe": 102.33879,
+          "revenue_growth": 44.7,
+          "price": 442.1036,
+          "change_pct": -9.622638
+        },
+        {
+          "ticker": "MU",
+          "name": "Micron Technology, Inc.",
+          "market_cap": 698257899520,
+          "pe": 8.302839,
+          "revenue_growth": 379.3,
+          "price": 617.15,
+          "change_pct": -10.614967
+        },
+        {
+          "ticker": "CSCO",
+          "name": "Cisco Systems, Inc.",
+          "market_cap": 367041904640,
+          "pe": 24.760637,
+          "revenue_growth": 24.4,
+          "price": 93.1,
+          "change_pct": -1.6895443
+        },
+        {
+          "ticker": "INTC",
+          "name": "Intel Corporation",
+          "market_cap": 288072990720,
+          "pe": null,
+          "revenue_growth": 20.9,
+          "price": 54.2,
+          "change_pct": -2.727926
         }
       ]
     },
     {
       "rank": 9,
+      "slug": "clean-energy",
+      "name": "綠色能源",
+      "name_en": "Clean Energy",
+      "description": "淨零碳排政策加速全球再生能源建置，太陽能與儲能需求暢旺",
+      "etf": "ICLN",
+      "etf_name": "iShares Global Clean Energy ETF",
+      "bellwether": "ENPH",
+      "metrics": {
+        "pe_ratio": 17.8,
+        "revenue_growth": -28.5,
+        "profit_margin": 7.5,
+        "total_assets": 1944458752
+      },
+      "returns": {
+        "1m": -13.2,
+        "3m": -19.6,
+        "6m": -34.0,
+        "1y": -11.0
+      },
+      "hot_score": -19.6,
+      "news": [
+        {
+          "title": "T.J. Rodgers Just Sold 71% of His Enphase Stake Near $23",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/t-j-rodgers-just-sold-155250099.html",
+          "source": "24/7 Wall St.",
+          "time": "2026-11-20T15:52:50Z"
+        },
+        {
+          "title": "Why You Need To Pay Attention To Nextpower Stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-pay-attention-nextpower-stock-164042595.html",
+          "source": "Trefis",
+          "time": "2026-11-18T16:40:42Z"
+        },
+        {
+          "title": "Did The Market Read First Solar Stock Right?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/did-market-read-first-solar-154151558.html",
+          "source": "Trefis",
+          "time": "2026-11-18T15:41:51Z"
+        },
+        {
+          "title": "Why Did Nextpower Stock Fall?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-nextpower-stock-fall-120451917.html",
+          "source": "Trefis",
+          "time": "2026-11-18T12:04:51Z"
+        },
+        {
+          "title": "Enphase Energy (ENPH) Hits New Record Low. Why Investors Are Losing Confidence",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/enphase-energy-enph-hits-record-044822269.html",
+          "source": "Insider Monkey",
+          "time": "2026-11-18T04:48:22Z"
+        }
+      ],
+      "top_companies": [
+        {
+          "ticker": "600900.SS",
+          "name": "CHINA YANGTZE POWER CO",
+          "market_cap": 773685051392,
+          "pe": 23.774435,
+          "revenue_growth": -13.5,
+          "price": 31.62,
+          "change_pct": 2.3963785
+        },
+        {
+          "ticker": "SUZLON.BO",
+          "name": "SUZLON ENERGY LTD.",
+          "market_cap": 507937751040,
+          "pe": 22.530489,
+          "revenue_growth": 26.0,
+          "price": 36.95,
+          "change_pct": 0.13549928
+        },
+        {
+          "ticker": "VWS.CO",
+          "name": "Vestas Wind Systems A/S",
+          "market_cap": 168174993408,
+          "pe": 19.93678,
+          "revenue_growth": 6.3,
+          "price": 173.45,
+          "change_pct": -4.6191964
+        },
+        {
+          "ticker": "BE",
+          "name": "Bloom Energy Corporation",
+          "market_cap": 44172591104,
+          "pe": 90.548485,
+          "revenue_growth": 138.1,
+          "price": 149.405,
+          "change_pct": -11.126645
+        },
+        {
+          "ticker": "EQTL3.SA",
+          "name": "EQUATORIAL  ON      NM",
+          "market_cap": 41332232192,
+          "pe": 53.93443,
+          "revenue_growth": -1.2,
+          "price": 32.9,
+          "change_pct": -2.2868924
+        },
+        {
+          "ticker": "EDP.LS",
+          "name": "EDP, SA",
+          "market_cap": 20049518592,
+          "pe": 14.264706,
+          "revenue_growth": 15.7,
+          "price": 4.85,
+          "change_pct": -0.26732492
+        },
+        {
+          "ticker": "FSLR",
+          "name": "First Solar, Inc.",
+          "market_cap": 15854543872,
+          "pe": 8.53152,
+          "revenue_growth": -22.8,
+          "price": 147.51,
+          "change_pct": -2.9220154
+        },
+        {
+          "ticker": "NXT",
+          "name": "Nextpower Inc.",
+          "market_cap": 10763109376,
+          "pe": 17.779596,
+          "revenue_growth": 22.5,
+          "price": 70.585,
+          "change_pct": -7.0638547
+        },
+        {
+          "ticker": "ENPH",
+          "name": "Enphase Energy, Inc.",
+          "market_cap": 2773558784,
+          "pe": 31.286419,
+          "revenue_growth": -28.5,
+          "price": 20.9619,
+          "change_pct": -4.6319327
+        },
+        {
+          "ticker": "PLUG",
+          "name": "Plug Power, Inc.",
+          "market_cap": 1370474752,
+          "pe": null,
+          "revenue_growth": 13.3,
+          "price": 0.9797,
+          "change_pct": -4.8834896
+        }
+      ]
+    },
+    {
+      "rank": 10,
       "slug": "fintech",
       "name": "金融科技",
       "name_en": "Fintech",
@@ -1188,18 +1335,18 @@
       "etf_name": "Global X FinTech ETF",
       "bellwether": "SQ",
       "metrics": {
-        "pe_ratio": 15.9,
+        "pe_ratio": 15.3,
         "revenue_growth": null,
         "profit_margin": null,
         "total_assets": 148504560
       },
       "returns": {
-        "1m": -7.4,
-        "3m": -15.9,
-        "6m": -9.2,
-        "1y": -21.9
+        "1m": -12.9,
+        "3m": -19.8,
+        "6m": -14.0,
+        "1y": -23.1
       },
-      "hot_score": -15.9,
+      "hot_score": -19.8,
       "news": [
         {
           "title": "Block earnings lift outlook, shares as Cash App and Square drive growth",
@@ -1236,239 +1383,92 @@
         {
           "ticker": "INTU",
           "name": "Intuit Inc.",
-          "market_cap": 83396337664,
-          "pe": 18.959297,
-          "revenue_growth": 13.7,
-          "price": 312.07,
-          "change_pct": -0.37351006
+          "market_cap": 74160668672,
+          "pe": 16.859661,
+          "revenue_growth": 12.1,
+          "price": 277.51,
+          "change_pct": -10.486414
         },
         {
           "ticker": "HOOD",
           "name": "Robinhood Markets, Inc.",
-          "market_cap": 63890214912,
-          "pe": 32.696037,
+          "market_cap": 59130761216,
+          "pe": 30.260368,
           "revenue_growth": 11.8,
-          "price": 70.9504,
-          "change_pct": 2.573953
+          "price": 65.665,
+          "change_pct": -4.3481436
         },
         {
           "ticker": "PYPL",
           "name": "PayPal Holdings, Inc.",
-          "market_cap": 47364136960,
-          "pe": 10.88168,
+          "market_cap": 45702819840,
+          "pe": 10.500001,
           "revenue_growth": 2.0,
-          "price": 57.02,
-          "change_pct": -1.5028484
+          "price": 55.02,
+          "change_pct": -2.3948882
         },
         {
           "ticker": "XYZ",
           "name": "Block, Inc.",
-          "market_cap": 46796050432,
-          "pe": 101.85527,
+          "market_cap": 43622309888,
+          "pe": 94.94737,
           "revenue_growth": 9.9,
-          "price": 77.41,
-          "change_pct": -2.025058
+          "price": 72.16,
+          "change_pct": -2.7886293
         },
         {
           "ticker": "FISV",
           "name": "Fiserv, Inc.",
-          "market_cap": 30622005248,
+          "market_cap": 30183065600,
           "pe": null,
           "revenue_growth": null,
-          "price": 57.555,
-          "change_pct": -4.8363085
+          "price": 56.73,
+          "change_pct": 0.19427872
         },
         {
           "ticker": "COIN",
           "name": "Coinbase Global, Inc.",
-          "market_cap": 29703280640,
+          "market_cap": 28469985280,
           "pe": null,
           "revenue_growth": -34.2,
-          "price": 112.188,
-          "change_pct": 1.5189382
+          "price": 107.5299,
+          "change_pct": -1.2309204
         },
         {
           "ticker": "ADYEN.AS",
           "name": "ADYEN",
-          "market_cap": 25366980608,
-          "pe": 22.58572,
+          "market_cap": 25291220992,
+          "pe": 22.518269,
           "revenue_growth": 18.9,
-          "price": 803.6,
-          "change_pct": -3.9215744
+          "price": 801.2,
+          "change_pct": -0.6449228
         },
         {
           "ticker": "GPN",
           "name": "Global Payments Inc.",
-          "market_cap": 22446409728,
-          "pe": 151.46428,
+          "market_cap": 22558879744,
+          "pe": 152.22322,
           "revenue_growth": 63.7,
-          "price": 84.82,
-          "change_pct": -0.9343647
+          "price": 85.245,
+          "change_pct": 2.065381
         },
         {
           "ticker": "SOFI",
           "name": "SoFi Technologies, Inc.",
-          "market_cap": 18169634816,
-          "pe": 25.454363,
+          "market_cap": 16917349376,
+          "pe": 23.699999,
           "revenue_growth": 43.9,
-          "price": 13.9999,
-          "change_pct": -0.7802962
+          "price": 13.035,
+          "change_pct": -3.6578598
         },
         {
           "ticker": "FIS",
           "name": "Fidelity National Information S",
-          "market_cap": 13335215104,
-          "pe": 3.8669658,
+          "market_cap": 13600681984,
+          "pe": 3.9439461,
           "revenue_growth": 27.1,
-          "price": 25.87,
-          "change_pct": -3.217354
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "slug": "semiconductors",
-      "name": "半導體",
-      "name_en": "Semiconductors",
-      "description": "AI 晶片需求帶動先進製程與封裝產能吃緊，全球半導體市場規模持續創新高",
-      "etf": "SMH",
-      "etf_name": "VanEck Semiconductor ETF",
-      "bellwether": "NVDA",
-      "metrics": {
-        "pe_ratio": 25.1,
-        "revenue_growth": 103.2,
-        "profit_margin": 62.5,
-        "total_assets": 66438197248
-      },
-      "returns": {
-        "1m": -15.2,
-        "3m": -17.1,
-        "6m": -14.5,
-        "1y": 37.4
-      },
-      "hot_score": -17.1,
-      "news": [
-        {
-          "title": "Nvidia, Broadcom, Micron stocks rise leading up to Anthropic's first trade",
-          "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-pare-gains-leading-up-to-anthropics-first-trade-155941221.html",
-          "source": "Yahoo Finance",
-          "time": "2026-11-19T13:44:08Z"
-        },
-        {
-          "title": "Anthropic or Nvidia? How they're 2 different bets on the AI value chain",
-          "url": "https://finance.yahoo.com/video/anthropic-or-nvidia-how-theyre-2-different-bets-on-the-ai-value-chain-160421877.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-11-19T16:04:21Z"
-        },
-        {
-          "title": "Nvidia interim CEO says 'we've got this' amid leadership transition",
-          "url": "https://finance.yahoo.com/video/nvidia-interim-ceo-says-weve-got-this-amid-leadership-transition-140536009.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-11-19T14:05:36Z"
-        },
-        {
-          "title": "Stalemates over semiconductors and rare earth minerals appear little changed as Trump heads home from China",
-          "url": "https://finance.yahoo.com/markets/article/stalemates-over-semiconductors-and-rare-earth-minerals-appear-little-changed-as-trump-heads-home-from-china-121555352.html",
-          "source": "Yahoo Finance",
-          "time": "2026-11-19T12:15:55Z"
-        },
-        {
-          "title": "Blacklisted Chinese server maker kept getting AMD firmware updates: Hunterbrook",
-          "url": "https://finance.yahoo.com/video/blacklisted-chinese-server-maker-kept-getting-amd-firmware-updates-hunterbrook-162807931.html",
-          "source": "Yahoo Finance Video",
-          "time": "2026-11-19T16:28:07Z"
-        }
-      ],
-      "top_companies": [
-        {
-          "ticker": "NVDA",
-          "name": "NVIDIA Corporation",
-          "market_cap": 3693766508544,
-          "pe": 16.43072,
-          "revenue_growth": 103.2,
-          "price": 152.97,
-          "change_pct": 1.3314748
-        },
-        {
-          "ticker": "TSM",
-          "name": "Taiwan Semiconductor Manufactur",
-          "market_cap": 1882404421632,
-          "pe": 23.522036,
-          "revenue_growth": 50.9,
-          "price": 362.945,
-          "change_pct": 0.08962887
-        },
-        {
-          "ticker": "AVGO",
-          "name": "Broadcom Inc.",
-          "market_cap": 1712993206272,
-          "pe": 45.829502,
-          "revenue_growth": 85.5,
-          "price": 358.845,
-          "change_pct": 1.3543323
-        },
-        {
-          "ticker": "MU",
-          "name": "Micron Technology, Inc.",
-          "market_cap": 823879925760,
-          "pe": 9.796584,
-          "revenue_growth": 379.3,
-          "price": 728.1801,
-          "change_pct": 3.2474482
-        },
-        {
-          "ticker": "AMD",
-          "name": "Advanced Micro Devices, Inc.",
-          "market_cap": 822302801920,
-          "pe": 106.1624,
-          "revenue_growth": 44.7,
-          "price": 496.765,
-          "change_pct": -6.281363
-        },
-        {
-          "ticker": "INTC",
-          "name": "Intel Corporation",
-          "market_cap": 304071147520,
-          "pe": null,
-          "revenue_growth": 20.9,
-          "price": 57.21,
-          "change_pct": 4.64606
-        },
-        {
-          "ticker": "LRCX",
-          "name": "Lam Research Corporation",
-          "market_cap": 270757806080,
-          "pe": 32.302532,
-          "revenue_growth": 54.4,
-          "price": 216.56,
-          "change_pct": 2.4021194
-        },
-        {
-          "ticker": "TXN",
-          "name": "Texas Instruments Incorporated",
-          "market_cap": 267003691008,
-          "pe": 37.898834,
-          "revenue_growth": 27.7,
-          "price": 292.2,
-          "change_pct": -0.07860028
-        },
-        {
-          "ticker": "KLAC",
-          "name": "KLA Corporation",
-          "market_cap": 191835160576,
-          "pe": 36.89975,
-          "revenue_growth": 28.9,
-          "price": 147.23,
-          "change_pct": 1.6220256
-        },
-        {
-          "ticker": "ADI",
-          "name": "Analog Devices, Inc.",
-          "market_cap": 186690961408,
-          "pe": 45.757126,
-          "revenue_growth": 39.6,
-          "price": 385.275,
-          "change_pct": 0.8626061
+          "price": 26.385,
+          "change_pct": 1.7154961
         }
       ]
     }
